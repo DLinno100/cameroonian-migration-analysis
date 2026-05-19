@@ -1,0 +1,1031 @@
+destination_country,origin_country,year,value,source,dataset,measure_type,period,analysis_question,reason,sub_reason,nature
+Australia,Cameroon,2015,26.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Australia,Cameroon,2016,18.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Australia,Cameroon,2017,11.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Australia,Cameroon,2018,15.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Australia,Cameroon,2019,15.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Australia,Cameroon,2020,19.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Australia,Cameroon,2021,25.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Australia,Cameroon,2015,0.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Australia,Cameroon,2016,0.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Australia,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Australia,Cameroon,2016,18.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Australia,Cameroon,2019,5.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Australia,Cameroon,2020,5.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Australia,Cameroon,2021,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Austria,Cameroon,2015,93.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Austria,Cameroon,2016,72.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Austria,Cameroon,2017,85.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Austria,Cameroon,2018,58.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Austria,Cameroon,2019,41.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Austria,Cameroon,2020,42.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Austria,Cameroon,2021,55.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Austria,Cameroon,2015,26.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Austria,Cameroon,2016,40.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Austria,Cameroon,2017,49.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Austria,Cameroon,2018,55.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Austria,Cameroon,2019,41.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Austria,Cameroon,2020,23.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Austria,Cameroon,2021,36.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Austria,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Austria,Cameroon,2016,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Austria,Cameroon,2017,60.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Austria,Cameroon,2018,30.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Austria,Cameroon,2019,30.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Austria,Cameroon,2020,20.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Austria,Cameroon,2021,30.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Belgium,Cameroon,2015,1504.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Belgium,Cameroon,2016,1611.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Belgium,Cameroon,2017,1698.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Belgium,Cameroon,2018,1754.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Belgium,Cameroon,2019,1775.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Belgium,Cameroon,2020,1735.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Belgium,Cameroon,2021,2765.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Belgium,Cameroon,2015,527.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Belgium,Cameroon,2016,519.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Belgium,Cameroon,2017,409.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Belgium,Cameroon,2018,424.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Belgium,Cameroon,2019,329.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Belgium,Cameroon,2020,418.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Belgium,Cameroon,2021,470.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Belgium,Cameroon,2015,278.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Belgium,Cameroon,2016,257.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Belgium,Cameroon,2017,350.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Belgium,Cameroon,2018,355.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Belgium,Cameroon,2019,390.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Belgium,Cameroon,2020,270.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Belgium,Cameroon,2021,400.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Canada,Cameroon,2015,2034.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Canada,Cameroon,2016,2110.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Canada,Cameroon,2017,2285.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Canada,Cameroon,2018,2275.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Canada,Cameroon,2019,2950.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Canada,Cameroon,2020,1595.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Canada,Cameroon,2021,2560.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Canada,Cameroon,2015,210.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Canada,Cameroon,2016,182.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Canada,Cameroon,2017,245.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Canada,Cameroon,2018,386.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Canada,Cameroon,2019,407.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Canada,Cameroon,2020,121.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Canada,Cameroon,2021,126.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Czechia,Cameroon,2015,8.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Czechia,Cameroon,2016,5.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Czechia,Cameroon,2015,6.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Czechia,Cameroon,2016,4.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Czechia,Cameroon,2017,5.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Czechia,Cameroon,2018,7.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Czechia,Cameroon,2019,7.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Czechia,Cameroon,2020,4.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Czechia,Cameroon,2021,3.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Czechia,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Czechia,Cameroon,2016,4.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Czechia,Cameroon,2017,5.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Czechia,Cameroon,2018,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Czechia,Cameroon,2019,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Czechia,Cameroon,2020,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Czechia,Cameroon,2021,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Denmark,Cameroon,2015,88.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Denmark,Cameroon,2016,87.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Denmark,Cameroon,2017,71.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Denmark,Cameroon,2018,57.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Denmark,Cameroon,2019,46.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Denmark,Cameroon,2020,47.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Denmark,Cameroon,2021,54.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Denmark,Cameroon,2015,54.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Denmark,Cameroon,2016,56.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Denmark,Cameroon,2017,71.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Denmark,Cameroon,2018,52.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Denmark,Cameroon,2019,59.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Denmark,Cameroon,2020,31.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Denmark,Cameroon,2021,35.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Denmark,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Denmark,Cameroon,2016,11.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Denmark,Cameroon,2017,15.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Denmark,Cameroon,2018,10.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Denmark,Cameroon,2019,20.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Denmark,Cameroon,2020,5.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Denmark,Cameroon,2021,5.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Finland,Cameroon,2015,67.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Finland,Cameroon,2016,112.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Finland,Cameroon,2017,87.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Finland,Cameroon,2018,64.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Finland,Cameroon,2019,80.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Finland,Cameroon,2020,111.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Finland,Cameroon,2021,122.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Finland,Cameroon,2015,4.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Finland,Cameroon,2016,6.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Finland,Cameroon,2017,4.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Finland,Cameroon,2018,14.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Finland,Cameroon,2019,12.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Finland,Cameroon,2020,16.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Finland,Cameroon,2021,7.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Finland,Cameroon,2015,28.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Finland,Cameroon,2016,86.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Finland,Cameroon,2017,45.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Finland,Cameroon,2018,55.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Finland,Cameroon,2019,60.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Finland,Cameroon,2020,25.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Finland,Cameroon,2021,25.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+France,Cameroon,2015,3164.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+France,Cameroon,2016,3197.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+France,Cameroon,2017,3446.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+France,Cameroon,2018,3400.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+France,Cameroon,2019,3647.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+France,Cameroon,2020,3384.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+France,Cameroon,2021,4024.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+France,Cameroon,2022,3815.0,oecd,oecd_migration_database,inflow,post_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+France,Cameroon,2015,384.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+France,Cameroon,2016,397.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+France,Cameroon,2017,605.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+France,Cameroon,2018,1020.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+France,Cameroon,2019,1290.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+France,Cameroon,2020,855.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+France,Cameroon,2021,975.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Germany,Cameroon,2015,3189.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Germany,Cameroon,2016,3109.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Germany,Cameroon,2017,2583.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Germany,Cameroon,2018,3790.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Germany,Cameroon,2019,4228.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Germany,Cameroon,2020,1889.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Germany,Cameroon,2021,1978.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Germany,Cameroon,2015,980.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Germany,Cameroon,2016,1301.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Germany,Cameroon,2017,1095.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Germany,Cameroon,2018,1251.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Germany,Cameroon,2019,1543.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Germany,Cameroon,2020,1218.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Germany,Cameroon,2021,977.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Germany,Cameroon,2015,964.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Germany,Cameroon,2016,1351.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Germany,Cameroon,2017,1100.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Germany,Cameroon,2018,920.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Germany,Cameroon,2019,815.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Germany,Cameroon,2020,475.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Germany,Cameroon,2021,385.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Greece,Cameroon,2015,155.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Greece,Cameroon,2016,211.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Greece,Cameroon,2017,455.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Greece,Cameroon,2018,1035.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Greece,Cameroon,2019,855.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Greece,Cameroon,2020,395.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Greece,Cameroon,2021,190.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Hungary,Cameroon,2015,63.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Hungary,Cameroon,2016,95.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Hungary,Cameroon,2017,80.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Hungary,Cameroon,2018,40.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Hungary,Cameroon,2019,32.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Hungary,Cameroon,2020,13.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Hungary,Cameroon,2021,17.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Hungary,Cameroon,2015,25.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Hungary,Cameroon,2016,22.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Hungary,Cameroon,2017,41.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Hungary,Cameroon,2018,13.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Hungary,Cameroon,2019,3.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Hungary,Cameroon,2020,59.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Hungary,Cameroon,2021,38.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Hungary,Cameroon,2015,628.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Hungary,Cameroon,2016,9.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Hungary,Cameroon,2017,10.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Hungary,Cameroon,2018,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Hungary,Cameroon,2019,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Hungary,Cameroon,2020,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Hungary,Cameroon,2021,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Iceland,Cameroon,2015,3.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Iceland,Cameroon,2016,4.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Iceland,Cameroon,2017,1.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Iceland,Cameroon,2018,0.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Iceland,Cameroon,2019,7.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Iceland,Cameroon,2020,6.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Iceland,Cameroon,2021,3.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Iceland,Cameroon,2015,2.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Iceland,Cameroon,2016,1.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Iceland,Cameroon,2017,3.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Iceland,Cameroon,2018,1.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Iceland,Cameroon,2019,1.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Iceland,Cameroon,2020,4.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Iceland,Cameroon,2021,0.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Iceland,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Iceland,Cameroon,2016,1.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Iceland,Cameroon,2018,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Iceland,Cameroon,2019,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Iceland,Cameroon,2020,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Iceland,Cameroon,2021,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Ireland,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Ireland,Cameroon,2016,4.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Ireland,Cameroon,2017,20.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Ireland,Cameroon,2018,25.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Ireland,Cameroon,2019,30.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Ireland,Cameroon,2020,10.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Ireland,Cameroon,2021,5.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Italy,Cameroon,2015,821.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Italy,Cameroon,2016,1242.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Italy,Cameroon,2017,2006.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Italy,Cameroon,2018,1700.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Italy,Cameroon,2019,991.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Italy,Cameroon,2020,685.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Italy,Cameroon,2021,818.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Italy,Cameroon,2015,68.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Italy,Cameroon,2016,55.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Italy,Cameroon,2017,88.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Italy,Cameroon,2018,67.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Italy,Cameroon,2019,179.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Italy,Cameroon,2020,92.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Italy,Cameroon,2021,196.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Italy,Cameroon,2015,332.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Italy,Cameroon,2016,1989.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Italy,Cameroon,2017,1995.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Italy,Cameroon,2018,495.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Italy,Cameroon,2019,175.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Italy,Cameroon,2020,185.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Italy,Cameroon,2021,335.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Japan,Cameroon,2015,131.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Japan,Cameroon,2016,138.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Japan,Cameroon,2017,209.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Japan,Cameroon,2018,136.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Japan,Cameroon,2019,211.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Japan,Cameroon,2020,42.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Japan,Cameroon,2021,22.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Japan,Cameroon,2015,121.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Japan,Cameroon,2016,104.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Japan,Cameroon,2017,140.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Japan,Cameroon,2018,110.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Japan,Cameroon,2019,161.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Japan,Cameroon,2020,35.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Japan,Cameroon,2021,41.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Japan,Cameroon,2015,51.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Japan,Cameroon,2016,66.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Japan,Cameroon,2017,98.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Japan,Cameroon,2018,203.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Japan,Cameroon,2019,234.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Japan,Cameroon,2020,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Japan,Cameroon,2021,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Korea,Cameroon,2015,157.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Korea,Cameroon,2016,252.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Korea,Cameroon,2017,240.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Korea,Cameroon,2018,174.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Korea,Cameroon,2019,105.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Korea,Cameroon,2020,53.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Korea,Cameroon,2021,71.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Korea,Cameroon,2015,102.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Korea,Cameroon,2016,139.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Korea,Cameroon,2017,147.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Korea,Cameroon,2018,145.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Korea,Cameroon,2019,202.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Korea,Cameroon,2020,117.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Korea,Cameroon,2021,108.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Korea,Cameroon,2015,70.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Korea,Cameroon,2016,121.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Korea,Cameroon,2017,151.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Korea,Cameroon,2018,185.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Korea,Cameroon,2019,120.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Korea,Cameroon,2020,62.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Korea,Cameroon,2021,48.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Luxembourg,Cameroon,2015,77.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Luxembourg,Cameroon,2016,70.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Luxembourg,Cameroon,2017,114.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Luxembourg,Cameroon,2018,155.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Luxembourg,Cameroon,2019,130.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Luxembourg,Cameroon,2020,125.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Luxembourg,Cameroon,2021,192.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Luxembourg,Cameroon,2015,24.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Luxembourg,Cameroon,2016,14.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Luxembourg,Cameroon,2017,23.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Luxembourg,Cameroon,2018,40.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Luxembourg,Cameroon,2019,83.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Luxembourg,Cameroon,2020,27.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Luxembourg,Cameroon,2021,55.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Luxembourg,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Luxembourg,Cameroon,2016,18.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Luxembourg,Cameroon,2017,15.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Luxembourg,Cameroon,2018,15.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Luxembourg,Cameroon,2019,25.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Luxembourg,Cameroon,2020,20.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Luxembourg,Cameroon,2021,25.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Mexico,Cameroon,2015,12.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Mexico,Cameroon,2016,15.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Mexico,Cameroon,2017,14.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Mexico,Cameroon,2018,15.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Mexico,Cameroon,2019,21.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Mexico,Cameroon,2020,25.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Mexico,Cameroon,2021,18.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Mexico,Cameroon,2022,18.0,oecd,oecd_migration_database,inflow,post_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Mexico,Cameroon,2016,23.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Mexico,Cameroon,2017,105.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Mexico,Cameroon,2019,513.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Mexico,Cameroon,2020,50.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Mexico,Cameroon,2021,81.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Netherlands,Cameroon,2015,68.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Netherlands,Cameroon,2016,68.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Netherlands,Cameroon,2017,95.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Netherlands,Cameroon,2018,98.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Netherlands,Cameroon,2019,113.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Netherlands,Cameroon,2020,96.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Netherlands,Cameroon,2021,115.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Netherlands,Cameroon,2015,45.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Netherlands,Cameroon,2016,46.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Netherlands,Cameroon,2017,29.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Netherlands,Cameroon,2018,32.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Netherlands,Cameroon,2019,31.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Netherlands,Cameroon,2020,27.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Netherlands,Cameroon,2021,50.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Netherlands,Cameroon,2015,11.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Netherlands,Cameroon,2016,18.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Netherlands,Cameroon,2017,40.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Netherlands,Cameroon,2018,30.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Netherlands,Cameroon,2019,50.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Netherlands,Cameroon,2020,35.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Netherlands,Cameroon,2021,15.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+New Zealand,Cameroon,2015,10.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+New Zealand,Cameroon,2016,9.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+New Zealand,Cameroon,2017,2.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+New Zealand,Cameroon,2018,2.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+New Zealand,Cameroon,2019,15.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+New Zealand,Cameroon,2020,9.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+New Zealand,Cameroon,2022,6.0,oecd,oecd_migration_database,inflow,post_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+New Zealand,Cameroon,2015,1.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+New Zealand,Cameroon,2016,4.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+New Zealand,Cameroon,2017,3.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+New Zealand,Cameroon,2018,2.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+New Zealand,Cameroon,2019,2.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+New Zealand,Cameroon,2020,3.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+New Zealand,Cameroon,2022,3.0,oecd,oecd_migration_database,outflow,post_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+New Zealand,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+New Zealand,Cameroon,2016,1.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Norway,Cameroon,2015,56.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Norway,Cameroon,2016,37.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Norway,Cameroon,2017,56.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Norway,Cameroon,2018,46.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Norway,Cameroon,2019,48.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Norway,Cameroon,2020,22.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Norway,Cameroon,2021,40.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Norway,Cameroon,2015,20.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Norway,Cameroon,2016,20.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Norway,Cameroon,2017,21.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Norway,Cameroon,2018,23.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Norway,Cameroon,2019,11.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Norway,Cameroon,2020,39.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Norway,Cameroon,2021,31.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Norway,Cameroon,2015,10.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Norway,Cameroon,2016,4.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Norway,Cameroon,2017,5.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Norway,Cameroon,2018,10.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Norway,Cameroon,2019,15.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Norway,Cameroon,2020,5.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Norway,Cameroon,2021,5.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Poland,Cameroon,2015,96.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Poland,Cameroon,2016,81.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Poland,Cameroon,2017,65.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Poland,Cameroon,2018,101.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Poland,Cameroon,2019,92.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Poland,Cameroon,2020,67.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Poland,Cameroon,2021,131.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Poland,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Poland,Cameroon,2016,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Poland,Cameroon,2018,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Poland,Cameroon,2019,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Poland,Cameroon,2020,5.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Poland,Cameroon,2021,10.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Portugal,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Portugal,Cameroon,2016,10.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Portugal,Cameroon,2017,30.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Portugal,Cameroon,2018,25.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Portugal,Cameroon,2019,45.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Portugal,Cameroon,2020,15.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Portugal,Cameroon,2021,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Slovak Republic,Cameroon,2019,1.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Slovak Republic,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Slovak Republic,Cameroon,2016,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Slovak Republic,Cameroon,2018,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Slovak Republic,Cameroon,2019,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Slovak Republic,Cameroon,2020,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Slovak Republic,Cameroon,2021,5.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Spain,Cameroon,2015,443.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Spain,Cameroon,2016,480.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Spain,Cameroon,2017,622.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Spain,Cameroon,2018,541.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Spain,Cameroon,2019,595.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Spain,Cameroon,2015,352.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Spain,Cameroon,2016,336.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Spain,Cameroon,2017,436.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Spain,Cameroon,2018,350.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Spain,Cameroon,2019,374.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Spain,Cameroon,2015,136.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Spain,Cameroon,2016,124.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Spain,Cameroon,2017,740.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Spain,Cameroon,2018,260.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Spain,Cameroon,2019,225.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Spain,Cameroon,2020,65.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Spain,Cameroon,2021,135.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Sweden,Cameroon,2015,111.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Sweden,Cameroon,2016,107.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Sweden,Cameroon,2017,127.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Sweden,Cameroon,2018,170.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Sweden,Cameroon,2019,245.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Sweden,Cameroon,2020,169.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Sweden,Cameroon,2021,162.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Sweden,Cameroon,2015,128.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Sweden,Cameroon,2016,31.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Sweden,Cameroon,2017,17.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Sweden,Cameroon,2018,19.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Sweden,Cameroon,2019,13.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Sweden,Cameroon,2020,13.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Sweden,Cameroon,2021,26.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Sweden,Cameroon,2015,44.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Sweden,Cameroon,2016,50.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Sweden,Cameroon,2017,70.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Sweden,Cameroon,2018,125.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Sweden,Cameroon,2019,130.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Sweden,Cameroon,2020,125.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Sweden,Cameroon,2021,90.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Switzerland,Cameroon,2015,277.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Switzerland,Cameroon,2016,251.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Switzerland,Cameroon,2017,242.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Switzerland,Cameroon,2018,204.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Switzerland,Cameroon,2019,219.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Switzerland,Cameroon,2020,249.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Switzerland,Cameroon,2021,224.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Switzerland,Cameroon,2015,50.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Switzerland,Cameroon,2016,66.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Switzerland,Cameroon,2017,63.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Switzerland,Cameroon,2018,52.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Switzerland,Cameroon,2019,47.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Switzerland,Cameroon,2020,33.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Switzerland,Cameroon,2021,50.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Switzerland,Cameroon,2015,44.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Switzerland,Cameroon,2016,251.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Switzerland,Cameroon,2017,210.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Switzerland,Cameroon,2018,60.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Switzerland,Cameroon,2019,50.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Switzerland,Cameroon,2020,40.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Switzerland,Cameroon,2021,35.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Türkiye,Cameroon,2016,304.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Türkiye,Cameroon,2017,280.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Türkiye,Cameroon,2018,329.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Türkiye,Cameroon,2019,560.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Türkiye,Cameroon,2020,339.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Türkiye,Cameroon,2021,1207.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Türkiye,Cameroon,2015,14.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Türkiye,Cameroon,2016,26.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Türkiye,Cameroon,2019,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Türkiye,Cameroon,2020,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Türkiye,Cameroon,2021,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United Kingdom,Cameroon,2015,151.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United Kingdom,Cameroon,2016,185.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United Kingdom,Cameroon,2017,235.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United Kingdom,Cameroon,2018,230.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United Kingdom,Cameroon,2019,254.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United Kingdom,Cameroon,2020,129.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United Kingdom,Cameroon,2021,124.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United States,Cameroon,2015,4311.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+United States,Cameroon,2016,4763.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+United States,Cameroon,2017,4602.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+United States,Cameroon,2018,4105.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+United States,Cameroon,2019,4281.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+United States,Cameroon,2020,2747.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+United States,Cameroon,2021,3506.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+United States,Cameroon,2015,821.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United States,Cameroon,2016,1348.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United States,Cameroon,2017,1840.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United States,Cameroon,2018,1383.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United States,Cameroon,2019,2147.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United States,Cameroon,2020,1708.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+United States,Cameroon,2021,412.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Chile,Cameroon,2015,2.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Chile,Cameroon,2016,6.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Chile,Cameroon,2016,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Estonia,Cameroon,2015,12.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Estonia,Cameroon,2016,15.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Estonia,Cameroon,2017,29.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Estonia,Cameroon,2018,22.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Estonia,Cameroon,2019,25.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Estonia,Cameroon,2017,7.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Estonia,Cameroon,2018,2.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Estonia,Cameroon,2019,2.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Estonia,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Estonia,Cameroon,2016,3.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Estonia,Cameroon,2018,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Estonia,Cameroon,2019,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Estonia,Cameroon,2020,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Estonia,Cameroon,2021,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Israel,Cameroon,2019,11.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Israel,Cameroon,2020,5.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Israel,Cameroon,2021,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Lithuania,Cameroon,2016,5.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Lithuania,Cameroon,2017,13.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Lithuania,Cameroon,2018,23.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Lithuania,Cameroon,2019,64.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Lithuania,Cameroon,2020,58.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Lithuania,Cameroon,2021,52.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Lithuania,Cameroon,2019,7.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Lithuania,Cameroon,2020,17.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Lithuania,Cameroon,2021,39.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Lithuania,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Lithuania,Cameroon,2016,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Lithuania,Cameroon,2018,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Lithuania,Cameroon,2019,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Lithuania,Cameroon,2020,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Lithuania,Cameroon,2021,120.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Slovenia,Cameroon,2015,3.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Slovenia,Cameroon,2016,1.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Slovenia,Cameroon,2017,8.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Slovenia,Cameroon,2018,2.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Slovenia,Cameroon,2019,3.0,oecd,oecd_migration_database,inflow,pre_covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Slovenia,Cameroon,2020,2.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Slovenia,Cameroon,2021,0.0,oecd,oecd_migration_database,inflow,covid,Q1_destinations,unknown,not_applicable,Inflows of foreign population by nationality
+Slovenia,Cameroon,2015,2.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Slovenia,Cameroon,2016,2.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Slovenia,Cameroon,2017,2.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Slovenia,Cameroon,2018,2.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Slovenia,Cameroon,2019,2.0,oecd,oecd_migration_database,outflow,pre_covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Slovenia,Cameroon,2020,3.0,oecd,oecd_migration_database,outflow,covid,secondary_outflow,not_applicable,not_applicable,Outflows of foreign population by nationality
+Slovenia,Cameroon,2015,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Slovenia,Cameroon,2016,3.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Slovenia,Cameroon,2018,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Slovenia,Cameroon,2019,0.0,oecd,oecd_migration_database,asylum_inflow,pre_covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Slovenia,Cameroon,2020,0.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Slovenia,Cameroon,2021,25.0,oecd,oecd_migration_database,asylum_inflow,covid,Q2_entry_reasons,other,asylum,Inflows of asylum seekers by nationality
+Australia,Cameroon,2015,450.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Australia,Cameroon,2016,480.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Australia,Cameroon,2017,510.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Australia,Cameroon,2018,540.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Australia,Cameroon,2019,570.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Australia,Cameroon,2020,610.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Australia,Cameroon,2021,610.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Lithuania,Cameroon,2015,7.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Lithuania,Cameroon,2016,0.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Lithuania,Cameroon,2017,2.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Lithuania,Cameroon,2018,10.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Lithuania,Cameroon,2019,30.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Lithuania,Cameroon,2020,88.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Lithuania,Cameroon,2021,130.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Lithuania,Cameroon,2022,26.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+United Kingdom,Cameroon,2015,11000.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+United Kingdom,Cameroon,2017,12000.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+United Kingdom,Cameroon,2018,1000.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Netherlands,Cameroon,2015,1860.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Netherlands,Cameroon,2016,1865.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Netherlands,Cameroon,2017,1860.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Netherlands,Cameroon,2018,1886.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Netherlands,Cameroon,2019,1943.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Netherlands,Cameroon,2020,2031.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Netherlands,Cameroon,2021,2094.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Netherlands,Cameroon,2022,2150.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Hungary,Cameroon,2015,266.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Hungary,Cameroon,2016,281.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Hungary,Cameroon,2017,331.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Hungary,Cameroon,2018,332.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Hungary,Cameroon,2019,312.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Hungary,Cameroon,2020,303.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Hungary,Cameroon,2021,256.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Hungary,Cameroon,2022,230.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovenia,Cameroon,2015,17.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovenia,Cameroon,2016,18.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovenia,Cameroon,2017,15.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovenia,Cameroon,2018,22.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovenia,Cameroon,2019,21.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovenia,Cameroon,2020,22.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovenia,Cameroon,2021,22.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovenia,Cameroon,2022,21.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Italy,Cameroon,2015,11327.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Italy,Cameroon,2016,12096.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Italy,Cameroon,2017,13028.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Italy,Cameroon,2018,14316.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Italy,Cameroon,2019,14973.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Italy,Cameroon,2020,15220.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Italy,Cameroon,2021,15214.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Italy,Cameroon,2022,14756.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Denmark,Cameroon,2015,721.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Denmark,Cameroon,2016,755.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Denmark,Cameroon,2017,796.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Denmark,Cameroon,2018,813.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Denmark,Cameroon,2019,835.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Denmark,Cameroon,2020,840.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Denmark,Cameroon,2021,866.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Denmark,Cameroon,2022,910.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Switzerland,Cameroon,2015,4068.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Switzerland,Cameroon,2016,4170.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Switzerland,Cameroon,2017,4164.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Switzerland,Cameroon,2018,4150.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Switzerland,Cameroon,2019,4134.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Switzerland,Cameroon,2020,4167.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Switzerland,Cameroon,2021,4259.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Switzerland,Cameroon,2022,4355.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+United States,Cameroon,2015,28926.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+United States,Cameroon,2016,24611.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+United States,Cameroon,2017,32946.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+United States,Cameroon,2018,38824.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+United States,Cameroon,2019,38790.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+United States,Cameroon,2021,34849.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovak Republic,Cameroon,2015,10.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovak Republic,Cameroon,2016,12.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovak Republic,Cameroon,2017,13.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovak Republic,Cameroon,2018,13.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovak Republic,Cameroon,2019,13.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovak Republic,Cameroon,2020,14.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovak Republic,Cameroon,2021,15.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovak Republic,Cameroon,2022,17.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Spain,Cameroon,2015,5023.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Spain,Cameroon,2016,5048.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Spain,Cameroon,2017,5057.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Spain,Cameroon,2018,5201.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Spain,Cameroon,2019,5328.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Spain,Cameroon,2020,5468.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Estonia,Cameroon,2015,12.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Estonia,Cameroon,2016,21.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Estonia,Cameroon,2017,30.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Estonia,Cameroon,2018,54.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Estonia,Cameroon,2019,73.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Estonia,Cameroon,2020,92.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Czechia,Cameroon,2015,99.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Czechia,Cameroon,2016,97.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Czechia,Cameroon,2017,107.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Czechia,Cameroon,2018,115.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Czechia,Cameroon,2019,124.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Czechia,Cameroon,2020,123.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Czechia,Cameroon,2021,146.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Czechia,Cameroon,2022,120.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Austria,Cameroon,2015,555.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Austria,Cameroon,2016,606.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Austria,Cameroon,2017,613.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Austria,Cameroon,2018,629.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Austria,Cameroon,2019,633.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Austria,Cameroon,2020,615.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Austria,Cameroon,2021,625.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Austria,Cameroon,2022,646.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Netherlands,Cameroon,2015,660.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Netherlands,Cameroon,2016,619.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Netherlands,Cameroon,2017,570.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Netherlands,Cameroon,2018,606.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Netherlands,Cameroon,2019,615.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Netherlands,Cameroon,2020,673.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Netherlands,Cameroon,2021,689.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Netherlands,Cameroon,2022,700.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Mexico,Cameroon,2015,43.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Japan,Cameroon,2015,454.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Japan,Cameroon,2016,473.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Japan,Cameroon,2017,521.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Japan,Cameroon,2018,627.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Japan,Cameroon,2019,692.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Japan,Cameroon,2020,857.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Japan,Cameroon,2021,1059.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Japan,Cameroon,2022,1047.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Korea,Cameroon,2015,599.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Korea,Cameroon,2016,676.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Korea,Cameroon,2017,789.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Korea,Cameroon,2018,850.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Korea,Cameroon,2019,879.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Korea,Cameroon,2020,818.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Korea,Cameroon,2021,847.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Korea,Cameroon,2022,847.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovak Republic,Cameroon,2015,10.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovak Republic,Cameroon,2016,13.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovak Republic,Cameroon,2017,14.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovak Republic,Cameroon,2018,15.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovak Republic,Cameroon,2019,16.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovak Republic,Cameroon,2020,17.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovak Republic,Cameroon,2021,18.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Slovak Republic,Cameroon,2022,10.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Finland,Cameroon,2015,805.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Finland,Cameroon,2016,853.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Finland,Cameroon,2017,918.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Finland,Cameroon,2018,954.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Finland,Cameroon,2019,959.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Finland,Cameroon,2020,986.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Finland,Cameroon,2021,1062.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Finland,Cameroon,2022,1167.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Czechia,Cameroon,2022,169.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Germany,Cameroon,2015,10000.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Denmark,Cameroon,2015,684.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Denmark,Cameroon,2016,741.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Denmark,Cameroon,2017,749.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Denmark,Cameroon,2018,767.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Denmark,Cameroon,2019,794.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Denmark,Cameroon,2020,819.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Denmark,Cameroon,2021,836.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Denmark,Cameroon,2022,854.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovenia,Cameroon,2015,12.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovenia,Cameroon,2016,13.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovenia,Cameroon,2017,12.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovenia,Cameroon,2018,18.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovenia,Cameroon,2019,18.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovenia,Cameroon,2020,19.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovenia,Cameroon,2021,18.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Slovenia,Cameroon,2022,16.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Iceland,Cameroon,2015,6.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Iceland,Cameroon,2016,6.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Iceland,Cameroon,2017,7.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Iceland,Cameroon,2018,5.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Iceland,Cameroon,2019,4.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Iceland,Cameroon,2020,10.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Iceland,Cameroon,2021,11.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Iceland,Cameroon,2022,11.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Canada,Cameroon,2016,12125.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Canada,Cameroon,2021,17375.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Italy,Cameroon,2015,12414.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Italy,Cameroon,2016,12738.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Italy,Cameroon,2017,13308.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Italy,Cameroon,2018,14529.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Italy,Cameroon,2019,15170.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Italy,Cameroon,2020,15329.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Italy,Cameroon,2021,15581.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Italy,Cameroon,2022,15013.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Belgium,Cameroon,2015,16056.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Belgium,Cameroon,2016,17080.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Belgium,Cameroon,2017,18182.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Belgium,Cameroon,2018,19438.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Belgium,Cameroon,2019,20783.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Belgium,Cameroon,2020,22352.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Belgium,Cameroon,2021,23521.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Belgium,Cameroon,2022,25786.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Ireland,Cameroon,2016,959.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Hungary,Cameroon,2015,230.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Hungary,Cameroon,2016,239.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Hungary,Cameroon,2017,295.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Hungary,Cameroon,2018,286.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Hungary,Cameroon,2019,267.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Hungary,Cameroon,2020,250.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Hungary,Cameroon,2021,205.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Hungary,Cameroon,2022,173.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Finland,Cameroon,2015,789.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Finland,Cameroon,2016,853.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Finland,Cameroon,2017,952.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Finland,Cameroon,2018,1024.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Finland,Cameroon,2019,1070.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Finland,Cameroon,2020,1124.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Finland,Cameroon,2021,1196.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Finland,Cameroon,2022,1297.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Sweden,Cameroon,2015,1379.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Sweden,Cameroon,2016,1360.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Sweden,Cameroon,2017,1412.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Sweden,Cameroon,2018,1509.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Sweden,Cameroon,2019,1662.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Sweden,Cameroon,2020,1895.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Sweden,Cameroon,2021,2051.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Sweden,Cameroon,2022,2211.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Mexico,Cameroon,2015,112.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Mexico,Cameroon,2016,112.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Mexico,Cameroon,2017,119.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Mexico,Cameroon,2018,135.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Mexico,Cameroon,2019,125.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Mexico,Cameroon,2020,133.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Luxembourg,Cameroon,2017,899.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Luxembourg,Cameroon,2018,1031.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Luxembourg,Cameroon,2019,1204.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Luxembourg,Cameroon,2020,1273.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Luxembourg,Cameroon,2021,1417.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Luxembourg,Cameroon,2022,1603.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+United States,Cameroon,2015,51172.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+United States,Cameroon,2016,49430.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+United States,Cameroon,2017,56799.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+United States,Cameroon,2018,78008.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+United States,Cameroon,2019,72634.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+United States,Cameroon,2020,72090.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+United States,Cameroon,2021,94138.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Switzerland,Cameroon,2015,7193.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Switzerland,Cameroon,2016,7421.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Switzerland,Cameroon,2017,7634.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Switzerland,Cameroon,2018,7841.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Switzerland,Cameroon,2019,8008.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Switzerland,Cameroon,2020,8171.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Switzerland,Cameroon,2021,8451.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Switzerland,Cameroon,2022,8692.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Norway,Cameroon,2015,686.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Norway,Cameroon,2016,717.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Norway,Cameroon,2017,738.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Norway,Cameroon,2018,774.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Norway,Cameroon,2019,805.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Norway,Cameroon,2020,835.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Norway,Cameroon,2021,817.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Norway,Cameroon,2022,836.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Chile,Cameroon,2017,0.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Germany,Cameroon,2015,18301.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Germany,Cameroon,2016,19800.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Germany,Cameroon,2017,21610.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Germany,Cameroon,2018,22320.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Germany,Cameroon,2019,24220.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Germany,Cameroon,2020,26255.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Germany,Cameroon,2021,26635.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Germany,Cameroon,2022,27545.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+France,Cameroon,2015,54007.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+France,Cameroon,2016,55347.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+France,Cameroon,2017,56800.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+France,Cameroon,2018,58848.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+France,Cameroon,2019,59388.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+France,Cameroon,2020,65631.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+France,Cameroon,2021,66440.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Ireland,Cameroon,2016,412.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Ireland,Cameroon,2022,344.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Austria,Cameroon,2015,664.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Austria,Cameroon,2016,734.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Austria,Cameroon,2017,772.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Austria,Cameroon,2018,799.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Austria,Cameroon,2019,792.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Austria,Cameroon,2020,792.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Austria,Cameroon,2021,818.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Austria,Cameroon,2022,825.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Iceland,Cameroon,2015,7.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Iceland,Cameroon,2016,7.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Iceland,Cameroon,2017,9.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Iceland,Cameroon,2018,7.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Iceland,Cameroon,2019,6.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Iceland,Cameroon,2020,12.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Iceland,Cameroon,2021,13.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Iceland,Cameroon,2022,16.0,oecd,oecd_migration_database,stock_birth,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Chile,Cameroon,2017,0.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Norway,Cameroon,2015,305.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Norway,Cameroon,2016,324.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Norway,Cameroon,2017,306.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Norway,Cameroon,2018,307.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Norway,Cameroon,2019,325.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Norway,Cameroon,2020,341.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Norway,Cameroon,2021,315.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Norway,Cameroon,2022,313.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+France,Cameroon,2015,95762.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+France,Cameroon,2016,98636.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+France,Cameroon,2017,101485.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+France,Cameroon,2018,104360.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+France,Cameroon,2019,106123.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+France,Cameroon,2020,113518.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+France,Cameroon,2021,115431.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Lithuania,Cameroon,2015,7.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Lithuania,Cameroon,2016,0.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Lithuania,Cameroon,2017,1.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Lithuania,Cameroon,2018,10.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Lithuania,Cameroon,2019,30.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Lithuania,Cameroon,2020,87.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Lithuania,Cameroon,2021,128.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Lithuania,Cameroon,2022,198.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Estonia,Cameroon,2015,16.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Estonia,Cameroon,2016,28.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Estonia,Cameroon,2017,39.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Estonia,Cameroon,2018,62.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Estonia,Cameroon,2019,81.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Estonia,Cameroon,2020,103.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Spain,Cameroon,2015,5275.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Spain,Cameroon,2016,5352.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Spain,Cameroon,2017,5484.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Spain,Cameroon,2018,5656.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Spain,Cameroon,2019,5833.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Spain,Cameroon,2020,6064.0,oecd,oecd_migration_database,stock_birth,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+New Zealand,Cameroon,2018,54.0,oecd,oecd_migration_database,stock_birth,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign-born population by country of birth
+Luxembourg,Cameroon,2015,417.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Luxembourg,Cameroon,2016,468.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Luxembourg,Cameroon,2017,480.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Luxembourg,Cameroon,2018,551.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Luxembourg,Cameroon,2019,641.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Luxembourg,Cameroon,2020,659.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Luxembourg,Cameroon,2021,737.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Luxembourg,Cameroon,2022,871.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Sweden,Cameroon,2015,1045.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Sweden,Cameroon,2016,971.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Sweden,Cameroon,2017,961.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Sweden,Cameroon,2018,942.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Sweden,Cameroon,2019,998.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Sweden,Cameroon,2020,1205.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Sweden,Cameroon,2021,1300.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Sweden,Cameroon,2022,1395.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Portugal,Cameroon,2015,132.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Portugal,Cameroon,2016,127.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Portugal,Cameroon,2017,169.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Portugal,Cameroon,2018,148.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Portugal,Cameroon,2019,172.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Portugal,Cameroon,2020,183.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Portugal,Cameroon,2021,221.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Portugal,Cameroon,2022,249.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Türkiye,Cameroon,2015,364.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Türkiye,Cameroon,2016,542.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Türkiye,Cameroon,2017,726.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Türkiye,Cameroon,2018,773.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Türkiye,Cameroon,2019,862.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Türkiye,Cameroon,2020,1188.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Türkiye,Cameroon,2021,2100.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Türkiye,Cameroon,2022,1990.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Belgium,Cameroon,2015,11238.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Belgium,Cameroon,2016,11707.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Belgium,Cameroon,2017,12204.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Belgium,Cameroon,2018,12828.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Belgium,Cameroon,2019,13439.0,oecd,oecd_migration_database,stock_nationality,pre_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Belgium,Cameroon,2020,14229.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Belgium,Cameroon,2021,14719.0,oecd,oecd_migration_database,stock_nationality,covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Belgium,Cameroon,2022,16152.0,oecd,oecd_migration_database,stock_nationality,post_covid,Q1_destinations,not_applicable,not_applicable,Stock of foreign population by nationality
+Hungary,Cameroon,2015,8.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Hungary,Cameroon,2016,2.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Hungary,Cameroon,2017,7.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Hungary,Cameroon,2018,4.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Hungary,Cameroon,2019,7.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Hungary,Cameroon,2020,0.0,oecd,oecd_migration_database,worker_inflow,covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Hungary,Cameroon,2021,1.0,oecd,oecd_migration_database,worker_inflow,covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Sweden,Cameroon,2017,2.0,oecd,oecd_migration_database,seasonal_worker_inflow,pre_covid,Q2_entry_reasons,work,seasonal_work,Inflows of seasonal foreign workers by nationality
+Sweden,Cameroon,2018,2.0,oecd,oecd_migration_database,seasonal_worker_inflow,pre_covid,Q2_entry_reasons,work,seasonal_work,Inflows of seasonal foreign workers by nationality
+Sweden,Cameroon,2019,4.0,oecd,oecd_migration_database,seasonal_worker_inflow,pre_covid,Q2_entry_reasons,work,seasonal_work,Inflows of seasonal foreign workers by nationality
+Sweden,Cameroon,2020,12.0,oecd,oecd_migration_database,seasonal_worker_inflow,covid,Q2_entry_reasons,work,seasonal_work,Inflows of seasonal foreign workers by nationality
+Sweden,Cameroon,2021,11.0,oecd,oecd_migration_database,seasonal_worker_inflow,covid,Q2_entry_reasons,work,seasonal_work,Inflows of seasonal foreign workers by nationality
+Slovenia,Cameroon,2015,1.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Slovenia,Cameroon,2017,1.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Korea,Cameroon,2021,0.0,oecd,oecd_migration_database,seasonal_worker_inflow,covid,Q2_entry_reasons,work,seasonal_work,Inflows of seasonal foreign workers by nationality
+Belgium,Cameroon,2015,738.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Belgium,Cameroon,2016,845.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Belgium,Cameroon,2017,872.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Belgium,Cameroon,2018,955.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Belgium,Cameroon,2019,1046.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Belgium,Cameroon,2020,945.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Belgium,Cameroon,2021,1196.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Poland,Cameroon,2015,5.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Poland,Cameroon,2016,5.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Poland,Cameroon,2017,4.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Poland,Cameroon,2018,9.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Poland,Cameroon,2019,13.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Poland,Cameroon,2020,9.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Poland,Cameroon,2021,8.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Mexico,Cameroon,2015,4.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Mexico,Cameroon,2016,2.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Mexico,Cameroon,2017,2.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Mexico,Cameroon,2018,3.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Mexico,Cameroon,2019,4.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+France,Cameroon,2015,3125.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+France,Cameroon,2016,3377.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+France,Cameroon,2017,3137.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+France,Cameroon,2018,2502.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+France,Cameroon,2019,2463.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+France,Cameroon,2020,2108.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+France,Cameroon,2021,3841.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Mexico,Cameroon,2015,7.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Mexico,Cameroon,2016,6.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Mexico,Cameroon,2017,4.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Mexico,Cameroon,2018,8.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Mexico,Cameroon,2019,4.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Germany,Cameroon,2015,1078.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Germany,Cameroon,2016,918.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Germany,Cameroon,2017,949.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Germany,Cameroon,2018,905.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Germany,Cameroon,2019,955.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Germany,Cameroon,2020,895.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Germany,Cameroon,2021,845.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Italy,Cameroon,2015,521.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Italy,Cameroon,2016,658.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Italy,Cameroon,2017,488.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Italy,Cameroon,2018,303.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Italy,Cameroon,2019,401.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Italy,Cameroon,2020,304.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Italy,Cameroon,2021,272.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Denmark,Cameroon,2015,38.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Denmark,Cameroon,2016,47.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Denmark,Cameroon,2017,48.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Denmark,Cameroon,2018,20.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Denmark,Cameroon,2019,14.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Denmark,Cameroon,2020,9.0,oecd,oecd_migration_database,worker_inflow,covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Denmark,Cameroon,2021,17.0,oecd,oecd_migration_database,worker_inflow,covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Canada,Cameroon,2015,384.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Canada,Cameroon,2016,480.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Canada,Cameroon,2017,570.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Canada,Cameroon,2018,625.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Switzerland,Cameroon,2015,165.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Switzerland,Cameroon,2016,218.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Switzerland,Cameroon,2017,209.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Switzerland,Cameroon,2018,176.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Switzerland,Cameroon,2019,149.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Switzerland,Cameroon,2020,121.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Switzerland,Cameroon,2021,113.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Norway,Cameroon,2015,27.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Norway,Cameroon,2016,38.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Norway,Cameroon,2017,39.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Norway,Cameroon,2018,15.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Norway,Cameroon,2019,25.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Norway,Cameroon,2020,15.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Norway,Cameroon,2021,15.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Poland,Cameroon,2015,0.0,oecd,oecd_migration_database,seasonal_worker_inflow,pre_covid,Q2_entry_reasons,work,seasonal_work,Inflows of seasonal foreign workers by nationality
+Poland,Cameroon,2016,0.0,oecd,oecd_migration_database,seasonal_worker_inflow,pre_covid,Q2_entry_reasons,work,seasonal_work,Inflows of seasonal foreign workers by nationality
+Poland,Cameroon,2017,0.0,oecd,oecd_migration_database,seasonal_worker_inflow,pre_covid,Q2_entry_reasons,work,seasonal_work,Inflows of seasonal foreign workers by nationality
+Poland,Cameroon,2018,0.0,oecd,oecd_migration_database,seasonal_worker_inflow,pre_covid,Q2_entry_reasons,work,seasonal_work,Inflows of seasonal foreign workers by nationality
+Poland,Cameroon,2019,0.0,oecd,oecd_migration_database,seasonal_worker_inflow,pre_covid,Q2_entry_reasons,work,seasonal_work,Inflows of seasonal foreign workers by nationality
+Poland,Cameroon,2020,0.0,oecd,oecd_migration_database,seasonal_worker_inflow,covid,Q2_entry_reasons,work,seasonal_work,Inflows of seasonal foreign workers by nationality
+Poland,Cameroon,2021,0.0,oecd,oecd_migration_database,seasonal_worker_inflow,covid,Q2_entry_reasons,work,seasonal_work,Inflows of seasonal foreign workers by nationality
+Netherlands,Cameroon,2015,6.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Netherlands,Cameroon,2016,8.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Netherlands,Cameroon,2017,13.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Netherlands,Cameroon,2018,17.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Netherlands,Cameroon,2019,31.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Netherlands,Cameroon,2020,29.0,oecd,oecd_migration_database,worker_inflow,covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Netherlands,Cameroon,2021,45.0,oecd,oecd_migration_database,worker_inflow,covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Netherlands,Cameroon,2022,54.0,oecd,oecd_migration_database,worker_inflow,post_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Ireland,Cameroon,2015,1.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Ireland,Cameroon,2016,2.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Ireland,Cameroon,2017,8.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Ireland,Cameroon,2018,5.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Ireland,Cameroon,2019,3.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Ireland,Cameroon,2020,3.0,oecd,oecd_migration_database,worker_inflow,covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Ireland,Cameroon,2021,3.0,oecd,oecd_migration_database,worker_inflow,covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Portugal,Cameroon,2015,5.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Portugal,Cameroon,2016,12.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Luxembourg,Cameroon,2015,6.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Luxembourg,Cameroon,2016,18.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Luxembourg,Cameroon,2017,20.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Luxembourg,Cameroon,2018,19.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Luxembourg,Cameroon,2019,26.0,oecd,oecd_migration_database,citizenship_acquisition,pre_covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Luxembourg,Cameroon,2020,15.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Luxembourg,Cameroon,2021,14.0,oecd,oecd_migration_database,citizenship_acquisition,covid,Q3_post_arrival_trajectories,not_applicable,not_applicable,Acquisition of nationality by country of former nationality
+Australia,Cameroon,2016,3.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Australia,Cameroon,2017,3.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Australia,Cameroon,2018,3.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality
+Australia,Cameroon,2019,3.0,oecd,oecd_migration_database,worker_inflow,pre_covid,Q2_entry_reasons,work,work,Inflows of foreign workers by nationality

@@ -1,0 +1,142 @@
+destination_country,destination_code,origin_country,origin_code,year,total_migrants,male_migrants,female_migrants,source,dataset,measure_type,period
+Zambia,894,Cameroon,120,2015,214.0,114.0,100.0,UN DESA,international_migrant_stock,stock,pre_covid
+Chad,148,Cameroon,120,2015,30702.0,13908.0,16794.0,UN DESA,international_migrant_stock,stock,pre_covid
+Congo,178,Cameroon,120,2015,11300.0,6727.0,4573.0,UN DESA,international_migrant_stock,stock,pre_covid
+Equatorial Guinea,226,Cameroon,120,2015,798.0,535.0,263.0,UN DESA,international_migrant_stock,stock,pre_covid
+Gabon,266,Cameroon,120,2015,46269.0,26905.0,19364.0,UN DESA,international_migrant_stock,stock,pre_covid
+Egypt,818,Cameroon,120,2015,42.0,22.0,20.0,UN DESA,international_migrant_stock,stock,pre_covid
+Tunisia,788,Cameroon,120,2015,715.0,369.0,346.0,UN DESA,international_migrant_stock,stock,pre_covid
+Namibia,516,Cameroon,120,2015,115.0,95.0,20.0,UN DESA,international_migrant_stock,stock,pre_covid
+South Africa,710,Cameroon,120,2015,5747.0,3815.0,1932.0,UN DESA,international_migrant_stock,stock,pre_covid
+Ghana,288,Cameroon,120,2015,116.0,77.0,39.0,UN DESA,international_migrant_stock,stock,pre_covid
+Guinea,324,Cameroon,120,2015,196.0,142.0,54.0,UN DESA,international_migrant_stock,stock,pre_covid
+Mali,466,Cameroon,120,2015,1778.0,907.0,871.0,UN DESA,international_migrant_stock,stock,pre_covid
+Mauritania,478,Cameroon,120,2015,392.0,256.0,136.0,UN DESA,international_migrant_stock,stock,pre_covid
+Niger,562,Cameroon,120,2015,417.0,183.0,234.0,UN DESA,international_migrant_stock,stock,pre_covid
+Nigeria,566,Cameroon,120,2015,26893.0,14755.0,12138.0,UN DESA,international_migrant_stock,stock,pre_covid
+Senegal,686,Cameroon,120,2015,1014.0,403.0,611.0,UN DESA,international_migrant_stock,stock,pre_covid
+Togo,768,Cameroon,120,2015,697.0,446.0,251.0,UN DESA,international_migrant_stock,stock,pre_covid
+China,156,Cameroon,120,2015,988.0,548.0,440.0,UN DESA,international_migrant_stock,stock,pre_covid
+Japan,392,Cameroon,120,2015,525.0,395.0,130.0,UN DESA,international_migrant_stock,stock,pre_covid
+India,356,Cameroon,120,2015,25.0,14.0,11.0,UN DESA,international_migrant_stock,stock,pre_covid
+Cyprus,196,Cameroon,120,2015,54.0,30.0,24.0,UN DESA,international_migrant_stock,stock,pre_covid
+Bulgaria,100,Cameroon,120,2015,13.0,11.0,2.0,UN DESA,international_migrant_stock,stock,pre_covid
+Hungary,348,Cameroon,120,2015,249.0,190.0,59.0,UN DESA,international_migrant_stock,stock,pre_covid
+Slovakia,703,Cameroon,120,2015,10.0,8.0,2.0,UN DESA,international_migrant_stock,stock,pre_covid
+Denmark*,208,Cameroon,120,2015,737.0,444.0,293.0,UN DESA,international_migrant_stock,stock,pre_covid
+Estonia,233,Cameroon,120,2015,16.0,13.0,3.0,UN DESA,international_migrant_stock,stock,pre_covid
+Finland*,246,Cameroon,120,2015,759.0,477.0,282.0,UN DESA,international_migrant_stock,stock,pre_covid
+Iceland,352,Cameroon,120,2015,7.0,5.0,2.0,UN DESA,international_migrant_stock,stock,pre_covid
+Latvia,428,Cameroon,120,2015,1.0,1.0,,UN DESA,international_migrant_stock,stock,pre_covid
+Lithuania,440,Cameroon,120,2015,7.0,4.0,3.0,UN DESA,international_migrant_stock,stock,pre_covid
+Norway*,578,Cameroon,120,2015,677.0,365.0,312.0,UN DESA,international_migrant_stock,stock,pre_covid
+Greece,300,Cameroon,120,2015,460.0,233.0,227.0,UN DESA,international_migrant_stock,stock,pre_covid
+Italy,380,Cameroon,120,2015,10856.0,5451.0,5405.0,UN DESA,international_migrant_stock,stock,pre_covid
+Portugal,620,Cameroon,120,2015,73.0,48.0,25.0,UN DESA,international_migrant_stock,stock,pre_covid
+Slovenia,705,Cameroon,120,2015,17.0,16.0,1.0,UN DESA,international_migrant_stock,stock,pre_covid
+Belgium,56,Cameroon,120,2015,16560.0,7873.0,8687.0,UN DESA,international_migrant_stock,stock,pre_covid
+France*,250,Cameroon,120,2015,97288.0,39412.0,57876.0,UN DESA,international_migrant_stock,stock,pre_covid
+Liechtenstein,438,Cameroon,120,2015,5.0,4.0,1.0,UN DESA,international_migrant_stock,stock,pre_covid
+Luxembourg,442,Cameroon,120,2015,59.0,28.0,31.0,UN DESA,international_migrant_stock,stock,pre_covid
+Dominican Republic,214,Cameroon,120,2015,23.0,12.0,11.0,UN DESA,international_migrant_stock,stock,pre_covid
+Costa Rica,188,Cameroon,120,2015,9.0,4.0,5.0,UN DESA,international_migrant_stock,stock,pre_covid
+Mexico,484,Cameroon,120,2015,98.0,70.0,28.0,UN DESA,international_migrant_stock,stock,pre_covid
+Bolivia (Plurinational State of),68,Cameroon,120,2015,13.0,11.0,2.0,UN DESA,international_migrant_stock,stock,pre_covid
+Brazil,76,Cameroon,120,2015,268.0,174.0,94.0,UN DESA,international_migrant_stock,stock,pre_covid
+Chile,152,Cameroon,120,2015,110.0,55.0,55.0,UN DESA,international_migrant_stock,stock,pre_covid
+Canada,124,Cameroon,120,2015,18062.0,9184.0,8878.0,UN DESA,international_migrant_stock,stock,pre_covid
+Australia*,36,Cameroon,120,2015,450.0,264.0,186.0,UN DESA,international_migrant_stock,stock,pre_covid
+Zambia,894,Cameroon,120,2020,299.0,164.0,135.0,UN DESA,international_migrant_stock,stock,covid
+Chad,148,Cameroon,120,2020,35635.0,15927.0,19708.0,UN DESA,international_migrant_stock,stock,covid
+Congo,178,Cameroon,120,2020,11225.0,6658.0,4567.0,UN DESA,international_migrant_stock,stock,covid
+Equatorial Guinea,226,Cameroon,120,2020,957.0,643.0,314.0,UN DESA,international_migrant_stock,stock,covid
+Gabon,266,Cameroon,120,2020,50906.0,29575.0,21331.0,UN DESA,international_migrant_stock,stock,covid
+Egypt,818,Cameroon,120,2020,337.0,286.0,51.0,UN DESA,international_migrant_stock,stock,covid
+Tunisia,788,Cameroon,120,2020,758.0,396.0,362.0,UN DESA,international_migrant_stock,stock,covid
+Namibia,516,Cameroon,120,2020,122.0,101.0,21.0,UN DESA,international_migrant_stock,stock,covid
+South Africa,710,Cameroon,120,2020,6112.0,4237.0,1875.0,UN DESA,international_migrant_stock,stock,covid
+Ghana,288,Cameroon,120,2020,132.0,89.0,43.0,UN DESA,international_migrant_stock,stock,covid
+Guinea,324,Cameroon,120,2020,187.0,136.0,51.0,UN DESA,international_migrant_stock,stock,covid
+Mali,466,Cameroon,120,2020,2084.0,1065.0,1019.0,UN DESA,international_migrant_stock,stock,covid
+Mauritania,478,Cameroon,120,2020,428.0,280.0,148.0,UN DESA,international_migrant_stock,stock,covid
+Niger,562,Cameroon,120,2020,531.0,228.0,303.0,UN DESA,international_migrant_stock,stock,covid
+Nigeria,566,Cameroon,120,2020,52489.0,28631.0,23858.0,UN DESA,international_migrant_stock,stock,covid
+Senegal,686,Cameroon,120,2020,1050.0,417.0,633.0,UN DESA,international_migrant_stock,stock,covid
+Togo,768,Cameroon,120,2020,702.0,452.0,250.0,UN DESA,international_migrant_stock,stock,covid
+China,156,Cameroon,120,2020,1907.0,955.0,952.0,UN DESA,international_migrant_stock,stock,covid
+Japan,392,Cameroon,120,2020,1130.0,778.0,352.0,UN DESA,international_migrant_stock,stock,covid
+India,356,Cameroon,120,2020,177.0,101.0,76.0,UN DESA,international_migrant_stock,stock,covid
+Cyprus,196,Cameroon,120,2020,1885.0,1044.0,841.0,UN DESA,international_migrant_stock,stock,covid
+Bulgaria,100,Cameroon,120,2020,24.0,18.0,6.0,UN DESA,international_migrant_stock,stock,covid
+Hungary,348,Cameroon,120,2020,322.0,237.0,85.0,UN DESA,international_migrant_stock,stock,covid
+Slovakia,703,Cameroon,120,2020,15.0,12.0,3.0,UN DESA,international_migrant_stock,stock,covid
+Denmark*,208,Cameroon,120,2020,848.0,464.0,384.0,UN DESA,international_migrant_stock,stock,covid
+Estonia,233,Cameroon,120,2020,80.0,57.0,23.0,UN DESA,international_migrant_stock,stock,covid
+Finland*,246,Cameroon,120,2020,1094.0,676.0,418.0,UN DESA,international_migrant_stock,stock,covid
+Iceland,352,Cameroon,120,2020,5.0,3.0,2.0,UN DESA,international_migrant_stock,stock,covid
+Latvia,428,Cameroon,120,2020,4.0,4.0,,UN DESA,international_migrant_stock,stock,covid
+Lithuania,440,Cameroon,120,2020,30.0,22.0,8.0,UN DESA,international_migrant_stock,stock,covid
+Norway*,578,Cameroon,120,2020,814.0,449.0,365.0,UN DESA,international_migrant_stock,stock,covid
+Greece,300,Cameroon,120,2020,1545.0,783.0,762.0,UN DESA,international_migrant_stock,stock,covid
+Italy,380,Cameroon,120,2020,15250.0,8172.0,7078.0,UN DESA,international_migrant_stock,stock,covid
+Portugal,620,Cameroon,120,2020,82.0,55.0,27.0,UN DESA,international_migrant_stock,stock,covid
+Slovenia,705,Cameroon,120,2020,21.0,18.0,3.0,UN DESA,international_migrant_stock,stock,covid
+Belgium,56,Cameroon,120,2020,22683.0,10756.0,11927.0,UN DESA,international_migrant_stock,stock,covid
+France*,250,Cameroon,120,2020,114528.0,47297.0,67231.0,UN DESA,international_migrant_stock,stock,covid
+Liechtenstein,438,Cameroon,120,2020,3.0,2.0,1.0,UN DESA,international_migrant_stock,stock,covid
+Luxembourg,442,Cameroon,120,2020,1234.0,598.0,636.0,UN DESA,international_migrant_stock,stock,covid
+Dominican Republic,214,Cameroon,120,2020,23.0,12.0,11.0,UN DESA,international_migrant_stock,stock,covid
+Costa Rica,188,Cameroon,120,2020,11.0,6.0,5.0,UN DESA,international_migrant_stock,stock,covid
+Mexico,484,Cameroon,120,2020,581.0,366.0,215.0,UN DESA,international_migrant_stock,stock,covid
+Bolivia (Plurinational State of),68,Cameroon,120,2020,13.0,12.0,1.0,UN DESA,international_migrant_stock,stock,covid
+Brazil,76,Cameroon,120,2020,816.0,620.0,196.0,UN DESA,international_migrant_stock,stock,covid
+Chile,152,Cameroon,120,2020,255.0,130.0,125.0,UN DESA,international_migrant_stock,stock,covid
+Canada,124,Cameroon,120,2020,27172.0,13264.0,13908.0,UN DESA,international_migrant_stock,stock,covid
+Australia*,36,Cameroon,120,2020,581.0,334.0,247.0,UN DESA,international_migrant_stock,stock,covid
+Zambia,894,Cameroon,120,2024,396.0,217.0,179.0,UN DESA,international_migrant_stock,stock,post_covid
+Chad,148,Cameroon,120,2024,40472.0,18089.0,22383.0,UN DESA,international_migrant_stock,stock,post_covid
+Congo,178,Cameroon,120,2024,11167.0,6624.0,4543.0,UN DESA,international_migrant_stock,stock,post_covid
+Equatorial Guinea,226,Cameroon,120,2024,1033.0,694.0,339.0,UN DESA,international_migrant_stock,stock,post_covid
+Gabon,266,Cameroon,120,2024,54949.0,31924.0,23025.0,UN DESA,international_migrant_stock,stock,post_covid
+Egypt,818,Cameroon,120,2024,327.0,260.0,67.0,UN DESA,international_migrant_stock,stock,post_covid
+Tunisia,788,Cameroon,120,2024,797.0,417.0,380.0,UN DESA,international_migrant_stock,stock,post_covid
+Namibia,516,Cameroon,120,2024,129.0,107.0,22.0,UN DESA,international_migrant_stock,stock,post_covid
+South Africa,710,Cameroon,120,2024,4916.0,3402.0,1514.0,UN DESA,international_migrant_stock,stock,post_covid
+Ghana,288,Cameroon,120,2024,147.0,99.0,48.0,UN DESA,international_migrant_stock,stock,post_covid
+Guinea,324,Cameroon,120,2024,181.0,132.0,49.0,UN DESA,international_migrant_stock,stock,post_covid
+Mali,466,Cameroon,120,2024,2339.0,1195.0,1144.0,UN DESA,international_migrant_stock,stock,post_covid
+Mauritania,478,Cameroon,120,2024,460.0,301.0,159.0,UN DESA,international_migrant_stock,stock,post_covid
+Niger,562,Cameroon,120,2024,685.0,294.0,391.0,UN DESA,international_migrant_stock,stock,post_covid
+Nigeria,566,Cameroon,120,2024,56288.0,30703.0,25585.0,UN DESA,international_migrant_stock,stock,post_covid
+Senegal,686,Cameroon,120,2024,1076.0,428.0,648.0,UN DESA,international_migrant_stock,stock,post_covid
+Togo,768,Cameroon,120,2024,707.0,455.0,252.0,UN DESA,international_migrant_stock,stock,post_covid
+China,156,Cameroon,120,2024,2133.0,999.0,1134.0,UN DESA,international_migrant_stock,stock,post_covid
+Japan,392,Cameroon,120,2024,1290.0,808.0,482.0,UN DESA,international_migrant_stock,stock,post_covid
+India,356,Cameroon,120,2024,236.0,130.0,106.0,UN DESA,international_migrant_stock,stock,post_covid
+Cyprus,196,Cameroon,120,2024,2001.0,1108.0,893.0,UN DESA,international_migrant_stock,stock,post_covid
+Bulgaria,100,Cameroon,120,2024,33.0,25.0,8.0,UN DESA,international_migrant_stock,stock,post_covid
+Hungary,348,Cameroon,120,2024,380.0,280.0,100.0,UN DESA,international_migrant_stock,stock,post_covid
+Slovakia,703,Cameroon,120,2024,16.0,13.0,3.0,UN DESA,international_migrant_stock,stock,post_covid
+Denmark*,208,Cameroon,120,2024,1048.0,581.0,467.0,UN DESA,international_migrant_stock,stock,post_covid
+Estonia,233,Cameroon,120,2024,82.0,59.0,23.0,UN DESA,international_migrant_stock,stock,post_covid
+Finland*,246,Cameroon,120,2024,1288.0,796.0,492.0,UN DESA,international_migrant_stock,stock,post_covid
+Iceland,352,Cameroon,120,2024,8.0,5.0,3.0,UN DESA,international_migrant_stock,stock,post_covid
+Latvia,428,Cameroon,120,2024,4.0,4.0,,UN DESA,international_migrant_stock,stock,post_covid
+Lithuania,440,Cameroon,120,2024,32.0,24.0,8.0,UN DESA,international_migrant_stock,stock,post_covid
+Norway*,578,Cameroon,120,2024,905.0,499.0,406.0,UN DESA,international_migrant_stock,stock,post_covid
+Greece,300,Cameroon,120,2024,1641.0,832.0,809.0,UN DESA,international_migrant_stock,stock,post_covid
+Italy,380,Cameroon,120,2024,16244.0,8781.0,7463.0,UN DESA,international_migrant_stock,stock,post_covid
+Portugal,620,Cameroon,120,2024,92.0,62.0,30.0,UN DESA,international_migrant_stock,stock,post_covid
+Slovenia,705,Cameroon,120,2024,24.0,21.0,3.0,UN DESA,international_migrant_stock,stock,post_covid
+Belgium,56,Cameroon,120,2024,30634.0,14651.0,15983.0,UN DESA,international_migrant_stock,stock,post_covid
+France*,250,Cameroon,120,2024,127995.0,53081.0,74914.0,UN DESA,international_migrant_stock,stock,post_covid
+Liechtenstein,438,Cameroon,120,2024,3.0,2.0,1.0,UN DESA,international_migrant_stock,stock,post_covid
+Luxembourg,442,Cameroon,120,2024,1425.0,691.0,734.0,UN DESA,international_migrant_stock,stock,post_covid
+Dominican Republic,214,Cameroon,120,2024,25.0,13.0,12.0,UN DESA,international_migrant_stock,stock,post_covid
+Costa Rica,188,Cameroon,120,2024,13.0,7.0,6.0,UN DESA,international_migrant_stock,stock,post_covid
+Mexico,484,Cameroon,120,2024,680.0,425.0,255.0,UN DESA,international_migrant_stock,stock,post_covid
+Bolivia (Plurinational State of),68,Cameroon,120,2024,15.0,14.0,1.0,UN DESA,international_migrant_stock,stock,post_covid
+Brazil,76,Cameroon,120,2024,723.0,532.0,191.0,UN DESA,international_migrant_stock,stock,post_covid
+Chile,152,Cameroon,120,2024,281.0,49.0,232.0,UN DESA,international_migrant_stock,stock,post_covid
+Canada,124,Cameroon,120,2024,43662.0,20745.0,22917.0,UN DESA,international_migrant_stock,stock,post_covid
+Australia*,36,Cameroon,120,2024,695.0,397.0,298.0,UN DESA,international_migrant_stock,stock,post_covid
