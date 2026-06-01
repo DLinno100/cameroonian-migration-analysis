@@ -1,0 +1,9 @@
+period,measure_type,value
+pre_covid,citizenship_acquisition,32189.0
+pre_covid,long_term_resident,266351.0
+covid,citizenship_acquisition,11777.0
+covid,long_term_resident,110586.0
+covid,status_change,6729.0
+post_covid,citizenship_acquisition,19103.0
+post_covid,long_term_resident,192866.0
+post_covid,status_change,17999.0

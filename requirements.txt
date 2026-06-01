@@ -6,4 +6,5 @@ plotly
 openpyxl
 jupyter
 notebook
+ipykernel
 pycountry

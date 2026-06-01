@@ -1,6 +1,6 @@
 file_name,rows,columns,missing_year,missing_destination_country,missing_value,duplicated_rows,min_year,max_year,available_periods,available_measure_types
 undesa_destinations_standardized.csv,141,14,0,0,0,0,2015,2024,covid|post_covid|pre_covid,stock
-eurostat_first_permits_standardized.csv,1320,10,0,0,0,0,2015,2024,covid|post_covid|pre_covid,permit
+eurostat_first_permits_standardized.csv,1320,11,0,0,0,0,2015,2024,covid|post_covid|pre_covid,permit
 eurostat_long_term_residents_standardized.csv,330,9,0,0,0,0,2015,2024,covid|post_covid|pre_covid,long_term_resident
 eurostat_status_changes_standardized.csv,155,9,0,0,0,0,2020,2024,covid|post_covid,status_change
 eurostat_citizenship_acquisition_standardized.csv,400,9,0,0,0,0,2015,2024,covid|post_covid|pre_covid,citizenship_acquisition

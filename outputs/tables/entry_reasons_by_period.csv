@@ -1,0 +1,13 @@
+period,reason,value
+pre_covid,education,20539.0
+pre_covid,family,25413.0
+pre_covid,other,13039.0
+pre_covid,work,3566.0
+covid,education,11383.0
+covid,family,10759.0
+covid,other,4903.0
+covid,work,2116.0
+post_covid,education,24536.0
+post_covid,family,19253.0
+post_covid,other,12501.0
+post_covid,work,4999.0

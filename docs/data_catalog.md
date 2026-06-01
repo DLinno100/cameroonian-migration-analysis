@@ -1,81 +1,92 @@
-# Data Catalog
+# Catalogue des données
 
-See also: [raw_data_audit.md](raw_data_audit.md)
+Voir aussi : [raw_data_audit.md](raw_data_audit.md)
 
-## Core datasets
+## Jeux de données principaux
 
 ### UN DESA
-- Role: Global destinations of Cameroonian migrants
-- Coverage: 1990, 1995, 2000, 2005, 2010, 2015, 2020, 2024
-- Main use: Q1
-- Raw file: `data/raw/global/undesa_cameroon_global_destinations.csv`
-- Cleaning note: filter `Origin == Cameroon`; use 2015, 2020 and 2024 for the study period.
+
+- Rôle : destinations mondiales des migrants camerounais
+- Couverture : 1990, 1995, 2000, 2005, 2010, 2015, 2020, 2024
+- Utilisation principale : Q1
+- Fichier brut : `data/raw/global/undesa_cameroon_global_destinations.csv`
+- Note de nettoyage : filtrer `Origin == Cameroon` ; utiliser 2015, 2020 et 2024 pour la période d'étude.
 
 ### Eurostat migr_resfirst
-- Role: First permits by reason for Cameroonian citizens in Europe
-- Coverage: 2015–2024
-- Main use: Q2
-- Raw file: `data/raw/europe/eurostat_first_permits_cameroon.xlsx`
-- Cleaning note: one sheet per reason; reshape year columns to long format and preserve Eurostat flags.
+
+- Rôle : premiers permis par raison pour les citoyens camerounais en Europe
+- Couverture : 2015-2024
+- Utilisation principale : Q2
+- Fichier brut : `data/raw/europe/eurostat_first_permits_cameroon.xlsx`
+- Note de nettoyage : une feuille par raison ; transformer les colonnes d'années au format long et conserver les flags Eurostat.
 
 ### Eurostat migr_reslong
-- Role: Long-term residents
-- Coverage: 2015–2024
-- Main use: Q3
-- Raw file: `data/raw/europe/eurostat_long_term_residents_cameroon.xlsx`
-- Cleaning note: one sheet per legal framework; start with total framework.
+
+- Rôle : résidents de longue durée
+- Couverture : 2015-2024
+- Utilisation principale : Q3
+- Fichier brut : `data/raw/europe/eurostat_long_term_residents_cameroon.xlsx`
+- Note de nettoyage : une feuille par cadre juridique ; commencer par le cadre total.
 
 ### Eurostat migr_acq
-- Role: Citizenship acquisition / naturalisation
-- Coverage: 2015–2024
-- Main use: Q3
-- Raw file: `data/raw/europe/eurostat_citizenship_acquisition_cameroon.xlsx`
-- Cleaning note: many age/sex sheets; start with total age and total sex.
+
+- Rôle : acquisition de citoyenneté / naturalisation
+- Couverture : 2015-2024
+- Utilisation principale : Q3
+- Fichier brut : `data/raw/europe/eurostat_citizenship_acquisition_cameroon.xlsx`
+- Note de nettoyage : nombreuses feuilles âge/sexe ; commencer par âge total et sexe total.
 
 ### Eurostat migr_reschst
-- Role: Changes of immigration status
-- Coverage: 2020–2024
-- Main use: Q3, Covid and post-Covid only
-- Raw file: `data/raw/europe/eurostat_status_changes_cameroon.xlsx`
+
+- Rôle : changements de statut d'immigration
+- Couverture : 2020-2024
+- Utilisation principale : Q3, Covid et post-Covid uniquement
+- Fichier brut : `data/raw/europe/eurostat_status_changes_cameroon.xlsx`
 
 ### Canada IRCC
-- Role: Permanent residents, study permits, and temporary-to-permanent transitions
-- Coverage: 2015–2026 in raw files; use 2015–2024 for analysis
-- Main use: Q2 and Q3
-- Raw files: `data/raw/canada/ircc_*.xlsx`
-- Cleaning note: multi-row headers, monthly/quarterly columns, category hierarchy, and suppressed values `--`.
+
+- Rôle : résidents permanents, permis d'études et transitions du temporaire vers le permanent
+- Couverture : 2015-2026 dans les fichiers bruts ; utiliser 2015-2024 pour l'analyse
+- Utilisation principale : Q2 et Q3
+- Fichiers bruts : `data/raw/canada/ircc_*.xlsx`
+- Note de nettoyage : en-têtes multi-lignes, colonnes mensuelles/trimestrielles, hiérarchie de catégories et valeurs masquées `--`.
 
 ### USA DHS / Census
-- Role: US lawful permanent residents, refugee arrivals, and 2024 diaspora profile
-- Coverage: LPR 2015–2022, refugees 2015–2024, ACS 2024
-- Main use: Q1 and Q3
-- Raw files: `data/raw/usa/*.xlsx`
-- Cleaning note: DHS uses fiscal years; ACS is a point-in-time context table with margins of error.
 
-### OECD migration database
-- Role: OECD complementary flows/stocks for Cameroon-origin or Cameroon-nationality migration
-- Coverage: 1995–2022
-- Main use: Q1 and cross-checks
-- Raw file: `data/raw/global/oecd_migration_database_raw.csv`
-- Cleaning note: large file; filter `CO2 == CMR` before analysis.
+- Rôle : résidents permanents légaux aux États-Unis, arrivées de réfugiés et profil de la diaspora en 2024
+- Couverture : LPR 2015-2022, réfugiés 2015-2024, ACS 2024
+- Utilisation principale : Q1 et Q3
+- Fichiers bruts : `data/raw/usa/*.xlsx`
+- Note de nettoyage : DHS utilise des années fiscales ; ACS est une table de contexte ponctuelle avec des marges d'erreur.
 
-## Secondary / context datasets
+### Base de données migration de l'OCDE
+
+- Rôle : flux/stocks complémentaires de migration liés au Cameroun par origine ou nationalité
+- Couverture : 1995-2022
+- Utilisation principale : Q1 et vérifications croisées
+- Fichier brut : `data/raw/global/oecd_migration_database_raw.csv`
+- Note de nettoyage : fichier volumineux ; filtrer `CO2 == CMR` avant l'analyse.
+
+## Jeux de données secondaires / contextuels
 
 ### UNHCR
-- Role: Asylum seekers, refugees, resettlement and persons of concern
-- Coverage: mostly up to 2016 or 2017 in current raw files
-- Main use: historical/context only unless refreshed
-- Raw files: `data/raw/unhcr/*.csv`
 
-### Japan
-- Role: Japan migration/visa context
-- Coverage: visa rows for Cameroon 2009–2017; inbound/outbound files stop in 2005
-- Main use: limited historical/context use
-- Raw files: `data/raw/japan/*.csv`
-- Cleaning note: `japan_translation_mapping.csv` needs CP932/Shift-JIS encoding.
+- Rôle : demandeurs d'asile, réfugiés, réinstallation et personnes relevant de la compétence du HCR
+- Couverture : principalement jusqu'en 2016 ou 2017 dans les fichiers bruts actuels
+- Utilisation principale : historique/contexte uniquement sauf mise à jour
+- Fichiers bruts : `data/raw/unhcr/*.csv`
 
-### Cameroon demographic context
-- Role: demographic denominators and migration context
-- Coverage: varies by file, often up to 2017
-- Main use: contextualization and normalization only
-- Raw files: `data/raw/context/*.csv`
+### Japon
+
+- Rôle : contexte migration/visa au Japon
+- Couverture : lignes de visas pour le Cameroun 2009-2017 ; les fichiers inbound/outbound s'arrêtent en 2005
+- Utilisation principale : usage historique/contextuel limité
+- Fichiers bruts : `data/raw/japan/*.csv`
+- Note de nettoyage : `japan_translation_mapping.csv` nécessite l'encodage CP932/Shift-JIS.
+
+### Contexte démographique du Cameroun
+
+- Rôle : dénominateurs démographiques et contexte migratoire
+- Couverture : variable selon les fichiers, souvent jusqu'en 2017
+- Utilisation principale : contextualisation et normalisation uniquement
+- Fichiers bruts : `data/raw/context/*.csv`

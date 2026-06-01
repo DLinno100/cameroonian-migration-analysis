@@ -1,0 +1,31 @@
+measure_type,destination_country,value
+citizenship_acquisition,France,27689.0
+citizenship_acquisition,Belgium,10628.0
+citizenship_acquisition,Germany,9694.0
+citizenship_acquisition,Italy,5011.0
+citizenship_acquisition,United Kingdom,2343.0
+citizenship_acquisition,Spain,2244.0
+citizenship_acquisition,Switzerland,1614.0
+citizenship_acquisition,Sweden,973.0
+citizenship_acquisition,Netherlands,718.0
+citizenship_acquisition,Finland,559.0
+long_term_resident,France,326974.0
+long_term_resident,Italy,73931.0
+long_term_resident,Spain,42472.0
+long_term_resident,Belgium,40089.0
+long_term_resident,Germany,28741.0
+long_term_resident,United Kingdom,19903.0
+long_term_resident,Switzerland,18858.0
+long_term_resident,Sweden,5567.0
+long_term_resident,Finland,3288.0
+long_term_resident,Luxembourg,1936.0
+status_change,France,17922.0
+status_change,Belgium,2134.0
+status_change,Germany,1834.0
+status_change,Italy,1033.0
+status_change,Spain,562.0
+status_change,Finland,236.0
+status_change,Lithuania,160.0
+status_change,Sweden,133.0
+status_change,Luxembourg,132.0
+status_change,Ireland,114.0

@@ -77,6 +77,43 @@ FIRST_PERMIT_REASON_MAPPING = {
 }
 
 
+COUNTRY_NAME_MAPPING = {
+    "belgique": "Belgium",
+    "allemagne": "Germany",
+    "autriche": "Austria",
+    "bulgarie": "Bulgaria",
+    "chypre": "Cyprus",
+    "croatie": "Croatia",
+    "danemark": "Denmark",
+    "espagne": "Spain",
+    "estonie": "Estonia",
+    "finlande": "Finland",
+    "france": "France",
+    "grece": "Greece",
+    "hongrie": "Hungary",
+    "irlande": "Ireland",
+    "islande": "Iceland",
+    "italie": "Italy",
+    "lettonie": "Latvia",
+    "liechtenstein": "Liechtenstein",
+    "lituanie": "Lithuania",
+    "luxembourg": "Luxembourg",
+    "malte": "Malta",
+    "norvege": "Norway",
+    "pays-bas": "Netherlands",
+    "pologne": "Poland",
+    "portugal": "Portugal",
+    "roumanie": "Romania",
+    "serbie": "Serbia",
+    "slovaquie": "Slovakia",
+    "slovenie": "Slovenia",
+    "suisse": "Switzerland",
+    "suede": "Sweden",
+    "tchequie": "Czechia",
+    "united kingdom": "United Kingdom",
+}
+
+
 TEXT_COLUMNS = [
     "destination_country",
     "origin_country",
@@ -113,7 +150,7 @@ BASE_COLUMN_ORDER = [
 
 
 def assign_period(year):
-    """Assign the COVID-era period used across the migration analysis."""
+    """Attribue la période Covid utilisée dans toute l'analyse migratoire."""
     if pd.isna(year):
         return "outside_scope"
 
@@ -170,6 +207,27 @@ def normalize_reason_value(value):
     return FIRST_PERMIT_REASON_MAPPING.get(normalized, normalized)
 
 
+def normalize_country_key(value):
+    normalized = unicodedata.normalize("NFKD", value)
+    normalized = "".join(char for char in normalized if not unicodedata.combining(char))
+    return normalized.lower()
+
+
+def normalize_destination_country(value):
+    """Standardize destination names before analytical tables are built."""
+    if pd.isna(value):
+        return pd.NA
+
+    # UN DESA sometimes marks destination names with footnote stars.
+    cleaned = str(value).replace("*", "").strip()
+    cleaned = " ".join(cleaned.split())
+
+    if not cleaned:
+        return pd.NA
+
+    return COUNTRY_NAME_MAPPING.get(normalize_country_key(cleaned), cleaned)
+
+
 def add_origin_country(df):
     if "origin_country" not in df.columns:
         df["origin_country"] = COUNTRY_OF_ORIGIN
@@ -201,6 +259,9 @@ def clean_required_rows(df):
 
     df["year"] = pd.to_numeric(df["year"], errors="coerce")
     df["destination_country"] = df["destination_country"].astype("string").str.strip()
+    df["destination_country"] = (
+        df["destination_country"].apply(normalize_destination_country).astype("string")
+    )
 
     valid_rows = df["year"].notna() & df["destination_country"].notna()
     valid_rows &= df["destination_country"] != ""
@@ -255,6 +316,7 @@ def standardize_undesa():
         df["value"] = pd.NA
 
     df["dataset"] = "undesa_destinations"
+    df["source"] = "undesa"
     df["measure_type"] = "stock"
     df["analysis_question"] = "Q1_destinations"
 
@@ -290,8 +352,20 @@ def standardize_eurostat_first_permits():
         df["reason"] = pd.NA
 
     df["dataset"] = "eurostat_first_permits"
+    df["source"] = "eurostat"
     df["measure_type"] = "permit"
     df["analysis_question"] = "Q2_entry_reasons"
+
+    # Eurostat first permits have a main reason only. The explicit value keeps
+    # the Q2 analytical table compatible with OECD sub-indicators.
+    if "sub_reason" not in df.columns:
+        df["sub_reason"] = "not_applicable"
+    else:
+        missing_sub_reason = df["sub_reason"].isna() | (
+            df["sub_reason"].astype("string").str.strip() == ""
+        )
+        df.loc[missing_sub_reason, "sub_reason"] = "not_applicable"
+
     df = ensure_period(df)
     df = harmonize_types(df)
     return order_columns(df)
@@ -310,6 +384,7 @@ def standardize_eurostat_long_term_residents():
     )
 
     df["dataset"] = "eurostat_long_term_residents"
+    df["source"] = "eurostat"
     df["measure_type"] = "long_term_resident"
     df["analysis_question"] = "Q3_post_arrival_trajectories"
 
@@ -337,6 +412,7 @@ def standardize_eurostat_status_changes():
     )
 
     df["dataset"] = "eurostat_status_changes"
+    df["source"] = "eurostat"
     df["measure_type"] = "status_change"
     df["analysis_question"] = "Q3_post_arrival_trajectories"
 
@@ -363,6 +439,7 @@ def standardize_eurostat_citizenship_acquisition():
         df["nature"] = "citizenship_acquisition"
 
     df["dataset"] = "eurostat_citizenship_acquisition"
+    df["source"] = "eurostat"
     df["measure_type"] = "citizenship_acquisition"
     df["analysis_question"] = "Q3_post_arrival_trajectories"
 
@@ -408,6 +485,7 @@ def standardize_oecd_migration():
     df["sub_reason"] = df["measure_type"].map(OECD_SUB_REASON_MAPPING).fillna("not_applicable")
     df["analysis_question"] = df["measure_type"].map(OECD_ANALYSIS_QUESTION_MAPPING)
     df["dataset"] = "oecd_migration_database"
+    df["source"] = "oecd"
 
     df = harmonize_types(df)
     return order_columns(df)

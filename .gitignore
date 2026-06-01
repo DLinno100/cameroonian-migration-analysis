@@ -1,11 +1,18 @@
+.venv/
+.venv-1/
+venv/
+
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
 .env
-venv/
-.venv/
-outputs/
 .DS_Store
 Thumbs.db
+.~lock*
+.codex
+
+outputs/temp/
+outputs/cache/
 
 data/raw/

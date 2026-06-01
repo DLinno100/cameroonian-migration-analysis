@@ -1,0 +1,4 @@
+period,reason,value,period_total,share_pct
+pre_covid,family,25413.0,62557.0,40.62375113896127
+covid,education,11383.0,29161.0,39.03501251671753
+post_covid,education,24536.0,61289.0,40.03328492878004
