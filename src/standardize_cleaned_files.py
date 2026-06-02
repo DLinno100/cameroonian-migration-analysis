@@ -150,7 +150,7 @@ BASE_COLUMN_ORDER = [
 
 
 def assign_period(year):
-    """Attribue la période Covid utilisée dans toute l'analyse migratoire."""
+    """Assign the operational reference period used in the migration analysis."""
     if pd.isna(year):
         return "outside_scope"
 

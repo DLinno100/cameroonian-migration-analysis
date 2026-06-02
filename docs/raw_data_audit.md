@@ -1,263 +1,351 @@
-# Audit des données brutes - Migration camerounaise 2015-2024
+# Raw Data Audit - Cameroonian International Migration Trends (2015-2024)
 
-Date de l'audit : 2026-04-21
+Audit date: 2026-04-21
 
-## Objectif analytique
+## Analytical Objective
 
-Analyser l'évolution de la migration camerounaise sur 2015-2024, avec trois périodes comparables :
+This audit reviews the raw data sources collected for the project:
 
-- Pré-Covid : 2015-2019
-- Covid : 2020-2021
-- Post-Covid : 2022-2024
+**Cameroonian International Migration Trends (2015-2024): Destinations, Entry Reasons and Post-Arrival Trajectories Across Available Reference Years**
 
-Les données disponibles ne sont pas complètes pour toutes les périodes.
-Il faudra donc mener des analyses adaptées : certaines par année, d'autres à des moments précis, et d'autres de manière partielle selon les sources.
+The objective is to assess whether each source can support the analysis of Cameroonian international migration trends across the latest comparable data period, with a focus on:
 
-## Synthèse exécutive
+- destination countries of migrants originating from Cameroon
+- observable reasons for entry in key host countries
+- post-arrival trajectory indicators such as long-term residence, status change and citizenship acquisition
 
-Les sources les plus solides pour l'analyse 2015-2024 sont :
+Because some migration indicators are available only for selected reference years or partial annual ranges, the analysis focuses on comparable reference points and trend patterns rather than a complete annual causal analysis for every indicator.
 
-- Eurostat : très bonne source pour l'Europe (2015-2024), surtout sur les permis, les résidents de longue durée, les acquisitions de nationalité et les changements de statut.
-- UN DESA : très utile pour les données mondiales, mais seulement à certaines années précises (2015, 2020, 2024).
-- Canada IRCC : données très riches (2015-2026), mais les fichiers sont complexes et demandent beaucoup de nettoyage.
-- USA DHS / réfugiés : utile pour les États-Unis, mais les données sur les résidents permanents vont jusqu'à 2022, alors que celles sur les réfugiés couvrent 2015-2024.
-- OCDE : bon complément pour plusieurs pays, mais les données s'arrêtent à 2022 et les fichiers sont volumineux.
+The project does not aim to measure the causal effect of Covid-19. The year 2020 may appear as an important contextual point in some datasets, but it is not treated as the main explanatory factor.
 
-Les sources à utiliser avec prudence :
+## Executive Summary
 
-- UNHCR : les fichiers locaux s'arrêtent surtout en 2016 ou 2017 ; ils ne permettent pas l'analyse Covid/post-Covid sans mise à jour.
-- Japon : les visas Cameroun couvrent seulement 2009-2017 ; les fichiers inbound/outbound s'arrêtent en 2005.
-- StatCan recensement : exploitable comme point de contexte 2021, pas comme série annuelle.
-- Contexte démographique : utile pour normaliser ou contextualiser, mais pas pour mesurer les flux migratoires 2015-2024.
+The strongest sources for the final analytical pipeline are:
 
-## Inventaire et diagnostic par source
+- **UN DESA**: useful for global migrant stock by origin and destination country. For the project window, it provides reference points for 2015, 2020 and 2024.
+- **Eurostat**: strong source for European administrative indicators between 2015 and 2024, especially first permits, long-term residence, citizenship acquisition and status changes.
+- **OECD**: useful complementary source for selected OECD countries and indicators, but its indicators must be interpreted separately by `measure_type`.
 
-- UN DESA
-  - Fichier : `data/raw/global/undesa_cameroon_global_destination.csv`
-  - Couverture : 1990-2024 (points disponibles : 2015, 2020, 2024)
-  - Statut : prioritaire pour les destinations mondiales, mais non annuel
-  - Nettoyage :
-    - Filtrer `Origin == Cameroon`
-    - Convertir les nombres qui contiennent des espaces
-    - Garder `Total`, `Male`, `Female`
-    - Supprimer les agrégats selon l'analyse
+Sources explored but not retained in the final analytical pipeline:
 
-- Eurostat - Permis
-  - Fichier : `data/raw/europe/eurostat_first_permits_cameroon.xlsx`
-  - Couverture : 2015-2024
-  - Statut : prioritaire pour les motifs d'entrée en Europe
-  - Nettoyage :
-    - Extraire les feuilles 1 à 4
-    - Supprimer les métadonnées
-    - Transformer le format large en format long
-    - Gérer les flags (`:`, `b`, `e`, `p`)
+- **Canada IRCC**: rich data source, but complex and highly country-specific.
+- **USA DHS / Refugees**: useful for the United States, but coverage differs by dataset and does not fully align with the final comparative pipeline.
+- **UNHCR**: useful for refugees and asylum-related analysis, but the local files mostly stop around 2016 or 2017.
+- **Japan**: limited relevance for the 2015-2024 analytical period because some files stop before or near the start of the project window.
+- **StatCan census**: useful as a contextual point, but not as an annual migration series.
+- **Cameroon demographic context files**: useful for background context, but not for measuring international migration flows.
 
-- Eurostat - Résidents de longue durée
-  - Fichier : `data/raw/europe/eurostat_long_term_residents_cameroon.xlsx`
-  - Couverture : 2015-2024
-  - Statut : prioritaire pour les trajectoires après l'arrivée
-  - Nettoyage :
-    - Extraire les données par cadre légal
-    - Structurer en format long avec pays, année et cadre
+The final analytical pipeline prioritizes sources that provide broader comparability across destination countries, entry reasons and post-arrival indicators.
 
-- Eurostat - Changements de statut
-  - Fichier : `data/raw/europe/eurostat_status_changes_cameroon.xlsx`
-  - Couverture : 2020-2024
-  - Statut : utile pour la période Covid / post-Covid
-  - Nettoyage :
-    - Gérer les nombreuses feuilles âge/sexe
-    - Commencer avec les agrégats totaux
+## Source Inventory and Diagnostic
 
-- Eurostat - Acquisition de nationalité
-  - Fichier : `data/raw/europe/eurostat_citizenship_acquisition_cameroon.xlsx`
-  - Couverture : 2015-2024
-  - Statut : prioritaire pour l'intégration / naturalisation
-  - Nettoyage :
-    - Filtrer `Age = Total` et `Sex = Total`
-    - Réduire le nombre de feuilles utilisées
+### UN DESA
 
-- Canada IRCC
-  - Fichier : `data/raw/canada/ircc_*.xlsx`
-  - Couverture : 2015-2026
-  - Statut : prioritaire pour le Canada
-  - Nettoyage :
-    - Gérer les en-têtes multi-lignes
-    - Traiter les données mensuelles/trimestrielles
-    - Remplacer les valeurs `--`
-    - Limiter l'analyse à 2015-2024
+- File: `data/raw/global/undesa_cameroon_global_destination.csv`
+- Coverage: 1990-2024
+- Relevant reference years for this project: 2015, 2020 and 2024
+- Status: retained as the main source for global destination analysis
+- Main analytical use: Q1 - destination countries
+- Indicator type: migrant stock
 
-- StatCan
-  - Fichier : `data/raw/canada/statcan_cameroon_immigrant_status.csv`
-  - Couverture : recensement 2021
-  - Statut : contexte ponctuel
-  - Nettoyage :
-    - Ignorer les métadonnées initiales
-    - Lire à partir de l'en-tête principal
+Cleaning requirements:
 
-- USA - LPR
-  - Fichier : `data/raw/usa/usa_lawful_permanent_residents_cameroon.xlsx`
-  - Couverture : 2013-2022
-  - Statut : utilisable jusqu'en 2022 (2023-2024 manquent)
-  - Nettoyage :
-    - Extraire `Table 3d`
-    - Filtrer Cameroun
-    - Utiliser les années fiscales
+- Filter `Origin == Cameroon`
+- Convert numeric values stored with spaces or formatting issues
+- Keep relevant columns such as `Total`, `Male` and `Female`
+- Remove aggregate rows when the analysis focuses on individual destination countries
+- Standardize country names
+- Remove special characters such as `*` from country names when needed
 
-- USA - Réfugiés
-  - Fichier : `data/raw/usa/usa_refugee_arrivals_cameroon.xlsx`
-  - Couverture : 2015-2024
-  - Statut : utile pour les réfugiés
-  - Nettoyage :
-    - Extraire `Table 14`
-    - Filtrer la ligne Cameroun
-    - Harmoniser les années fiscales
+Analytical note:
 
-- USA - ACS
-  - Fichier : `data/raw/usa/usa_acs_selected_population_cameroon.xlsx`
-  - Couverture : 2024
-  - Statut : contexte ponctuel sur la diaspora
-  - Nettoyage :
-    - Extraire la feuille `Data`
-    - Conserver l'estimation et la marge d'erreur
+UN DESA measures migrant stock, not migration inflows. It identifies countries with the largest estimated number of migrants originating from Cameroon at a reference year, but it should not be interpreted as the number of arrivals during the period.
 
-- OCDE
-  - Fichier : `data/raw/global/oecd_migration_database_raw.csv`
-  - Couverture : 1995-2022 (Cameroun : 2015-2022)
-  - Statut : complément OCDE
-  - Nettoyage :
-    - Filtrer `CO2 == CMR`
-    - Sélectionner les variables pertinentes
-    - Faire attention aux doubles comptages
+### Eurostat - First Permits
 
-- UNHCR
-  - Fichier : `data/raw/unhcr/*.csv`
-  - Couverture : jusqu'à environ 2016/2017
-  - Statut : insuffisant pour la période récente
-  - Nettoyage :
-    - Mettre à jour si l'axe réfugiés/asile devient prioritaire
+- File: `data/raw/europe/eurostat_first_permits_cameroon.xlsx`
+- Coverage: 2015-2024
+- Status: retained as the main source for entry reason analysis in Europe
+- Main analytical use: Q2 - observable reasons for entry
+- Indicator type: first permits
 
-- Japon
-  - Fichier : `data/raw/japan/*.csv`
-  - Couverture : 2009-2017 pour les visas, plus ancien pour les autres fichiers
-  - Statut : faible pertinence pour 2015-2024
-  - Nettoyage :
-    - Gérer l'encodage CP932 / Shift-JIS
-    - Noter que les données récentes manquent
+Cleaning requirements:
 
-- Chypre
-  - Fichier : `data/raw/europe/cyprus_migration_foreign_born_population.xls`
-  - Couverture : à confirmer
-  - Statut : faible priorité
-  - Nettoyage :
-    - Convertir le fichier `.xls` avec LibreOffice / xlrd si nécessaire
+- Extract the relevant sheets corresponding to entry reasons
+- Remove metadata rows
+- Transform the data from wide format to long format
+- Manage Eurostat flags such as `:`, `b`, `e` and `p`
+- Standardize destination country names
+- Create harmonized reason categories such as `family`, `education`, `work` and `other`
 
-- Contexte Cameroun
-  - Fichier : `data/raw/context/*.csv`
-  - Couverture : variable, souvent jusqu'en 2017
-  - Statut : contexte uniquement
-  - Nettoyage :
-    - Corriger les lignes vides
-    - Transformer le format large en format long
+Analytical note:
 
-## Détails importants par thème analytique
+Eurostat first permits provide a direct breakdown of entry reasons, which makes this source the most suitable source for Q2.
 
-### 1. Évolution des destinations
+### Eurostat - Long-Term Residents
 
-Source principale : UN DESA.
+- File: `data/raw/europe/eurostat_long_term_residents_cameroon.xlsx`
+- Coverage: 2015-2024
+- Status: retained for post-arrival trajectory analysis
+- Main analytical use: Q3 - long-term residence
+- Indicator type: long-term resident status
 
-Le fichier contient 736 lignes pour `Origin == Cameroon`, 92 destinations/agrégats et les années 1990, 1995, 2000, 2005, 2010, 2015, 2020 et 2024. Pour la fenêtre d'étude, il ne donne donc que trois observations : 2015, 2020 et 2024.
+Cleaning requirements:
 
-Implication analytique : on peut comparer les stocks pré-Covid, au moment Covid et post-Covid, mais pas produire une évolution annuelle complète. Pour une analyse annuelle, il faut compléter avec Eurostat, Canada, USA et OCDE.
+- Extract data by legal framework when relevant
+- Transform the data into long format
+- Keep destination country, year, legal framework and value
+- Standardize country names and indicator labels
 
-### 2. Raisons d'entrée
+Analytical note:
 
-Source principale : Eurostat premiers permis.
+This source helps analyze durable settlement indicators among Cameroonian migrants in European destination countries.
 
-Le fichier `eurostat_first_permits_cameroon.xlsx` est très propre conceptuellement : 4 feuilles correspondent aux raisons familiales, éducationnelles, professionnelles et autres. Les données commencent autour de la ligne `TIME`, avec les pays en lignes et les années 2015-2024 en colonnes. Les colonnes de flags alternent avec les valeurs.
+### Eurostat - Status Changes
 
-Source complémentaire : Canada IRCC.
+- File: `data/raw/europe/eurostat_status_changes_cameroon.xlsx`
+- Coverage: 2020-2024
+- Status: retained as a complementary Eurostat post-arrival indicator
+- Main analytical use: Q3 - administrative status changes
+- Indicator type: status change
 
-Les fichiers IRCC donnent les admissions permanentes par catégorie, les permis d'études et les transitions du permis temporaire vers la résidence permanente. Ils sont riches, mais plus complexes que les fichiers Eurostat : en-têtes sur plusieurs lignes, mois, trimestres, catégories hiérarchiques et valeurs `--`.
+Cleaning requirements:
 
-### 3. Trajectoires après l'arrivée
+- Manage multiple sheets by age and sex
+- Start with total aggregates for portfolio analysis
+- Transform data into a consistent long format
+- Standardize measure types and country names
 
-Sources principales :
+Analytical note:
 
-- Eurostat résidents de longue durée : 2015-2024.
-- Eurostat acquisition de nationalité : 2015-2024.
-- Eurostat changements de statut : 2020-2024.
-- Canada `temp_to_pr` : 2015-2026, à limiter à 2015-2024.
-- USA LPR : 2015-2022 seulement dans le fichier actuel.
+This source does not cover the entire 2015-2024 period, but it provides useful information on administrative transitions after arrival.
 
-Implication analytique : l'Europe et le Canada permettent une lecture plus complète des trajectoires après l'arrivée. Les États-Unis demandent une mise à jour 2023-2024 si on veut une série complète.
+### Eurostat - Citizenship Acquisition
 
-## Problèmes de qualité et risques
+- File: `data/raw/europe/eurostat_citizenship_acquisition_cameroon.xlsx`
+- Coverage: 2015-2024
+- Status: retained for post-arrival trajectory analysis
+- Main analytical use: Q3 - citizenship acquisition
+- Indicator type: citizenship acquisition
 
-1. Couverture temporelle incomplète.
-   Plusieurs fichiers ne couvrent pas 2023-2024 ou s'arrêtent avant Covid. Il faut éviter d'interpréter une baisse comme un phénomène migratoire si elle vient d'une source arrêtée.
+Cleaning requirements:
 
-2. Différence entre flux et stocks.
-   UN DESA mesure des stocks de migrants ; Eurostat, IRCC et DHS mesurent souvent des flux administratifs ou des statuts. Il ne faut pas les additionner directement.
+- Filter `Age = Total` and `Sex = Total`
+- Reduce the number of sheets used
+- Transform data into long format
+- Standardize country names and measure types
 
-3. Années calendaires vs années fiscales.
-   Les fichiers USA DHS sont en années fiscales. Ils doivent être marqués comme tels dans les données nettoyées.
+Analytical note:
 
-4. Formats larges et métadonnées.
-   Beaucoup de fichiers Excel contiennent des lignes de titre, des notes, plusieurs feuilles et des flags. Le nettoyage doit extraire explicitement les zones tabulaires.
+Citizenship acquisition is interpreted as a more advanced stage of legal and civic integration in the destination country.
 
-5. Valeurs spéciales.
-   Eurostat utilise `:` pour les valeurs indisponibles et des flags comme `b`, `e`, `p`. Canada utilise `--` pour des petites valeurs ou suppressions. USA utilise parfois `D` pour suppression.
+### OECD Migration Database
 
-6. Encodage.
-   `data/raw/japan/japan_translation_mapping.csv` apparaît en mojibake s'il est lu en UTF-8 ; utiliser CP932/Shift-JIS.
+- File: `data/raw/global/oecd_migration_database_raw.csv`
+- Coverage: 1995-2022
+- Relevant Cameroon coverage: mainly 2015-2022
+- Status: retained as a complementary source
+- Main analytical use: Q1, Q2 and Q3 complementary indicators
+- Indicator types: migrant stock, inflows, worker inflows, asylum inflows and citizenship acquisition depending on the selected OECD variable
 
-7. Fichiers temporaires.
-   `data/raw/.~lock.MIG_01032024110110429.csv#` est un fichier de verrouillage temporaire et doit être ignoré.
+Cleaning requirements:
 
-## Recommandations de nettoyage
+- Filter `CO2 == CMR`
+- Select relevant OECD variables
+- Standardize variable names and measure types
+- Avoid double counting
+- Keep OECD indicators separate from UN DESA and Eurostat when definitions differ
 
-### Modèle commun recommandé
+Analytical note:
 
-Créer une table analytique longue avec les colonnes suivantes :
+OECD is useful as complementary evidence, but its indicators should not be directly merged with UN DESA or Eurostat totals without distinction.
+
+## Explored but Not Retained in the Final Analytical Pipeline
+
+### Canada IRCC
+
+- File pattern: `data/raw/canada/ircc_*.xlsx`
+- Coverage: 2015-2026
+- Status: explored but not retained in the final analytical pipeline
+- Potential use: Canada-specific admissions, study permits and temporary-to-permanent resident transitions
+
+Main reason for exclusion: the data is rich but highly specific to Canada and requires a dedicated cleaning logic. The final project prioritizes broader comparability across multiple destinations and data sources.
+
+### Statistics Canada
+
+- File: `data/raw/canada/statcan_cameroon_immigrant_status.csv`
+- Coverage: 2021 census
+- Status: explored as contextual information
+- Potential use: contextual snapshot of the Cameroonian diaspora in Canada
+
+Main reason for exclusion: the source provides a contextual point rather than a comparable annual or reference-year migration series.
+
+### USA DHS Sources
+
+- File examples: `data/raw/usa/usa_lawful_permanent_residents_cameroon.xlsx`, `data/raw/usa/usa_refugee_arrivals_cameroon.xlsx`
+- Coverage: varies by source
+- Status: explored but not retained in the final analytical pipeline
+- Potential use: USA-specific permanent residence or refugee analysis
+
+Main reason for exclusion: the sources are useful for a United States extension, but they use fiscal years and source-specific definitions that do not align cleanly with the final comparative pipeline.
+
+### USA ACS
+
+- File: `data/raw/usa/usa_acs_selected_population_cameroon.xlsx`
+- Coverage: 2024
+- Status: explored as contextual information
+- Potential use: snapshot of the Cameroon-born population in the United States
+
+Main reason for exclusion: the source provides a contextual snapshot, not a comparable migration trend series.
+
+### UNHCR
+
+- File pattern: `data/raw/unhcr/*.csv`
+- Coverage: mostly up to 2016 or 2017 in the local files
+- Status: explored but not retained in the final analytical pipeline
+- Potential use: refugees and asylum-related analysis
+
+Main reason for exclusion: the available local files do not cover the recent 2015-2024 period sufficiently for the project's final analytical scope.
+
+### Japan
+
+- File pattern: `data/raw/japan/*.csv`
+- Coverage: 2009-2017 for visa-related Cameroon data, older for inbound/outbound files
+- Status: explored but not retained
+- Potential use: Japan-specific migration or visa analysis
+
+Main reason for exclusion: the available files do not provide sufficient coverage for the 2015-2024 analytical period.
+
+### Cyprus
+
+- File: `data/raw/europe/cyprus_migration_foreign_born_population.xls`
+- Coverage: to be confirmed
+- Status: low priority
+- Potential use: country-specific contextual information
+
+Main reason for exclusion: the source was not prioritized because the final pipeline already uses broader Eurostat coverage for European indicators.
+
+### Cameroon Context Files
+
+- File pattern: `data/raw/context/*.csv`
+- Coverage: variable, often up to 2017
+- Status: context only
+- Potential use: demographic background or normalization
+
+Main reason for exclusion: these files are useful for background context but do not directly measure international migration destinations, entry reasons or post-arrival trajectories.
+
+## Key Analytical Themes
+
+### 1. Destination Countries
+
+Main source: UN DESA.
+
+UN DESA provides a global view of migrant stock by origin and destination country. For this project, the relevant reference years are 2015, 2020 and 2024.
+
+The project can compare the estimated stock of migrants originating from Cameroon across these reference years. It can identify the countries with the largest estimated stock in 2024 and the countries where the stock changed the most between 2015 and 2024.
+
+### 2. Entry Reasons
+
+Main source: Eurostat first permits.
+
+Eurostat first permits provide a structured breakdown of entry reasons, especially:
+
+- family
+- education
+- work
+- other
+
+OECD worker inflows, seasonal worker inflows and asylum-related inflows can be used as complementary evidence, but not as direct equivalents of Eurostat first permits.
+
+### 3. Post-Arrival Trajectories
+
+Main source: Eurostat.
+
+The main Eurostat post-arrival indicators are:
+
+- long-term residence
+- status changes
+- citizenship acquisition
+
+These indicators describe different dimensions of migrant trajectories after arrival. They should be analyzed separately because they do not measure the same process.
+
+## Data Quality Issues and Risks
+
+### 1. Incomplete Time Coverage
+
+Several sources do not cover the full 2015-2024 period. Missing recent years should not be interpreted as a migration decline if the source simply stops earlier.
+
+### 2. Difference Between Stocks and Flows
+
+UN DESA measures migrant stock, while Eurostat, OECD, IRCC and DHS often measure administrative flows, permits or statuses. These indicators should not be added together.
+
+### 3. Calendar Years vs Fiscal Years
+
+USA DHS data uses fiscal years. If these data are used later, they must be clearly marked as fiscal year data.
+
+### 4. Wide Formats and Metadata
+
+Many Excel files contain title rows, metadata, multiple sheets, flags and notes. The cleaning process must explicitly extract the tabular data.
+
+### 5. Special Values
+
+Different sources use special values:
+
+- Eurostat uses `:` for unavailable values and flags such as `b`, `e` and `p`
+- Canada uses `--`
+- USA may use `D` for suppressed values
+
+These values must be handled before numerical analysis.
+
+### 6. Encoding Issues
+
+Some Japan files may require CP932 or Shift-JIS encoding instead of UTF-8.
+
+### 7. Temporary Files
+
+Files such as `.~lock*` are temporary lock files and should be ignored.
+
+## Recommended Cleaning Framework
+
+The recommended long-format analytical structure includes:
 
 - `source`
 - `dataset`
 - `indicator`
 - `origin_country`
 - `destination_country`
-- `destination_region`
 - `year`
-- `period` avec les valeurs `pre_covid`, `covid`, `post_covid`
-- `measure_type` avec des valeurs comme `stock`, `flow`, `permit`, `status_change`, `naturalisation`, `refugee_arrival`
-- `reason` si disponible
-- `sex` si disponible
-- `age_group` si disponible
+- `reference_group` or `period`
+- `measure_type`
+- `reason`
+- `sub_reason`
+- `sex`
+- `age_group`
 - `value`
 - `unit`
 - `flag`
-- `year_type` avec les valeurs `calendar` ou `fiscal`
+- `year_type`
 - `notes`
 
-### Règles de période
+Recommended standardized values for `measure_type` include:
 
-- 2015-2019 : `pre_covid`
-- 2020-2021 : `covid`
-- 2022-2024 : `post_covid`
+- `stock`
+- `inflow`
+- `permit`
+- `long_term_resident`
+- `status_change`
+- `citizenship_acquisition`
+- `asylum_inflow`
+- `worker_inflow`
+- `seasonal_worker_inflow`
 
-### Ordre de priorité pour le pipeline
+## Priority Order for the Final Pipeline
 
-1. Nettoyer Eurostat first permits, long-term residents et citizenship acquisition.
-2. Nettoyer UN DESA destinations Cameroun.
-3. Nettoyer Canada IRCC admissions, study permits et temp-to-PR.
-4. Nettoyer USA refugees et LPR.
-5. Ajouter le filtre Cameroun dans l'OCDE pour compléter les destinations OCDE jusqu'à 2022.
-6. Garder UNHCR/Japon/contexte comme annexes ou mettre à jour les sources avant l'analyse principale.
+The final pipeline should prioritize:
 
-## Actions conseillées avant l'analyse
+1. UN DESA for global destination stock analysis.
+2. Eurostat first permits for observable entry reasons.
+3. Eurostat long-term residents, status changes and citizenship acquisition for post-arrival trajectory indicators.
+4. OECD as complementary evidence for selected OECD indicators.
 
-- Installer les dépendances du projet (`pandas`, `openpyxl`) avant d'écrire les notebooks/pipelines.
-- Ajouter `xlrd` seulement si le fichier `.xls` Chypre doit être exploité.
-- Ajouter une règle d'exclusion pour `.~lock*` dans le chargement des fichiers raw.
-- Documenter pour chaque table nettoyée si l'année est calendaire ou fiscale.
-- Produire un rapport de couverture par source avec les années 2015-2024 manquantes.
-- Ne pas interpoler UN DESA entre 2015, 2020 et 2024 pour l'analyse principale ; si une interpolation est faite, la marquer comme estimation.
+Canada, USA, Japan, UNHCR and contextual files should remain documented as explored sources, but not included in the final analytical pipeline unless the project is expanded later.
