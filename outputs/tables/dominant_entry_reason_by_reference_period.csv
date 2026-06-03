@@ -1,4 +1,4 @@
-period,reason,value,period_total,share_pct
+reference_period,reason,value,reference_period_total,share_pct
 2015-2019,family,25413.0,62557.0,40.62375113896127
 2020-2021,education,11383.0,29161.0,39.03501251671753
 2022-2024,education,24536.0,61289.0,40.03328492878004

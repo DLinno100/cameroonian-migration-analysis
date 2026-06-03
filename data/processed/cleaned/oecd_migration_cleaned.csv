@@ -1,1031 +1,1031 @@
-destination_country,year,permits,source,nature,covid_period
-Australia,2015,26,oecd,Inflows of foreign population by nationality,pre_covid
-Australia,2016,18,oecd,Inflows of foreign population by nationality,pre_covid
-Australia,2017,11,oecd,Inflows of foreign population by nationality,pre_covid
-Australia,2018,15,oecd,Inflows of foreign population by nationality,pre_covid
-Australia,2019,15,oecd,Inflows of foreign population by nationality,pre_covid
-Australia,2020,19,oecd,Inflows of foreign population by nationality,covid
-Australia,2021,25,oecd,Inflows of foreign population by nationality,covid
-Australia,2015,0,oecd,Outflows of foreign population by nationality,pre_covid
-Australia,2016,0,oecd,Outflows of foreign population by nationality,pre_covid
-Australia,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Australia,2016,18,oecd,Inflows of asylum seekers by nationality,pre_covid
-Australia,2019,5,oecd,Inflows of asylum seekers by nationality,pre_covid
-Australia,2020,5,oecd,Inflows of asylum seekers by nationality,covid
-Australia,2021,0,oecd,Inflows of asylum seekers by nationality,covid
-Austria,2015,93,oecd,Inflows of foreign population by nationality,pre_covid
-Austria,2016,72,oecd,Inflows of foreign population by nationality,pre_covid
-Austria,2017,85,oecd,Inflows of foreign population by nationality,pre_covid
-Austria,2018,58,oecd,Inflows of foreign population by nationality,pre_covid
-Austria,2019,41,oecd,Inflows of foreign population by nationality,pre_covid
-Austria,2020,42,oecd,Inflows of foreign population by nationality,covid
-Austria,2021,55,oecd,Inflows of foreign population by nationality,covid
-Austria,2015,26,oecd,Outflows of foreign population by nationality,pre_covid
-Austria,2016,40,oecd,Outflows of foreign population by nationality,pre_covid
-Austria,2017,49,oecd,Outflows of foreign population by nationality,pre_covid
-Austria,2018,55,oecd,Outflows of foreign population by nationality,pre_covid
-Austria,2019,41,oecd,Outflows of foreign population by nationality,pre_covid
-Austria,2020,23,oecd,Outflows of foreign population by nationality,covid
-Austria,2021,36,oecd,Outflows of foreign population by nationality,covid
-Austria,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Austria,2016,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Austria,2017,60,oecd,Inflows of asylum seekers by nationality,pre_covid
-Austria,2018,30,oecd,Inflows of asylum seekers by nationality,pre_covid
-Austria,2019,30,oecd,Inflows of asylum seekers by nationality,pre_covid
-Austria,2020,20,oecd,Inflows of asylum seekers by nationality,covid
-Austria,2021,30,oecd,Inflows of asylum seekers by nationality,covid
-Belgium,2015,1504,oecd,Inflows of foreign population by nationality,pre_covid
-Belgium,2016,1611,oecd,Inflows of foreign population by nationality,pre_covid
-Belgium,2017,1698,oecd,Inflows of foreign population by nationality,pre_covid
-Belgium,2018,1754,oecd,Inflows of foreign population by nationality,pre_covid
-Belgium,2019,1775,oecd,Inflows of foreign population by nationality,pre_covid
-Belgium,2020,1735,oecd,Inflows of foreign population by nationality,covid
-Belgium,2021,2765,oecd,Inflows of foreign population by nationality,covid
-Belgium,2015,527,oecd,Outflows of foreign population by nationality,pre_covid
-Belgium,2016,519,oecd,Outflows of foreign population by nationality,pre_covid
-Belgium,2017,409,oecd,Outflows of foreign population by nationality,pre_covid
-Belgium,2018,424,oecd,Outflows of foreign population by nationality,pre_covid
-Belgium,2019,329,oecd,Outflows of foreign population by nationality,pre_covid
-Belgium,2020,418,oecd,Outflows of foreign population by nationality,covid
-Belgium,2021,470,oecd,Outflows of foreign population by nationality,covid
-Belgium,2015,278,oecd,Inflows of asylum seekers by nationality,pre_covid
-Belgium,2016,257,oecd,Inflows of asylum seekers by nationality,pre_covid
-Belgium,2017,350,oecd,Inflows of asylum seekers by nationality,pre_covid
-Belgium,2018,355,oecd,Inflows of asylum seekers by nationality,pre_covid
-Belgium,2019,390,oecd,Inflows of asylum seekers by nationality,pre_covid
-Belgium,2020,270,oecd,Inflows of asylum seekers by nationality,covid
-Belgium,2021,400,oecd,Inflows of asylum seekers by nationality,covid
-Canada,2015,2034,oecd,Inflows of foreign population by nationality,pre_covid
-Canada,2016,2110,oecd,Inflows of foreign population by nationality,pre_covid
-Canada,2017,2285,oecd,Inflows of foreign population by nationality,pre_covid
-Canada,2018,2275,oecd,Inflows of foreign population by nationality,pre_covid
-Canada,2019,2950,oecd,Inflows of foreign population by nationality,pre_covid
-Canada,2020,1595,oecd,Inflows of foreign population by nationality,covid
-Canada,2021,2560,oecd,Inflows of foreign population by nationality,covid
-Canada,2015,210,oecd,Inflows of asylum seekers by nationality,pre_covid
-Canada,2016,182,oecd,Inflows of asylum seekers by nationality,pre_covid
-Canada,2017,245,oecd,Inflows of asylum seekers by nationality,pre_covid
-Canada,2018,386,oecd,Inflows of asylum seekers by nationality,pre_covid
-Canada,2019,407,oecd,Inflows of asylum seekers by nationality,pre_covid
-Canada,2020,121,oecd,Inflows of asylum seekers by nationality,covid
-Canada,2021,126,oecd,Inflows of asylum seekers by nationality,covid
-Czechia,2015,8,oecd,Inflows of foreign population by nationality,pre_covid
-Czechia,2016,5,oecd,Inflows of foreign population by nationality,pre_covid
-Czechia,2015,6,oecd,Outflows of foreign population by nationality,pre_covid
-Czechia,2016,4,oecd,Outflows of foreign population by nationality,pre_covid
-Czechia,2017,5,oecd,Outflows of foreign population by nationality,pre_covid
-Czechia,2018,7,oecd,Outflows of foreign population by nationality,pre_covid
-Czechia,2019,7,oecd,Outflows of foreign population by nationality,pre_covid
-Czechia,2020,4,oecd,Outflows of foreign population by nationality,covid
-Czechia,2021,3,oecd,Outflows of foreign population by nationality,covid
-Czechia,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Czechia,2016,4,oecd,Inflows of asylum seekers by nationality,pre_covid
-Czechia,2017,5,oecd,Inflows of asylum seekers by nationality,pre_covid
-Czechia,2018,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Czechia,2019,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Czechia,2020,0,oecd,Inflows of asylum seekers by nationality,covid
-Czechia,2021,0,oecd,Inflows of asylum seekers by nationality,covid
-Denmark,2015,88,oecd,Inflows of foreign population by nationality,pre_covid
-Denmark,2016,87,oecd,Inflows of foreign population by nationality,pre_covid
-Denmark,2017,71,oecd,Inflows of foreign population by nationality,pre_covid
-Denmark,2018,57,oecd,Inflows of foreign population by nationality,pre_covid
-Denmark,2019,46,oecd,Inflows of foreign population by nationality,pre_covid
-Denmark,2020,47,oecd,Inflows of foreign population by nationality,covid
-Denmark,2021,54,oecd,Inflows of foreign population by nationality,covid
-Denmark,2015,54,oecd,Outflows of foreign population by nationality,pre_covid
-Denmark,2016,56,oecd,Outflows of foreign population by nationality,pre_covid
-Denmark,2017,71,oecd,Outflows of foreign population by nationality,pre_covid
-Denmark,2018,52,oecd,Outflows of foreign population by nationality,pre_covid
-Denmark,2019,59,oecd,Outflows of foreign population by nationality,pre_covid
-Denmark,2020,31,oecd,Outflows of foreign population by nationality,covid
-Denmark,2021,35,oecd,Outflows of foreign population by nationality,covid
-Denmark,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Denmark,2016,11,oecd,Inflows of asylum seekers by nationality,pre_covid
-Denmark,2017,15,oecd,Inflows of asylum seekers by nationality,pre_covid
-Denmark,2018,10,oecd,Inflows of asylum seekers by nationality,pre_covid
-Denmark,2019,20,oecd,Inflows of asylum seekers by nationality,pre_covid
-Denmark,2020,5,oecd,Inflows of asylum seekers by nationality,covid
-Denmark,2021,5,oecd,Inflows of asylum seekers by nationality,covid
-Finland,2015,67,oecd,Inflows of foreign population by nationality,pre_covid
-Finland,2016,112,oecd,Inflows of foreign population by nationality,pre_covid
-Finland,2017,87,oecd,Inflows of foreign population by nationality,pre_covid
-Finland,2018,64,oecd,Inflows of foreign population by nationality,pre_covid
-Finland,2019,80,oecd,Inflows of foreign population by nationality,pre_covid
-Finland,2020,111,oecd,Inflows of foreign population by nationality,covid
-Finland,2021,122,oecd,Inflows of foreign population by nationality,covid
-Finland,2015,4,oecd,Outflows of foreign population by nationality,pre_covid
-Finland,2016,6,oecd,Outflows of foreign population by nationality,pre_covid
-Finland,2017,4,oecd,Outflows of foreign population by nationality,pre_covid
-Finland,2018,14,oecd,Outflows of foreign population by nationality,pre_covid
-Finland,2019,12,oecd,Outflows of foreign population by nationality,pre_covid
-Finland,2020,16,oecd,Outflows of foreign population by nationality,covid
-Finland,2021,7,oecd,Outflows of foreign population by nationality,covid
-Finland,2015,28,oecd,Inflows of asylum seekers by nationality,pre_covid
-Finland,2016,86,oecd,Inflows of asylum seekers by nationality,pre_covid
-Finland,2017,45,oecd,Inflows of asylum seekers by nationality,pre_covid
-Finland,2018,55,oecd,Inflows of asylum seekers by nationality,pre_covid
-Finland,2019,60,oecd,Inflows of asylum seekers by nationality,pre_covid
-Finland,2020,25,oecd,Inflows of asylum seekers by nationality,covid
-Finland,2021,25,oecd,Inflows of asylum seekers by nationality,covid
-France,2015,3164,oecd,Inflows of foreign population by nationality,pre_covid
-France,2016,3197,oecd,Inflows of foreign population by nationality,pre_covid
-France,2017,3446,oecd,Inflows of foreign population by nationality,pre_covid
-France,2018,3400,oecd,Inflows of foreign population by nationality,pre_covid
-France,2019,3647,oecd,Inflows of foreign population by nationality,pre_covid
-France,2020,3384,oecd,Inflows of foreign population by nationality,covid
-France,2021,4024,oecd,Inflows of foreign population by nationality,covid
-France,2022,3815,oecd,Inflows of foreign population by nationality,post_covid
-France,2015,384,oecd,Inflows of asylum seekers by nationality,pre_covid
-France,2016,397,oecd,Inflows of asylum seekers by nationality,pre_covid
-France,2017,605,oecd,Inflows of asylum seekers by nationality,pre_covid
-France,2018,1020,oecd,Inflows of asylum seekers by nationality,pre_covid
-France,2019,1290,oecd,Inflows of asylum seekers by nationality,pre_covid
-France,2020,855,oecd,Inflows of asylum seekers by nationality,covid
-France,2021,975,oecd,Inflows of asylum seekers by nationality,covid
-Germany,2015,3189,oecd,Inflows of foreign population by nationality,pre_covid
-Germany,2016,3109,oecd,Inflows of foreign population by nationality,pre_covid
-Germany,2017,2583,oecd,Inflows of foreign population by nationality,pre_covid
-Germany,2018,3790,oecd,Inflows of foreign population by nationality,pre_covid
-Germany,2019,4228,oecd,Inflows of foreign population by nationality,pre_covid
-Germany,2020,1889,oecd,Inflows of foreign population by nationality,covid
-Germany,2021,1978,oecd,Inflows of foreign population by nationality,covid
-Germany,2015,980,oecd,Outflows of foreign population by nationality,pre_covid
-Germany,2016,1301,oecd,Outflows of foreign population by nationality,pre_covid
-Germany,2017,1095,oecd,Outflows of foreign population by nationality,pre_covid
-Germany,2018,1251,oecd,Outflows of foreign population by nationality,pre_covid
-Germany,2019,1543,oecd,Outflows of foreign population by nationality,pre_covid
-Germany,2020,1218,oecd,Outflows of foreign population by nationality,covid
-Germany,2021,977,oecd,Outflows of foreign population by nationality,covid
-Germany,2015,964,oecd,Inflows of asylum seekers by nationality,pre_covid
-Germany,2016,1351,oecd,Inflows of asylum seekers by nationality,pre_covid
-Germany,2017,1100,oecd,Inflows of asylum seekers by nationality,pre_covid
-Germany,2018,920,oecd,Inflows of asylum seekers by nationality,pre_covid
-Germany,2019,815,oecd,Inflows of asylum seekers by nationality,pre_covid
-Germany,2020,475,oecd,Inflows of asylum seekers by nationality,covid
-Germany,2021,385,oecd,Inflows of asylum seekers by nationality,covid
-Greece,2015,155,oecd,Inflows of asylum seekers by nationality,pre_covid
-Greece,2016,211,oecd,Inflows of asylum seekers by nationality,pre_covid
-Greece,2017,455,oecd,Inflows of asylum seekers by nationality,pre_covid
-Greece,2018,1035,oecd,Inflows of asylum seekers by nationality,pre_covid
-Greece,2019,855,oecd,Inflows of asylum seekers by nationality,pre_covid
-Greece,2020,395,oecd,Inflows of asylum seekers by nationality,covid
-Greece,2021,190,oecd,Inflows of asylum seekers by nationality,covid
-Hungary,2015,63,oecd,Inflows of foreign population by nationality,pre_covid
-Hungary,2016,95,oecd,Inflows of foreign population by nationality,pre_covid
-Hungary,2017,80,oecd,Inflows of foreign population by nationality,pre_covid
-Hungary,2018,40,oecd,Inflows of foreign population by nationality,pre_covid
-Hungary,2019,32,oecd,Inflows of foreign population by nationality,pre_covid
-Hungary,2020,13,oecd,Inflows of foreign population by nationality,covid
-Hungary,2021,17,oecd,Inflows of foreign population by nationality,covid
-Hungary,2015,25,oecd,Outflows of foreign population by nationality,pre_covid
-Hungary,2016,22,oecd,Outflows of foreign population by nationality,pre_covid
-Hungary,2017,41,oecd,Outflows of foreign population by nationality,pre_covid
-Hungary,2018,13,oecd,Outflows of foreign population by nationality,pre_covid
-Hungary,2019,3,oecd,Outflows of foreign population by nationality,pre_covid
-Hungary,2020,59,oecd,Outflows of foreign population by nationality,covid
-Hungary,2021,38,oecd,Outflows of foreign population by nationality,covid
-Hungary,2015,628,oecd,Inflows of asylum seekers by nationality,pre_covid
-Hungary,2016,9,oecd,Inflows of asylum seekers by nationality,pre_covid
-Hungary,2017,10,oecd,Inflows of asylum seekers by nationality,pre_covid
-Hungary,2018,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Hungary,2019,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Hungary,2020,0,oecd,Inflows of asylum seekers by nationality,covid
-Hungary,2021,0,oecd,Inflows of asylum seekers by nationality,covid
-Iceland,2015,3,oecd,Inflows of foreign population by nationality,pre_covid
-Iceland,2016,4,oecd,Inflows of foreign population by nationality,pre_covid
-Iceland,2017,1,oecd,Inflows of foreign population by nationality,pre_covid
-Iceland,2018,0,oecd,Inflows of foreign population by nationality,pre_covid
-Iceland,2019,7,oecd,Inflows of foreign population by nationality,pre_covid
-Iceland,2020,6,oecd,Inflows of foreign population by nationality,covid
-Iceland,2021,3,oecd,Inflows of foreign population by nationality,covid
-Iceland,2015,2,oecd,Outflows of foreign population by nationality,pre_covid
-Iceland,2016,1,oecd,Outflows of foreign population by nationality,pre_covid
-Iceland,2017,3,oecd,Outflows of foreign population by nationality,pre_covid
-Iceland,2018,1,oecd,Outflows of foreign population by nationality,pre_covid
-Iceland,2019,1,oecd,Outflows of foreign population by nationality,pre_covid
-Iceland,2020,4,oecd,Outflows of foreign population by nationality,covid
-Iceland,2021,0,oecd,Outflows of foreign population by nationality,covid
-Iceland,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Iceland,2016,1,oecd,Inflows of asylum seekers by nationality,pre_covid
-Iceland,2018,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Iceland,2019,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Iceland,2020,0,oecd,Inflows of asylum seekers by nationality,covid
-Iceland,2021,0,oecd,Inflows of asylum seekers by nationality,covid
-Ireland,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Ireland,2016,4,oecd,Inflows of asylum seekers by nationality,pre_covid
-Ireland,2017,20,oecd,Inflows of asylum seekers by nationality,pre_covid
-Ireland,2018,25,oecd,Inflows of asylum seekers by nationality,pre_covid
-Ireland,2019,30,oecd,Inflows of asylum seekers by nationality,pre_covid
-Ireland,2020,10,oecd,Inflows of asylum seekers by nationality,covid
-Ireland,2021,5,oecd,Inflows of asylum seekers by nationality,covid
-Italy,2015,821,oecd,Inflows of foreign population by nationality,pre_covid
-Italy,2016,1242,oecd,Inflows of foreign population by nationality,pre_covid
-Italy,2017,2006,oecd,Inflows of foreign population by nationality,pre_covid
-Italy,2018,1700,oecd,Inflows of foreign population by nationality,pre_covid
-Italy,2019,991,oecd,Inflows of foreign population by nationality,pre_covid
-Italy,2020,685,oecd,Inflows of foreign population by nationality,covid
-Italy,2021,818,oecd,Inflows of foreign population by nationality,covid
-Italy,2015,68,oecd,Outflows of foreign population by nationality,pre_covid
-Italy,2016,55,oecd,Outflows of foreign population by nationality,pre_covid
-Italy,2017,88,oecd,Outflows of foreign population by nationality,pre_covid
-Italy,2018,67,oecd,Outflows of foreign population by nationality,pre_covid
-Italy,2019,179,oecd,Outflows of foreign population by nationality,pre_covid
-Italy,2020,92,oecd,Outflows of foreign population by nationality,covid
-Italy,2021,196,oecd,Outflows of foreign population by nationality,covid
-Italy,2015,332,oecd,Inflows of asylum seekers by nationality,pre_covid
-Italy,2016,1989,oecd,Inflows of asylum seekers by nationality,pre_covid
-Italy,2017,1995,oecd,Inflows of asylum seekers by nationality,pre_covid
-Italy,2018,495,oecd,Inflows of asylum seekers by nationality,pre_covid
-Italy,2019,175,oecd,Inflows of asylum seekers by nationality,pre_covid
-Italy,2020,185,oecd,Inflows of asylum seekers by nationality,covid
-Italy,2021,335,oecd,Inflows of asylum seekers by nationality,covid
-Japan,2015,131,oecd,Inflows of foreign population by nationality,pre_covid
-Japan,2016,138,oecd,Inflows of foreign population by nationality,pre_covid
-Japan,2017,209,oecd,Inflows of foreign population by nationality,pre_covid
-Japan,2018,136,oecd,Inflows of foreign population by nationality,pre_covid
-Japan,2019,211,oecd,Inflows of foreign population by nationality,pre_covid
-Japan,2020,42,oecd,Inflows of foreign population by nationality,covid
-Japan,2021,22,oecd,Inflows of foreign population by nationality,covid
-Japan,2015,121,oecd,Outflows of foreign population by nationality,pre_covid
-Japan,2016,104,oecd,Outflows of foreign population by nationality,pre_covid
-Japan,2017,140,oecd,Outflows of foreign population by nationality,pre_covid
-Japan,2018,110,oecd,Outflows of foreign population by nationality,pre_covid
-Japan,2019,161,oecd,Outflows of foreign population by nationality,pre_covid
-Japan,2020,35,oecd,Outflows of foreign population by nationality,covid
-Japan,2021,41,oecd,Outflows of foreign population by nationality,covid
-Japan,2015,51,oecd,Inflows of asylum seekers by nationality,pre_covid
-Japan,2016,66,oecd,Inflows of asylum seekers by nationality,pre_covid
-Japan,2017,98,oecd,Inflows of asylum seekers by nationality,pre_covid
-Japan,2018,203,oecd,Inflows of asylum seekers by nationality,pre_covid
-Japan,2019,234,oecd,Inflows of asylum seekers by nationality,pre_covid
-Japan,2020,0,oecd,Inflows of asylum seekers by nationality,covid
-Japan,2021,0,oecd,Inflows of asylum seekers by nationality,covid
-Korea,2015,157,oecd,Inflows of foreign population by nationality,pre_covid
-Korea,2016,252,oecd,Inflows of foreign population by nationality,pre_covid
-Korea,2017,240,oecd,Inflows of foreign population by nationality,pre_covid
-Korea,2018,174,oecd,Inflows of foreign population by nationality,pre_covid
-Korea,2019,105,oecd,Inflows of foreign population by nationality,pre_covid
-Korea,2020,53,oecd,Inflows of foreign population by nationality,covid
-Korea,2021,71,oecd,Inflows of foreign population by nationality,covid
-Korea,2015,102,oecd,Outflows of foreign population by nationality,pre_covid
-Korea,2016,139,oecd,Outflows of foreign population by nationality,pre_covid
-Korea,2017,147,oecd,Outflows of foreign population by nationality,pre_covid
-Korea,2018,145,oecd,Outflows of foreign population by nationality,pre_covid
-Korea,2019,202,oecd,Outflows of foreign population by nationality,pre_covid
-Korea,2020,117,oecd,Outflows of foreign population by nationality,covid
-Korea,2021,108,oecd,Outflows of foreign population by nationality,covid
-Korea,2015,70,oecd,Inflows of asylum seekers by nationality,pre_covid
-Korea,2016,121,oecd,Inflows of asylum seekers by nationality,pre_covid
-Korea,2017,151,oecd,Inflows of asylum seekers by nationality,pre_covid
-Korea,2018,185,oecd,Inflows of asylum seekers by nationality,pre_covid
-Korea,2019,120,oecd,Inflows of asylum seekers by nationality,pre_covid
-Korea,2020,62,oecd,Inflows of asylum seekers by nationality,covid
-Korea,2021,48,oecd,Inflows of asylum seekers by nationality,covid
-Luxembourg,2015,77,oecd,Inflows of foreign population by nationality,pre_covid
-Luxembourg,2016,70,oecd,Inflows of foreign population by nationality,pre_covid
-Luxembourg,2017,114,oecd,Inflows of foreign population by nationality,pre_covid
-Luxembourg,2018,155,oecd,Inflows of foreign population by nationality,pre_covid
-Luxembourg,2019,130,oecd,Inflows of foreign population by nationality,pre_covid
-Luxembourg,2020,125,oecd,Inflows of foreign population by nationality,covid
-Luxembourg,2021,192,oecd,Inflows of foreign population by nationality,covid
-Luxembourg,2015,24,oecd,Outflows of foreign population by nationality,pre_covid
-Luxembourg,2016,14,oecd,Outflows of foreign population by nationality,pre_covid
-Luxembourg,2017,23,oecd,Outflows of foreign population by nationality,pre_covid
-Luxembourg,2018,40,oecd,Outflows of foreign population by nationality,pre_covid
-Luxembourg,2019,83,oecd,Outflows of foreign population by nationality,pre_covid
-Luxembourg,2020,27,oecd,Outflows of foreign population by nationality,covid
-Luxembourg,2021,55,oecd,Outflows of foreign population by nationality,covid
-Luxembourg,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Luxembourg,2016,18,oecd,Inflows of asylum seekers by nationality,pre_covid
-Luxembourg,2017,15,oecd,Inflows of asylum seekers by nationality,pre_covid
-Luxembourg,2018,15,oecd,Inflows of asylum seekers by nationality,pre_covid
-Luxembourg,2019,25,oecd,Inflows of asylum seekers by nationality,pre_covid
-Luxembourg,2020,20,oecd,Inflows of asylum seekers by nationality,covid
-Luxembourg,2021,25,oecd,Inflows of asylum seekers by nationality,covid
-Mexico,2015,12,oecd,Inflows of foreign population by nationality,pre_covid
-Mexico,2016,15,oecd,Inflows of foreign population by nationality,pre_covid
-Mexico,2017,14,oecd,Inflows of foreign population by nationality,pre_covid
-Mexico,2018,15,oecd,Inflows of foreign population by nationality,pre_covid
-Mexico,2019,21,oecd,Inflows of foreign population by nationality,pre_covid
-Mexico,2020,25,oecd,Inflows of foreign population by nationality,covid
-Mexico,2021,18,oecd,Inflows of foreign population by nationality,covid
-Mexico,2022,18,oecd,Inflows of foreign population by nationality,post_covid
-Mexico,2016,23,oecd,Inflows of asylum seekers by nationality,pre_covid
-Mexico,2017,105,oecd,Inflows of asylum seekers by nationality,pre_covid
-Mexico,2019,513,oecd,Inflows of asylum seekers by nationality,pre_covid
-Mexico,2020,50,oecd,Inflows of asylum seekers by nationality,covid
-Mexico,2021,81,oecd,Inflows of asylum seekers by nationality,covid
-Netherlands,2015,68,oecd,Inflows of foreign population by nationality,pre_covid
-Netherlands,2016,68,oecd,Inflows of foreign population by nationality,pre_covid
-Netherlands,2017,95,oecd,Inflows of foreign population by nationality,pre_covid
-Netherlands,2018,98,oecd,Inflows of foreign population by nationality,pre_covid
-Netherlands,2019,113,oecd,Inflows of foreign population by nationality,pre_covid
-Netherlands,2020,96,oecd,Inflows of foreign population by nationality,covid
-Netherlands,2021,115,oecd,Inflows of foreign population by nationality,covid
-Netherlands,2015,45,oecd,Outflows of foreign population by nationality,pre_covid
-Netherlands,2016,46,oecd,Outflows of foreign population by nationality,pre_covid
-Netherlands,2017,29,oecd,Outflows of foreign population by nationality,pre_covid
-Netherlands,2018,32,oecd,Outflows of foreign population by nationality,pre_covid
-Netherlands,2019,31,oecd,Outflows of foreign population by nationality,pre_covid
-Netherlands,2020,27,oecd,Outflows of foreign population by nationality,covid
-Netherlands,2021,50,oecd,Outflows of foreign population by nationality,covid
-Netherlands,2015,11,oecd,Inflows of asylum seekers by nationality,pre_covid
-Netherlands,2016,18,oecd,Inflows of asylum seekers by nationality,pre_covid
-Netherlands,2017,40,oecd,Inflows of asylum seekers by nationality,pre_covid
-Netherlands,2018,30,oecd,Inflows of asylum seekers by nationality,pre_covid
-Netherlands,2019,50,oecd,Inflows of asylum seekers by nationality,pre_covid
-Netherlands,2020,35,oecd,Inflows of asylum seekers by nationality,covid
-Netherlands,2021,15,oecd,Inflows of asylum seekers by nationality,covid
-New Zealand,2015,10,oecd,Inflows of foreign population by nationality,pre_covid
-New Zealand,2016,9,oecd,Inflows of foreign population by nationality,pre_covid
-New Zealand,2017,2,oecd,Inflows of foreign population by nationality,pre_covid
-New Zealand,2018,2,oecd,Inflows of foreign population by nationality,pre_covid
-New Zealand,2019,15,oecd,Inflows of foreign population by nationality,pre_covid
-New Zealand,2020,9,oecd,Inflows of foreign population by nationality,covid
-New Zealand,2022,6,oecd,Inflows of foreign population by nationality,post_covid
-New Zealand,2015,1,oecd,Outflows of foreign population by nationality,pre_covid
-New Zealand,2016,4,oecd,Outflows of foreign population by nationality,pre_covid
-New Zealand,2017,3,oecd,Outflows of foreign population by nationality,pre_covid
-New Zealand,2018,2,oecd,Outflows of foreign population by nationality,pre_covid
-New Zealand,2019,2,oecd,Outflows of foreign population by nationality,pre_covid
-New Zealand,2020,3,oecd,Outflows of foreign population by nationality,covid
-New Zealand,2022,3,oecd,Outflows of foreign population by nationality,post_covid
-New Zealand,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-New Zealand,2016,1,oecd,Inflows of asylum seekers by nationality,pre_covid
-Norway,2015,56,oecd,Inflows of foreign population by nationality,pre_covid
-Norway,2016,37,oecd,Inflows of foreign population by nationality,pre_covid
-Norway,2017,56,oecd,Inflows of foreign population by nationality,pre_covid
-Norway,2018,46,oecd,Inflows of foreign population by nationality,pre_covid
-Norway,2019,48,oecd,Inflows of foreign population by nationality,pre_covid
-Norway,2020,22,oecd,Inflows of foreign population by nationality,covid
-Norway,2021,40,oecd,Inflows of foreign population by nationality,covid
-Norway,2015,20,oecd,Outflows of foreign population by nationality,pre_covid
-Norway,2016,20,oecd,Outflows of foreign population by nationality,pre_covid
-Norway,2017,21,oecd,Outflows of foreign population by nationality,pre_covid
-Norway,2018,23,oecd,Outflows of foreign population by nationality,pre_covid
-Norway,2019,11,oecd,Outflows of foreign population by nationality,pre_covid
-Norway,2020,39,oecd,Outflows of foreign population by nationality,covid
-Norway,2021,31,oecd,Outflows of foreign population by nationality,covid
-Norway,2015,10,oecd,Inflows of asylum seekers by nationality,pre_covid
-Norway,2016,4,oecd,Inflows of asylum seekers by nationality,pre_covid
-Norway,2017,5,oecd,Inflows of asylum seekers by nationality,pre_covid
-Norway,2018,10,oecd,Inflows of asylum seekers by nationality,pre_covid
-Norway,2019,15,oecd,Inflows of asylum seekers by nationality,pre_covid
-Norway,2020,5,oecd,Inflows of asylum seekers by nationality,covid
-Norway,2021,5,oecd,Inflows of asylum seekers by nationality,covid
-Poland,2015,96,oecd,Inflows of foreign population by nationality,pre_covid
-Poland,2016,81,oecd,Inflows of foreign population by nationality,pre_covid
-Poland,2017,65,oecd,Inflows of foreign population by nationality,pre_covid
-Poland,2018,101,oecd,Inflows of foreign population by nationality,pre_covid
-Poland,2019,92,oecd,Inflows of foreign population by nationality,pre_covid
-Poland,2020,67,oecd,Inflows of foreign population by nationality,covid
-Poland,2021,131,oecd,Inflows of foreign population by nationality,covid
-Poland,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Poland,2016,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Poland,2018,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Poland,2019,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Poland,2020,5,oecd,Inflows of asylum seekers by nationality,covid
-Poland,2021,10,oecd,Inflows of asylum seekers by nationality,covid
-Portugal,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Portugal,2016,10,oecd,Inflows of asylum seekers by nationality,pre_covid
-Portugal,2017,30,oecd,Inflows of asylum seekers by nationality,pre_covid
-Portugal,2018,25,oecd,Inflows of asylum seekers by nationality,pre_covid
-Portugal,2019,45,oecd,Inflows of asylum seekers by nationality,pre_covid
-Portugal,2020,15,oecd,Inflows of asylum seekers by nationality,covid
-Portugal,2021,0,oecd,Inflows of asylum seekers by nationality,covid
-Slovak Republic,2019,1,oecd,Inflows of foreign population by nationality,pre_covid
-Slovak Republic,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Slovak Republic,2016,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Slovak Republic,2018,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Slovak Republic,2019,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Slovak Republic,2020,0,oecd,Inflows of asylum seekers by nationality,covid
-Slovak Republic,2021,5,oecd,Inflows of asylum seekers by nationality,covid
-Spain,2015,443,oecd,Inflows of foreign population by nationality,pre_covid
-Spain,2016,480,oecd,Inflows of foreign population by nationality,pre_covid
-Spain,2017,622,oecd,Inflows of foreign population by nationality,pre_covid
-Spain,2018,541,oecd,Inflows of foreign population by nationality,pre_covid
-Spain,2019,595,oecd,Inflows of foreign population by nationality,pre_covid
-Spain,2015,352,oecd,Outflows of foreign population by nationality,pre_covid
-Spain,2016,336,oecd,Outflows of foreign population by nationality,pre_covid
-Spain,2017,436,oecd,Outflows of foreign population by nationality,pre_covid
-Spain,2018,350,oecd,Outflows of foreign population by nationality,pre_covid
-Spain,2019,374,oecd,Outflows of foreign population by nationality,pre_covid
-Spain,2015,136,oecd,Inflows of asylum seekers by nationality,pre_covid
-Spain,2016,124,oecd,Inflows of asylum seekers by nationality,pre_covid
-Spain,2017,740,oecd,Inflows of asylum seekers by nationality,pre_covid
-Spain,2018,260,oecd,Inflows of asylum seekers by nationality,pre_covid
-Spain,2019,225,oecd,Inflows of asylum seekers by nationality,pre_covid
-Spain,2020,65,oecd,Inflows of asylum seekers by nationality,covid
-Spain,2021,135,oecd,Inflows of asylum seekers by nationality,covid
-Sweden,2015,111,oecd,Inflows of foreign population by nationality,pre_covid
-Sweden,2016,107,oecd,Inflows of foreign population by nationality,pre_covid
-Sweden,2017,127,oecd,Inflows of foreign population by nationality,pre_covid
-Sweden,2018,170,oecd,Inflows of foreign population by nationality,pre_covid
-Sweden,2019,245,oecd,Inflows of foreign population by nationality,pre_covid
-Sweden,2020,169,oecd,Inflows of foreign population by nationality,covid
-Sweden,2021,162,oecd,Inflows of foreign population by nationality,covid
-Sweden,2015,128,oecd,Outflows of foreign population by nationality,pre_covid
-Sweden,2016,31,oecd,Outflows of foreign population by nationality,pre_covid
-Sweden,2017,17,oecd,Outflows of foreign population by nationality,pre_covid
-Sweden,2018,19,oecd,Outflows of foreign population by nationality,pre_covid
-Sweden,2019,13,oecd,Outflows of foreign population by nationality,pre_covid
-Sweden,2020,13,oecd,Outflows of foreign population by nationality,covid
-Sweden,2021,26,oecd,Outflows of foreign population by nationality,covid
-Sweden,2015,44,oecd,Inflows of asylum seekers by nationality,pre_covid
-Sweden,2016,50,oecd,Inflows of asylum seekers by nationality,pre_covid
-Sweden,2017,70,oecd,Inflows of asylum seekers by nationality,pre_covid
-Sweden,2018,125,oecd,Inflows of asylum seekers by nationality,pre_covid
-Sweden,2019,130,oecd,Inflows of asylum seekers by nationality,pre_covid
-Sweden,2020,125,oecd,Inflows of asylum seekers by nationality,covid
-Sweden,2021,90,oecd,Inflows of asylum seekers by nationality,covid
-Switzerland,2015,277,oecd,Inflows of foreign population by nationality,pre_covid
-Switzerland,2016,251,oecd,Inflows of foreign population by nationality,pre_covid
-Switzerland,2017,242,oecd,Inflows of foreign population by nationality,pre_covid
-Switzerland,2018,204,oecd,Inflows of foreign population by nationality,pre_covid
-Switzerland,2019,219,oecd,Inflows of foreign population by nationality,pre_covid
-Switzerland,2020,249,oecd,Inflows of foreign population by nationality,covid
-Switzerland,2021,224,oecd,Inflows of foreign population by nationality,covid
-Switzerland,2015,50,oecd,Outflows of foreign population by nationality,pre_covid
-Switzerland,2016,66,oecd,Outflows of foreign population by nationality,pre_covid
-Switzerland,2017,63,oecd,Outflows of foreign population by nationality,pre_covid
-Switzerland,2018,52,oecd,Outflows of foreign population by nationality,pre_covid
-Switzerland,2019,47,oecd,Outflows of foreign population by nationality,pre_covid
-Switzerland,2020,33,oecd,Outflows of foreign population by nationality,covid
-Switzerland,2021,50,oecd,Outflows of foreign population by nationality,covid
-Switzerland,2015,44,oecd,Inflows of asylum seekers by nationality,pre_covid
-Switzerland,2016,251,oecd,Inflows of asylum seekers by nationality,pre_covid
-Switzerland,2017,210,oecd,Inflows of asylum seekers by nationality,pre_covid
-Switzerland,2018,60,oecd,Inflows of asylum seekers by nationality,pre_covid
-Switzerland,2019,50,oecd,Inflows of asylum seekers by nationality,pre_covid
-Switzerland,2020,40,oecd,Inflows of asylum seekers by nationality,covid
-Switzerland,2021,35,oecd,Inflows of asylum seekers by nationality,covid
-Türkiye,2016,304,oecd,Inflows of foreign population by nationality,pre_covid
-Türkiye,2017,280,oecd,Inflows of foreign population by nationality,pre_covid
-Türkiye,2018,329,oecd,Inflows of foreign population by nationality,pre_covid
-Türkiye,2019,560,oecd,Inflows of foreign population by nationality,pre_covid
-Türkiye,2020,339,oecd,Inflows of foreign population by nationality,covid
-Türkiye,2021,1207,oecd,Inflows of foreign population by nationality,covid
-Türkiye,2015,14,oecd,Inflows of asylum seekers by nationality,pre_covid
-Türkiye,2016,26,oecd,Inflows of asylum seekers by nationality,pre_covid
-Türkiye,2019,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Türkiye,2020,0,oecd,Inflows of asylum seekers by nationality,covid
-Türkiye,2021,0,oecd,Inflows of asylum seekers by nationality,covid
-United Kingdom,2015,151,oecd,Inflows of asylum seekers by nationality,pre_covid
-United Kingdom,2016,185,oecd,Inflows of asylum seekers by nationality,pre_covid
-United Kingdom,2017,235,oecd,Inflows of asylum seekers by nationality,pre_covid
-United Kingdom,2018,230,oecd,Inflows of asylum seekers by nationality,pre_covid
-United Kingdom,2019,254,oecd,Inflows of asylum seekers by nationality,pre_covid
-United Kingdom,2020,129,oecd,Inflows of asylum seekers by nationality,covid
-United Kingdom,2021,124,oecd,Inflows of asylum seekers by nationality,covid
-United States,2015,4311,oecd,Inflows of foreign population by nationality,pre_covid
-United States,2016,4763,oecd,Inflows of foreign population by nationality,pre_covid
-United States,2017,4602,oecd,Inflows of foreign population by nationality,pre_covid
-United States,2018,4105,oecd,Inflows of foreign population by nationality,pre_covid
-United States,2019,4281,oecd,Inflows of foreign population by nationality,pre_covid
-United States,2020,2747,oecd,Inflows of foreign population by nationality,covid
-United States,2021,3506,oecd,Inflows of foreign population by nationality,covid
-United States,2015,821,oecd,Inflows of asylum seekers by nationality,pre_covid
-United States,2016,1348,oecd,Inflows of asylum seekers by nationality,pre_covid
-United States,2017,1840,oecd,Inflows of asylum seekers by nationality,pre_covid
-United States,2018,1383,oecd,Inflows of asylum seekers by nationality,pre_covid
-United States,2019,2147,oecd,Inflows of asylum seekers by nationality,pre_covid
-United States,2020,1708,oecd,Inflows of asylum seekers by nationality,covid
-United States,2021,412,oecd,Inflows of asylum seekers by nationality,covid
-Chile,2015,2,oecd,Inflows of foreign population by nationality,pre_covid
-Chile,2016,6,oecd,Inflows of foreign population by nationality,pre_covid
-Chile,2016,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Estonia,2015,12,oecd,Inflows of foreign population by nationality,pre_covid
-Estonia,2016,15,oecd,Inflows of foreign population by nationality,pre_covid
-Estonia,2017,29,oecd,Inflows of foreign population by nationality,pre_covid
-Estonia,2018,22,oecd,Inflows of foreign population by nationality,pre_covid
-Estonia,2019,25,oecd,Inflows of foreign population by nationality,pre_covid
-Estonia,2017,7,oecd,Outflows of foreign population by nationality,pre_covid
-Estonia,2018,2,oecd,Outflows of foreign population by nationality,pre_covid
-Estonia,2019,2,oecd,Outflows of foreign population by nationality,pre_covid
-Estonia,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Estonia,2016,3,oecd,Inflows of asylum seekers by nationality,pre_covid
-Estonia,2018,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Estonia,2019,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Estonia,2020,0,oecd,Inflows of asylum seekers by nationality,covid
-Estonia,2021,0,oecd,Inflows of asylum seekers by nationality,covid
-Israel,2019,11,oecd,Inflows of asylum seekers by nationality,pre_covid
-Israel,2020,5,oecd,Inflows of asylum seekers by nationality,covid
-Israel,2021,0,oecd,Inflows of asylum seekers by nationality,covid
-Lithuania,2016,5,oecd,Inflows of foreign population by nationality,pre_covid
-Lithuania,2017,13,oecd,Inflows of foreign population by nationality,pre_covid
-Lithuania,2018,23,oecd,Inflows of foreign population by nationality,pre_covid
-Lithuania,2019,64,oecd,Inflows of foreign population by nationality,pre_covid
-Lithuania,2020,58,oecd,Inflows of foreign population by nationality,covid
-Lithuania,2021,52,oecd,Inflows of foreign population by nationality,covid
-Lithuania,2019,7,oecd,Outflows of foreign population by nationality,pre_covid
-Lithuania,2020,17,oecd,Outflows of foreign population by nationality,covid
-Lithuania,2021,39,oecd,Outflows of foreign population by nationality,covid
-Lithuania,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Lithuania,2016,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Lithuania,2018,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Lithuania,2019,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Lithuania,2020,0,oecd,Inflows of asylum seekers by nationality,covid
-Lithuania,2021,120,oecd,Inflows of asylum seekers by nationality,covid
-Slovenia,2015,3,oecd,Inflows of foreign population by nationality,pre_covid
-Slovenia,2016,1,oecd,Inflows of foreign population by nationality,pre_covid
-Slovenia,2017,8,oecd,Inflows of foreign population by nationality,pre_covid
-Slovenia,2018,2,oecd,Inflows of foreign population by nationality,pre_covid
-Slovenia,2019,3,oecd,Inflows of foreign population by nationality,pre_covid
-Slovenia,2020,2,oecd,Inflows of foreign population by nationality,covid
-Slovenia,2021,0,oecd,Inflows of foreign population by nationality,covid
-Slovenia,2015,2,oecd,Outflows of foreign population by nationality,pre_covid
-Slovenia,2016,2,oecd,Outflows of foreign population by nationality,pre_covid
-Slovenia,2017,2,oecd,Outflows of foreign population by nationality,pre_covid
-Slovenia,2018,2,oecd,Outflows of foreign population by nationality,pre_covid
-Slovenia,2019,2,oecd,Outflows of foreign population by nationality,pre_covid
-Slovenia,2020,3,oecd,Outflows of foreign population by nationality,covid
-Slovenia,2015,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Slovenia,2016,3,oecd,Inflows of asylum seekers by nationality,pre_covid
-Slovenia,2018,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Slovenia,2019,0,oecd,Inflows of asylum seekers by nationality,pre_covid
-Slovenia,2020,0,oecd,Inflows of asylum seekers by nationality,covid
-Slovenia,2021,25,oecd,Inflows of asylum seekers by nationality,covid
-Australia,2015,450.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Australia,2016,480.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Australia,2017,510.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Australia,2018,540.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Australia,2019,570.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Australia,2020,610.0,oecd,Stock of foreign-born population by country of birth,covid
-Australia,2021,610.0,oecd,Stock of foreign-born population by country of birth,covid
-Lithuania,2015,7.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Lithuania,2016,0.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Lithuania,2017,2.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Lithuania,2018,10.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Lithuania,2019,30.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Lithuania,2020,88.0,oecd,Stock of foreign-born population by country of birth,covid
-Lithuania,2021,130.0,oecd,Stock of foreign-born population by country of birth,covid
-Lithuania,2022,26.0,oecd,Stock of foreign-born population by country of birth,post_covid
-United Kingdom,2015,11000.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-United Kingdom,2017,12000.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-United Kingdom,2018,1000.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Netherlands,2015,1860.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Netherlands,2016,1865.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Netherlands,2017,1860.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Netherlands,2018,1886.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Netherlands,2019,1943.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Netherlands,2020,2031.0,oecd,Stock of foreign-born population by country of birth,covid
-Netherlands,2021,2094.0,oecd,Stock of foreign-born population by country of birth,covid
-Netherlands,2022,2150.0,oecd,Stock of foreign-born population by country of birth,post_covid
-Hungary,2015,266.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Hungary,2016,281.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Hungary,2017,331.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Hungary,2018,332.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Hungary,2019,312.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Hungary,2020,303.0,oecd,Stock of foreign-born population by country of birth,covid
-Hungary,2021,256.0,oecd,Stock of foreign-born population by country of birth,covid
-Hungary,2022,230.0,oecd,Stock of foreign-born population by country of birth,post_covid
-Slovenia,2015,17.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Slovenia,2016,18.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Slovenia,2017,15.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Slovenia,2018,22.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Slovenia,2019,21.0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Slovenia,2020,22.0,oecd,Stock of foreign-born population by country of birth,covid
-Slovenia,2021,22.0,oecd,Stock of foreign-born population by country of birth,covid
-Slovenia,2022,21.0,oecd,Stock of foreign-born population by country of birth,post_covid
-Italy,2015,11327,oecd,Stock of foreign-born population by country of birth,pre_covid
-Italy,2016,12096,oecd,Stock of foreign-born population by country of birth,pre_covid
-Italy,2017,13028,oecd,Stock of foreign-born population by country of birth,pre_covid
-Italy,2018,14316,oecd,Stock of foreign-born population by country of birth,pre_covid
-Italy,2019,14973,oecd,Stock of foreign-born population by country of birth,pre_covid
-Italy,2020,15220,oecd,Stock of foreign-born population by country of birth,covid
-Italy,2021,15214,oecd,Stock of foreign-born population by country of birth,covid
-Italy,2022,14756,oecd,Stock of foreign-born population by country of birth,post_covid
-Denmark,2015,721,oecd,Stock of foreign-born population by country of birth,pre_covid
-Denmark,2016,755,oecd,Stock of foreign-born population by country of birth,pre_covid
-Denmark,2017,796,oecd,Stock of foreign-born population by country of birth,pre_covid
-Denmark,2018,813,oecd,Stock of foreign-born population by country of birth,pre_covid
-Denmark,2019,835,oecd,Stock of foreign-born population by country of birth,pre_covid
-Denmark,2020,840,oecd,Stock of foreign-born population by country of birth,covid
-Denmark,2021,866,oecd,Stock of foreign-born population by country of birth,covid
-Denmark,2022,910,oecd,Stock of foreign-born population by country of birth,post_covid
-Switzerland,2015,4068,oecd,Stock of foreign population by nationality,pre_covid
-Switzerland,2016,4170,oecd,Stock of foreign population by nationality,pre_covid
-Switzerland,2017,4164,oecd,Stock of foreign population by nationality,pre_covid
-Switzerland,2018,4150,oecd,Stock of foreign population by nationality,pre_covid
-Switzerland,2019,4134,oecd,Stock of foreign population by nationality,pre_covid
-Switzerland,2020,4167,oecd,Stock of foreign population by nationality,covid
-Switzerland,2021,4259,oecd,Stock of foreign population by nationality,covid
-Switzerland,2022,4355,oecd,Stock of foreign population by nationality,post_covid
-United States,2015,28926,oecd,Stock of foreign population by nationality,pre_covid
-United States,2016,24611,oecd,Stock of foreign population by nationality,pre_covid
-United States,2017,32946,oecd,Stock of foreign population by nationality,pre_covid
-United States,2018,38824,oecd,Stock of foreign population by nationality,pre_covid
-United States,2019,38790,oecd,Stock of foreign population by nationality,pre_covid
-United States,2021,34849,oecd,Stock of foreign population by nationality,covid
-Slovak Republic,2015,10,oecd,Stock of foreign population by nationality,pre_covid
-Slovak Republic,2016,12,oecd,Stock of foreign population by nationality,pre_covid
-Slovak Republic,2017,13,oecd,Stock of foreign population by nationality,pre_covid
-Slovak Republic,2018,13,oecd,Stock of foreign population by nationality,pre_covid
-Slovak Republic,2019,13,oecd,Stock of foreign population by nationality,pre_covid
-Slovak Republic,2020,14,oecd,Stock of foreign population by nationality,covid
-Slovak Republic,2021,15,oecd,Stock of foreign population by nationality,covid
-Slovak Republic,2022,17,oecd,Stock of foreign population by nationality,post_covid
-Spain,2015,5023,oecd,Stock of foreign population by nationality,pre_covid
-Spain,2016,5048,oecd,Stock of foreign population by nationality,pre_covid
-Spain,2017,5057,oecd,Stock of foreign population by nationality,pre_covid
-Spain,2018,5201,oecd,Stock of foreign population by nationality,pre_covid
-Spain,2019,5328,oecd,Stock of foreign population by nationality,pre_covid
-Spain,2020,5468,oecd,Stock of foreign population by nationality,covid
-Estonia,2015,12,oecd,Stock of foreign population by nationality,pre_covid
-Estonia,2016,21,oecd,Stock of foreign population by nationality,pre_covid
-Estonia,2017,30,oecd,Stock of foreign population by nationality,pre_covid
-Estonia,2018,54,oecd,Stock of foreign population by nationality,pre_covid
-Estonia,2019,73,oecd,Stock of foreign population by nationality,pre_covid
-Estonia,2020,92,oecd,Stock of foreign population by nationality,covid
-Czechia,2015,99,oecd,Stock of foreign-born population by country of birth,pre_covid
-Czechia,2016,97,oecd,Stock of foreign-born population by country of birth,pre_covid
-Czechia,2017,107,oecd,Stock of foreign-born population by country of birth,pre_covid
-Czechia,2018,115,oecd,Stock of foreign-born population by country of birth,pre_covid
-Czechia,2019,124,oecd,Stock of foreign-born population by country of birth,pre_covid
-Czechia,2020,123,oecd,Stock of foreign-born population by country of birth,covid
-Czechia,2021,146,oecd,Stock of foreign-born population by country of birth,covid
-Czechia,2022,120,oecd,Stock of foreign-born population by country of birth,post_covid
-Austria,2015,555,oecd,Stock of foreign population by nationality,pre_covid
-Austria,2016,606,oecd,Stock of foreign population by nationality,pre_covid
-Austria,2017,613,oecd,Stock of foreign population by nationality,pre_covid
-Austria,2018,629,oecd,Stock of foreign population by nationality,pre_covid
-Austria,2019,633,oecd,Stock of foreign population by nationality,pre_covid
-Austria,2020,615,oecd,Stock of foreign population by nationality,covid
-Austria,2021,625,oecd,Stock of foreign population by nationality,covid
-Austria,2022,646,oecd,Stock of foreign population by nationality,post_covid
-Netherlands,2015,660,oecd,Stock of foreign population by nationality,pre_covid
-Netherlands,2016,619,oecd,Stock of foreign population by nationality,pre_covid
-Netherlands,2017,570,oecd,Stock of foreign population by nationality,pre_covid
-Netherlands,2018,606,oecd,Stock of foreign population by nationality,pre_covid
-Netherlands,2019,615,oecd,Stock of foreign population by nationality,pre_covid
-Netherlands,2020,673,oecd,Stock of foreign population by nationality,covid
-Netherlands,2021,689,oecd,Stock of foreign population by nationality,covid
-Netherlands,2022,700,oecd,Stock of foreign population by nationality,post_covid
-Mexico,2015,43,oecd,Stock of foreign-born population by country of birth,pre_covid
-Japan,2015,454,oecd,Stock of foreign population by nationality,pre_covid
-Japan,2016,473,oecd,Stock of foreign population by nationality,pre_covid
-Japan,2017,521,oecd,Stock of foreign population by nationality,pre_covid
-Japan,2018,627,oecd,Stock of foreign population by nationality,pre_covid
-Japan,2019,692,oecd,Stock of foreign population by nationality,pre_covid
-Japan,2020,857,oecd,Stock of foreign population by nationality,covid
-Japan,2021,1059,oecd,Stock of foreign population by nationality,covid
-Japan,2022,1047,oecd,Stock of foreign population by nationality,post_covid
-Korea,2015,599,oecd,Stock of foreign population by nationality,pre_covid
-Korea,2016,676,oecd,Stock of foreign population by nationality,pre_covid
-Korea,2017,789,oecd,Stock of foreign population by nationality,pre_covid
-Korea,2018,850,oecd,Stock of foreign population by nationality,pre_covid
-Korea,2019,879,oecd,Stock of foreign population by nationality,pre_covid
-Korea,2020,818,oecd,Stock of foreign population by nationality,covid
-Korea,2021,847,oecd,Stock of foreign population by nationality,covid
-Korea,2022,847,oecd,Stock of foreign population by nationality,post_covid
-Slovak Republic,2015,10,oecd,Stock of foreign-born population by country of birth,pre_covid
-Slovak Republic,2016,13,oecd,Stock of foreign-born population by country of birth,pre_covid
-Slovak Republic,2017,14,oecd,Stock of foreign-born population by country of birth,pre_covid
-Slovak Republic,2018,15,oecd,Stock of foreign-born population by country of birth,pre_covid
-Slovak Republic,2019,16,oecd,Stock of foreign-born population by country of birth,pre_covid
-Slovak Republic,2020,17,oecd,Stock of foreign-born population by country of birth,covid
-Slovak Republic,2021,18,oecd,Stock of foreign-born population by country of birth,covid
-Slovak Republic,2022,10,oecd,Stock of foreign-born population by country of birth,post_covid
-Finland,2015,805,oecd,Stock of foreign population by nationality,pre_covid
-Finland,2016,853,oecd,Stock of foreign population by nationality,pre_covid
-Finland,2017,918,oecd,Stock of foreign population by nationality,pre_covid
-Finland,2018,954,oecd,Stock of foreign population by nationality,pre_covid
-Finland,2019,959,oecd,Stock of foreign population by nationality,pre_covid
-Finland,2020,986,oecd,Stock of foreign population by nationality,covid
-Finland,2021,1062,oecd,Stock of foreign population by nationality,covid
-Finland,2022,1167,oecd,Stock of foreign population by nationality,post_covid
-Czechia,2022,169,oecd,Stock of foreign population by nationality,post_covid
-Germany,2015,10000,oecd,Stock of foreign-born population by country of birth,pre_covid
-Denmark,2015,684,oecd,Stock of foreign population by nationality,pre_covid
-Denmark,2016,741,oecd,Stock of foreign population by nationality,pre_covid
-Denmark,2017,749,oecd,Stock of foreign population by nationality,pre_covid
-Denmark,2018,767,oecd,Stock of foreign population by nationality,pre_covid
-Denmark,2019,794,oecd,Stock of foreign population by nationality,pre_covid
-Denmark,2020,819,oecd,Stock of foreign population by nationality,covid
-Denmark,2021,836,oecd,Stock of foreign population by nationality,covid
-Denmark,2022,854,oecd,Stock of foreign population by nationality,post_covid
-Slovenia,2015,12,oecd,Stock of foreign population by nationality,pre_covid
-Slovenia,2016,13,oecd,Stock of foreign population by nationality,pre_covid
-Slovenia,2017,12,oecd,Stock of foreign population by nationality,pre_covid
-Slovenia,2018,18,oecd,Stock of foreign population by nationality,pre_covid
-Slovenia,2019,18,oecd,Stock of foreign population by nationality,pre_covid
-Slovenia,2020,19,oecd,Stock of foreign population by nationality,covid
-Slovenia,2021,18,oecd,Stock of foreign population by nationality,covid
-Slovenia,2022,16,oecd,Stock of foreign population by nationality,post_covid
-Iceland,2015,6,oecd,Stock of foreign population by nationality,pre_covid
-Iceland,2016,6,oecd,Stock of foreign population by nationality,pre_covid
-Iceland,2017,7,oecd,Stock of foreign population by nationality,pre_covid
-Iceland,2018,5,oecd,Stock of foreign population by nationality,pre_covid
-Iceland,2019,4,oecd,Stock of foreign population by nationality,pre_covid
-Iceland,2020,10,oecd,Stock of foreign population by nationality,covid
-Iceland,2021,11,oecd,Stock of foreign population by nationality,covid
-Iceland,2022,11,oecd,Stock of foreign population by nationality,post_covid
-Canada,2016,12125,oecd,Stock of foreign population by nationality,pre_covid
-Canada,2021,17375,oecd,Stock of foreign population by nationality,covid
-Italy,2015,12414,oecd,Stock of foreign population by nationality,pre_covid
-Italy,2016,12738,oecd,Stock of foreign population by nationality,pre_covid
-Italy,2017,13308,oecd,Stock of foreign population by nationality,pre_covid
-Italy,2018,14529,oecd,Stock of foreign population by nationality,pre_covid
-Italy,2019,15170,oecd,Stock of foreign population by nationality,pre_covid
-Italy,2020,15329,oecd,Stock of foreign population by nationality,covid
-Italy,2021,15581,oecd,Stock of foreign population by nationality,covid
-Italy,2022,15013,oecd,Stock of foreign population by nationality,post_covid
-Belgium,2015,16056,oecd,Stock of foreign-born population by country of birth,pre_covid
-Belgium,2016,17080,oecd,Stock of foreign-born population by country of birth,pre_covid
-Belgium,2017,18182,oecd,Stock of foreign-born population by country of birth,pre_covid
-Belgium,2018,19438,oecd,Stock of foreign-born population by country of birth,pre_covid
-Belgium,2019,20783,oecd,Stock of foreign-born population by country of birth,pre_covid
-Belgium,2020,22352,oecd,Stock of foreign-born population by country of birth,covid
-Belgium,2021,23521,oecd,Stock of foreign-born population by country of birth,covid
-Belgium,2022,25786,oecd,Stock of foreign-born population by country of birth,post_covid
-Ireland,2016,959,oecd,Stock of foreign-born population by country of birth,pre_covid
-Hungary,2015,230,oecd,Stock of foreign population by nationality,pre_covid
-Hungary,2016,239,oecd,Stock of foreign population by nationality,pre_covid
-Hungary,2017,295,oecd,Stock of foreign population by nationality,pre_covid
-Hungary,2018,286,oecd,Stock of foreign population by nationality,pre_covid
-Hungary,2019,267,oecd,Stock of foreign population by nationality,pre_covid
-Hungary,2020,250,oecd,Stock of foreign population by nationality,covid
-Hungary,2021,205,oecd,Stock of foreign population by nationality,covid
-Hungary,2022,173,oecd,Stock of foreign population by nationality,post_covid
-Finland,2015,789,oecd,Stock of foreign-born population by country of birth,pre_covid
-Finland,2016,853,oecd,Stock of foreign-born population by country of birth,pre_covid
-Finland,2017,952,oecd,Stock of foreign-born population by country of birth,pre_covid
-Finland,2018,1024,oecd,Stock of foreign-born population by country of birth,pre_covid
-Finland,2019,1070,oecd,Stock of foreign-born population by country of birth,pre_covid
-Finland,2020,1124,oecd,Stock of foreign-born population by country of birth,covid
-Finland,2021,1196,oecd,Stock of foreign-born population by country of birth,covid
-Finland,2022,1297,oecd,Stock of foreign-born population by country of birth,post_covid
-Sweden,2015,1379,oecd,Stock of foreign-born population by country of birth,pre_covid
-Sweden,2016,1360,oecd,Stock of foreign-born population by country of birth,pre_covid
-Sweden,2017,1412,oecd,Stock of foreign-born population by country of birth,pre_covid
-Sweden,2018,1509,oecd,Stock of foreign-born population by country of birth,pre_covid
-Sweden,2019,1662,oecd,Stock of foreign-born population by country of birth,pre_covid
-Sweden,2020,1895,oecd,Stock of foreign-born population by country of birth,covid
-Sweden,2021,2051,oecd,Stock of foreign-born population by country of birth,covid
-Sweden,2022,2211,oecd,Stock of foreign-born population by country of birth,post_covid
-Mexico,2015,112,oecd,Stock of foreign population by nationality,pre_covid
-Mexico,2016,112,oecd,Stock of foreign population by nationality,pre_covid
-Mexico,2017,119,oecd,Stock of foreign population by nationality,pre_covid
-Mexico,2018,135,oecd,Stock of foreign population by nationality,pre_covid
-Mexico,2019,125,oecd,Stock of foreign population by nationality,pre_covid
-Mexico,2020,133,oecd,Stock of foreign population by nationality,covid
-Luxembourg,2017,899,oecd,Stock of foreign-born population by country of birth,pre_covid
-Luxembourg,2018,1031,oecd,Stock of foreign-born population by country of birth,pre_covid
-Luxembourg,2019,1204,oecd,Stock of foreign-born population by country of birth,pre_covid
-Luxembourg,2020,1273,oecd,Stock of foreign-born population by country of birth,covid
-Luxembourg,2021,1417,oecd,Stock of foreign-born population by country of birth,covid
-Luxembourg,2022,1603,oecd,Stock of foreign-born population by country of birth,post_covid
-United States,2015,51172,oecd,Stock of foreign-born population by country of birth,pre_covid
-United States,2016,49430,oecd,Stock of foreign-born population by country of birth,pre_covid
-United States,2017,56799,oecd,Stock of foreign-born population by country of birth,pre_covid
-United States,2018,78008,oecd,Stock of foreign-born population by country of birth,pre_covid
-United States,2019,72634,oecd,Stock of foreign-born population by country of birth,pre_covid
-United States,2020,72090,oecd,Stock of foreign-born population by country of birth,covid
-United States,2021,94138,oecd,Stock of foreign-born population by country of birth,covid
-Switzerland,2015,7193,oecd,Stock of foreign-born population by country of birth,pre_covid
-Switzerland,2016,7421,oecd,Stock of foreign-born population by country of birth,pre_covid
-Switzerland,2017,7634,oecd,Stock of foreign-born population by country of birth,pre_covid
-Switzerland,2018,7841,oecd,Stock of foreign-born population by country of birth,pre_covid
-Switzerland,2019,8008,oecd,Stock of foreign-born population by country of birth,pre_covid
-Switzerland,2020,8171,oecd,Stock of foreign-born population by country of birth,covid
-Switzerland,2021,8451,oecd,Stock of foreign-born population by country of birth,covid
-Switzerland,2022,8692,oecd,Stock of foreign-born population by country of birth,post_covid
-Norway,2015,686,oecd,Stock of foreign-born population by country of birth,pre_covid
-Norway,2016,717,oecd,Stock of foreign-born population by country of birth,pre_covid
-Norway,2017,738,oecd,Stock of foreign-born population by country of birth,pre_covid
-Norway,2018,774,oecd,Stock of foreign-born population by country of birth,pre_covid
-Norway,2019,805,oecd,Stock of foreign-born population by country of birth,pre_covid
-Norway,2020,835,oecd,Stock of foreign-born population by country of birth,covid
-Norway,2021,817,oecd,Stock of foreign-born population by country of birth,covid
-Norway,2022,836,oecd,Stock of foreign-born population by country of birth,post_covid
-Chile,2017,0,oecd,Stock of foreign-born population by country of birth,pre_covid
-Germany,2015,18301,oecd,Stock of foreign population by nationality,pre_covid
-Germany,2016,19800,oecd,Stock of foreign population by nationality,pre_covid
-Germany,2017,21610,oecd,Stock of foreign population by nationality,pre_covid
-Germany,2018,22320,oecd,Stock of foreign population by nationality,pre_covid
-Germany,2019,24220,oecd,Stock of foreign population by nationality,pre_covid
-Germany,2020,26255,oecd,Stock of foreign population by nationality,covid
-Germany,2021,26635,oecd,Stock of foreign population by nationality,covid
-Germany,2022,27545,oecd,Stock of foreign population by nationality,post_covid
-France,2015,54007,oecd,Stock of foreign population by nationality,pre_covid
-France,2016,55347,oecd,Stock of foreign population by nationality,pre_covid
-France,2017,56800,oecd,Stock of foreign population by nationality,pre_covid
-France,2018,58848,oecd,Stock of foreign population by nationality,pre_covid
-France,2019,59388,oecd,Stock of foreign population by nationality,pre_covid
-France,2020,65631,oecd,Stock of foreign population by nationality,covid
-France,2021,66440,oecd,Stock of foreign population by nationality,covid
-Ireland,2016,412,oecd,Stock of foreign population by nationality,pre_covid
-Ireland,2022,344,oecd,Stock of foreign population by nationality,post_covid
-Austria,2015,664,oecd,Stock of foreign-born population by country of birth,pre_covid
-Austria,2016,734,oecd,Stock of foreign-born population by country of birth,pre_covid
-Austria,2017,772,oecd,Stock of foreign-born population by country of birth,pre_covid
-Austria,2018,799,oecd,Stock of foreign-born population by country of birth,pre_covid
-Austria,2019,792,oecd,Stock of foreign-born population by country of birth,pre_covid
-Austria,2020,792,oecd,Stock of foreign-born population by country of birth,covid
-Austria,2021,818,oecd,Stock of foreign-born population by country of birth,covid
-Austria,2022,825,oecd,Stock of foreign-born population by country of birth,post_covid
-Iceland,2015,7,oecd,Stock of foreign-born population by country of birth,pre_covid
-Iceland,2016,7,oecd,Stock of foreign-born population by country of birth,pre_covid
-Iceland,2017,9,oecd,Stock of foreign-born population by country of birth,pre_covid
-Iceland,2018,7,oecd,Stock of foreign-born population by country of birth,pre_covid
-Iceland,2019,6,oecd,Stock of foreign-born population by country of birth,pre_covid
-Iceland,2020,12,oecd,Stock of foreign-born population by country of birth,covid
-Iceland,2021,13,oecd,Stock of foreign-born population by country of birth,covid
-Iceland,2022,16,oecd,Stock of foreign-born population by country of birth,post_covid
-Chile,2017,0,oecd,Stock of foreign population by nationality,pre_covid
-Norway,2015,305,oecd,Stock of foreign population by nationality,pre_covid
-Norway,2016,324,oecd,Stock of foreign population by nationality,pre_covid
-Norway,2017,306,oecd,Stock of foreign population by nationality,pre_covid
-Norway,2018,307,oecd,Stock of foreign population by nationality,pre_covid
-Norway,2019,325,oecd,Stock of foreign population by nationality,pre_covid
-Norway,2020,341,oecd,Stock of foreign population by nationality,covid
-Norway,2021,315,oecd,Stock of foreign population by nationality,covid
-Norway,2022,313,oecd,Stock of foreign population by nationality,post_covid
-France,2015,95762,oecd,Stock of foreign-born population by country of birth,pre_covid
-France,2016,98636,oecd,Stock of foreign-born population by country of birth,pre_covid
-France,2017,101485,oecd,Stock of foreign-born population by country of birth,pre_covid
-France,2018,104360,oecd,Stock of foreign-born population by country of birth,pre_covid
-France,2019,106123,oecd,Stock of foreign-born population by country of birth,pre_covid
-France,2020,113518,oecd,Stock of foreign-born population by country of birth,covid
-France,2021,115431,oecd,Stock of foreign-born population by country of birth,covid
-Lithuania,2015,7,oecd,Stock of foreign population by nationality,pre_covid
-Lithuania,2016,0,oecd,Stock of foreign population by nationality,pre_covid
-Lithuania,2017,1,oecd,Stock of foreign population by nationality,pre_covid
-Lithuania,2018,10,oecd,Stock of foreign population by nationality,pre_covid
-Lithuania,2019,30,oecd,Stock of foreign population by nationality,pre_covid
-Lithuania,2020,87,oecd,Stock of foreign population by nationality,covid
-Lithuania,2021,128,oecd,Stock of foreign population by nationality,covid
-Lithuania,2022,198,oecd,Stock of foreign population by nationality,post_covid
-Estonia,2015,16,oecd,Stock of foreign-born population by country of birth,pre_covid
-Estonia,2016,28,oecd,Stock of foreign-born population by country of birth,pre_covid
-Estonia,2017,39,oecd,Stock of foreign-born population by country of birth,pre_covid
-Estonia,2018,62,oecd,Stock of foreign-born population by country of birth,pre_covid
-Estonia,2019,81,oecd,Stock of foreign-born population by country of birth,pre_covid
-Estonia,2020,103,oecd,Stock of foreign-born population by country of birth,covid
-Spain,2015,5275,oecd,Stock of foreign-born population by country of birth,pre_covid
-Spain,2016,5352,oecd,Stock of foreign-born population by country of birth,pre_covid
-Spain,2017,5484,oecd,Stock of foreign-born population by country of birth,pre_covid
-Spain,2018,5656,oecd,Stock of foreign-born population by country of birth,pre_covid
-Spain,2019,5833,oecd,Stock of foreign-born population by country of birth,pre_covid
-Spain,2020,6064,oecd,Stock of foreign-born population by country of birth,covid
-New Zealand,2018,54,oecd,Stock of foreign-born population by country of birth,pre_covid
-Luxembourg,2015,417,oecd,Stock of foreign population by nationality,pre_covid
-Luxembourg,2016,468,oecd,Stock of foreign population by nationality,pre_covid
-Luxembourg,2017,480,oecd,Stock of foreign population by nationality,pre_covid
-Luxembourg,2018,551,oecd,Stock of foreign population by nationality,pre_covid
-Luxembourg,2019,641,oecd,Stock of foreign population by nationality,pre_covid
-Luxembourg,2020,659,oecd,Stock of foreign population by nationality,covid
-Luxembourg,2021,737,oecd,Stock of foreign population by nationality,covid
-Luxembourg,2022,871,oecd,Stock of foreign population by nationality,post_covid
-Sweden,2015,1045,oecd,Stock of foreign population by nationality,pre_covid
-Sweden,2016,971,oecd,Stock of foreign population by nationality,pre_covid
-Sweden,2017,961,oecd,Stock of foreign population by nationality,pre_covid
-Sweden,2018,942,oecd,Stock of foreign population by nationality,pre_covid
-Sweden,2019,998,oecd,Stock of foreign population by nationality,pre_covid
-Sweden,2020,1205,oecd,Stock of foreign population by nationality,covid
-Sweden,2021,1300,oecd,Stock of foreign population by nationality,covid
-Sweden,2022,1395,oecd,Stock of foreign population by nationality,post_covid
-Portugal,2015,132,oecd,Stock of foreign population by nationality,pre_covid
-Portugal,2016,127,oecd,Stock of foreign population by nationality,pre_covid
-Portugal,2017,169,oecd,Stock of foreign population by nationality,pre_covid
-Portugal,2018,148,oecd,Stock of foreign population by nationality,pre_covid
-Portugal,2019,172,oecd,Stock of foreign population by nationality,pre_covid
-Portugal,2020,183,oecd,Stock of foreign population by nationality,covid
-Portugal,2021,221,oecd,Stock of foreign population by nationality,covid
-Portugal,2022,249,oecd,Stock of foreign population by nationality,post_covid
-Türkiye,2015,364,oecd,Stock of foreign population by nationality,pre_covid
-Türkiye,2016,542,oecd,Stock of foreign population by nationality,pre_covid
-Türkiye,2017,726,oecd,Stock of foreign population by nationality,pre_covid
-Türkiye,2018,773,oecd,Stock of foreign population by nationality,pre_covid
-Türkiye,2019,862,oecd,Stock of foreign population by nationality,pre_covid
-Türkiye,2020,1188,oecd,Stock of foreign population by nationality,covid
-Türkiye,2021,2100,oecd,Stock of foreign population by nationality,covid
-Türkiye,2022,1990,oecd,Stock of foreign population by nationality,post_covid
-Belgium,2015,11238,oecd,Stock of foreign population by nationality,pre_covid
-Belgium,2016,11707,oecd,Stock of foreign population by nationality,pre_covid
-Belgium,2017,12204,oecd,Stock of foreign population by nationality,pre_covid
-Belgium,2018,12828,oecd,Stock of foreign population by nationality,pre_covid
-Belgium,2019,13439,oecd,Stock of foreign population by nationality,pre_covid
-Belgium,2020,14229,oecd,Stock of foreign population by nationality,covid
-Belgium,2021,14719,oecd,Stock of foreign population by nationality,covid
-Belgium,2022,16152,oecd,Stock of foreign population by nationality,post_covid
-Hungary,2015,8,oecd,Inflows of foreign workers by nationality,pre_covid
-Hungary,2016,2,oecd,Inflows of foreign workers by nationality,pre_covid
-Hungary,2017,7,oecd,Inflows of foreign workers by nationality,pre_covid
-Hungary,2018,4,oecd,Inflows of foreign workers by nationality,pre_covid
-Hungary,2019,7,oecd,Inflows of foreign workers by nationality,pre_covid
-Hungary,2020,0,oecd,Inflows of foreign workers by nationality,covid
-Hungary,2021,1,oecd,Inflows of foreign workers by nationality,covid
-Sweden,2017,2,oecd,Inflows of seasonal foreign workers by nationality,pre_covid
-Sweden,2018,2,oecd,Inflows of seasonal foreign workers by nationality,pre_covid
-Sweden,2019,4,oecd,Inflows of seasonal foreign workers by nationality,pre_covid
-Sweden,2020,12,oecd,Inflows of seasonal foreign workers by nationality,covid
-Sweden,2021,11,oecd,Inflows of seasonal foreign workers by nationality,covid
-Slovenia,2015,1,oecd,Inflows of foreign workers by nationality,pre_covid
-Slovenia,2017,1,oecd,Inflows of foreign workers by nationality,pre_covid
-Korea,2021,0,oecd,Inflows of seasonal foreign workers by nationality,covid
-Belgium,2015,738,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Belgium,2016,845,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Belgium,2017,872,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Belgium,2018,955,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Belgium,2019,1046,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Belgium,2020,945,oecd,Acquisition of nationality by country of former nationality,covid
-Belgium,2021,1196,oecd,Acquisition of nationality by country of former nationality,covid
-Poland,2015,5,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Poland,2016,5,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Poland,2017,4,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Poland,2018,9,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Poland,2019,13,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Poland,2020,9,oecd,Acquisition of nationality by country of former nationality,covid
-Poland,2021,8,oecd,Acquisition of nationality by country of former nationality,covid
-Mexico,2015,4,oecd,Inflows of foreign workers by nationality,pre_covid
-Mexico,2016,2,oecd,Inflows of foreign workers by nationality,pre_covid
-Mexico,2017,2,oecd,Inflows of foreign workers by nationality,pre_covid
-Mexico,2018,3,oecd,Inflows of foreign workers by nationality,pre_covid
-Mexico,2019,4,oecd,Inflows of foreign workers by nationality,pre_covid
-France,2015,3125.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-France,2016,3377.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-France,2017,3137.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-France,2018,2502.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-France,2019,2463.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-France,2020,2108.0,oecd,Acquisition of nationality by country of former nationality,covid
-France,2021,3841.0,oecd,Acquisition of nationality by country of former nationality,covid
-Mexico,2015,7.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Mexico,2016,6.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Mexico,2017,4.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Mexico,2018,8.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Mexico,2019,4.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Germany,2015,1078.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Germany,2016,918.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Germany,2017,949.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Germany,2018,905.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Germany,2019,955.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Germany,2020,895.0,oecd,Acquisition of nationality by country of former nationality,covid
-Germany,2021,845.0,oecd,Acquisition of nationality by country of former nationality,covid
-Italy,2015,521.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Italy,2016,658.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Italy,2017,488.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Italy,2018,303.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Italy,2019,401.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Italy,2020,304.0,oecd,Acquisition of nationality by country of former nationality,covid
-Italy,2021,272.0,oecd,Acquisition of nationality by country of former nationality,covid
-Denmark,2015,38.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Denmark,2016,47.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Denmark,2017,48.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Denmark,2018,20.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Denmark,2019,14.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Denmark,2020,9.0,oecd,Inflows of foreign workers by nationality,covid
-Denmark,2021,17.0,oecd,Inflows of foreign workers by nationality,covid
-Canada,2015,384.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Canada,2016,480.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Canada,2017,570.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Canada,2018,625.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Switzerland,2015,165.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Switzerland,2016,218.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Switzerland,2017,209.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Switzerland,2018,176.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Switzerland,2019,149.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Switzerland,2020,121.0,oecd,Acquisition of nationality by country of former nationality,covid
-Switzerland,2021,113.0,oecd,Acquisition of nationality by country of former nationality,covid
-Norway,2015,27.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Norway,2016,38.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Norway,2017,39.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Norway,2018,15.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Norway,2019,25.0,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Norway,2020,15.0,oecd,Acquisition of nationality by country of former nationality,covid
-Norway,2021,15.0,oecd,Acquisition of nationality by country of former nationality,covid
-Poland,2015,0.0,oecd,Inflows of seasonal foreign workers by nationality,pre_covid
-Poland,2016,0.0,oecd,Inflows of seasonal foreign workers by nationality,pre_covid
-Poland,2017,0.0,oecd,Inflows of seasonal foreign workers by nationality,pre_covid
-Poland,2018,0.0,oecd,Inflows of seasonal foreign workers by nationality,pre_covid
-Poland,2019,0.0,oecd,Inflows of seasonal foreign workers by nationality,pre_covid
-Poland,2020,0.0,oecd,Inflows of seasonal foreign workers by nationality,covid
-Poland,2021,0.0,oecd,Inflows of seasonal foreign workers by nationality,covid
-Netherlands,2015,6.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Netherlands,2016,8.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Netherlands,2017,13.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Netherlands,2018,17.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Netherlands,2019,31.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Netherlands,2020,29.0,oecd,Inflows of foreign workers by nationality,covid
-Netherlands,2021,45.0,oecd,Inflows of foreign workers by nationality,covid
-Netherlands,2022,54.0,oecd,Inflows of foreign workers by nationality,post_covid
-Ireland,2015,1.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Ireland,2016,2.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Ireland,2017,8.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Ireland,2018,5.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Ireland,2019,3.0,oecd,Inflows of foreign workers by nationality,pre_covid
-Ireland,2020,3.0,oecd,Inflows of foreign workers by nationality,covid
-Ireland,2021,3.0,oecd,Inflows of foreign workers by nationality,covid
-Portugal,2015,5,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Portugal,2016,12,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Luxembourg,2015,6,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Luxembourg,2016,18,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Luxembourg,2017,20,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Luxembourg,2018,19,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Luxembourg,2019,26,oecd,Acquisition of nationality by country of former nationality,pre_covid
-Luxembourg,2020,15,oecd,Acquisition of nationality by country of former nationality,covid
-Luxembourg,2021,14,oecd,Acquisition of nationality by country of former nationality,covid
-Australia,2016,3,oecd,Inflows of foreign workers by nationality,pre_covid
-Australia,2017,3,oecd,Inflows of foreign workers by nationality,pre_covid
-Australia,2018,3,oecd,Inflows of foreign workers by nationality,pre_covid
-Australia,2019,3,oecd,Inflows of foreign workers by nationality,pre_covid
+destination_country,year,value,source,nature
+Australia,2015,26,oecd,inflow
+Australia,2016,18,oecd,inflow
+Australia,2017,11,oecd,inflow
+Australia,2018,15,oecd,inflow
+Australia,2019,15,oecd,inflow
+Australia,2020,19,oecd,inflow
+Australia,2021,25,oecd,inflow
+Australia,2015,0,oecd,outflow
+Australia,2016,0,oecd,outflow
+Australia,2015,0,oecd,asylum_inflow
+Australia,2016,18,oecd,asylum_inflow
+Australia,2019,5,oecd,asylum_inflow
+Australia,2020,5,oecd,asylum_inflow
+Australia,2021,0,oecd,asylum_inflow
+Austria,2015,93,oecd,inflow
+Austria,2016,72,oecd,inflow
+Austria,2017,85,oecd,inflow
+Austria,2018,58,oecd,inflow
+Austria,2019,41,oecd,inflow
+Austria,2020,42,oecd,inflow
+Austria,2021,55,oecd,inflow
+Austria,2015,26,oecd,outflow
+Austria,2016,40,oecd,outflow
+Austria,2017,49,oecd,outflow
+Austria,2018,55,oecd,outflow
+Austria,2019,41,oecd,outflow
+Austria,2020,23,oecd,outflow
+Austria,2021,36,oecd,outflow
+Austria,2015,0,oecd,asylum_inflow
+Austria,2016,0,oecd,asylum_inflow
+Austria,2017,60,oecd,asylum_inflow
+Austria,2018,30,oecd,asylum_inflow
+Austria,2019,30,oecd,asylum_inflow
+Austria,2020,20,oecd,asylum_inflow
+Austria,2021,30,oecd,asylum_inflow
+Belgium,2015,1504,oecd,inflow
+Belgium,2016,1611,oecd,inflow
+Belgium,2017,1698,oecd,inflow
+Belgium,2018,1754,oecd,inflow
+Belgium,2019,1775,oecd,inflow
+Belgium,2020,1735,oecd,inflow
+Belgium,2021,2765,oecd,inflow
+Belgium,2015,527,oecd,outflow
+Belgium,2016,519,oecd,outflow
+Belgium,2017,409,oecd,outflow
+Belgium,2018,424,oecd,outflow
+Belgium,2019,329,oecd,outflow
+Belgium,2020,418,oecd,outflow
+Belgium,2021,470,oecd,outflow
+Belgium,2015,278,oecd,asylum_inflow
+Belgium,2016,257,oecd,asylum_inflow
+Belgium,2017,350,oecd,asylum_inflow
+Belgium,2018,355,oecd,asylum_inflow
+Belgium,2019,390,oecd,asylum_inflow
+Belgium,2020,270,oecd,asylum_inflow
+Belgium,2021,400,oecd,asylum_inflow
+Canada,2015,2034,oecd,inflow
+Canada,2016,2110,oecd,inflow
+Canada,2017,2285,oecd,inflow
+Canada,2018,2275,oecd,inflow
+Canada,2019,2950,oecd,inflow
+Canada,2020,1595,oecd,inflow
+Canada,2021,2560,oecd,inflow
+Canada,2015,210,oecd,asylum_inflow
+Canada,2016,182,oecd,asylum_inflow
+Canada,2017,245,oecd,asylum_inflow
+Canada,2018,386,oecd,asylum_inflow
+Canada,2019,407,oecd,asylum_inflow
+Canada,2020,121,oecd,asylum_inflow
+Canada,2021,126,oecd,asylum_inflow
+Czechia,2015,8,oecd,inflow
+Czechia,2016,5,oecd,inflow
+Czechia,2015,6,oecd,outflow
+Czechia,2016,4,oecd,outflow
+Czechia,2017,5,oecd,outflow
+Czechia,2018,7,oecd,outflow
+Czechia,2019,7,oecd,outflow
+Czechia,2020,4,oecd,outflow
+Czechia,2021,3,oecd,outflow
+Czechia,2015,0,oecd,asylum_inflow
+Czechia,2016,4,oecd,asylum_inflow
+Czechia,2017,5,oecd,asylum_inflow
+Czechia,2018,0,oecd,asylum_inflow
+Czechia,2019,0,oecd,asylum_inflow
+Czechia,2020,0,oecd,asylum_inflow
+Czechia,2021,0,oecd,asylum_inflow
+Denmark,2015,88,oecd,inflow
+Denmark,2016,87,oecd,inflow
+Denmark,2017,71,oecd,inflow
+Denmark,2018,57,oecd,inflow
+Denmark,2019,46,oecd,inflow
+Denmark,2020,47,oecd,inflow
+Denmark,2021,54,oecd,inflow
+Denmark,2015,54,oecd,outflow
+Denmark,2016,56,oecd,outflow
+Denmark,2017,71,oecd,outflow
+Denmark,2018,52,oecd,outflow
+Denmark,2019,59,oecd,outflow
+Denmark,2020,31,oecd,outflow
+Denmark,2021,35,oecd,outflow
+Denmark,2015,0,oecd,asylum_inflow
+Denmark,2016,11,oecd,asylum_inflow
+Denmark,2017,15,oecd,asylum_inflow
+Denmark,2018,10,oecd,asylum_inflow
+Denmark,2019,20,oecd,asylum_inflow
+Denmark,2020,5,oecd,asylum_inflow
+Denmark,2021,5,oecd,asylum_inflow
+Finland,2015,67,oecd,inflow
+Finland,2016,112,oecd,inflow
+Finland,2017,87,oecd,inflow
+Finland,2018,64,oecd,inflow
+Finland,2019,80,oecd,inflow
+Finland,2020,111,oecd,inflow
+Finland,2021,122,oecd,inflow
+Finland,2015,4,oecd,outflow
+Finland,2016,6,oecd,outflow
+Finland,2017,4,oecd,outflow
+Finland,2018,14,oecd,outflow
+Finland,2019,12,oecd,outflow
+Finland,2020,16,oecd,outflow
+Finland,2021,7,oecd,outflow
+Finland,2015,28,oecd,asylum_inflow
+Finland,2016,86,oecd,asylum_inflow
+Finland,2017,45,oecd,asylum_inflow
+Finland,2018,55,oecd,asylum_inflow
+Finland,2019,60,oecd,asylum_inflow
+Finland,2020,25,oecd,asylum_inflow
+Finland,2021,25,oecd,asylum_inflow
+France,2015,3164,oecd,inflow
+France,2016,3197,oecd,inflow
+France,2017,3446,oecd,inflow
+France,2018,3400,oecd,inflow
+France,2019,3647,oecd,inflow
+France,2020,3384,oecd,inflow
+France,2021,4024,oecd,inflow
+France,2022,3815,oecd,inflow
+France,2015,384,oecd,asylum_inflow
+France,2016,397,oecd,asylum_inflow
+France,2017,605,oecd,asylum_inflow
+France,2018,1020,oecd,asylum_inflow
+France,2019,1290,oecd,asylum_inflow
+France,2020,855,oecd,asylum_inflow
+France,2021,975,oecd,asylum_inflow
+Germany,2015,3189,oecd,inflow
+Germany,2016,3109,oecd,inflow
+Germany,2017,2583,oecd,inflow
+Germany,2018,3790,oecd,inflow
+Germany,2019,4228,oecd,inflow
+Germany,2020,1889,oecd,inflow
+Germany,2021,1978,oecd,inflow
+Germany,2015,980,oecd,outflow
+Germany,2016,1301,oecd,outflow
+Germany,2017,1095,oecd,outflow
+Germany,2018,1251,oecd,outflow
+Germany,2019,1543,oecd,outflow
+Germany,2020,1218,oecd,outflow
+Germany,2021,977,oecd,outflow
+Germany,2015,964,oecd,asylum_inflow
+Germany,2016,1351,oecd,asylum_inflow
+Germany,2017,1100,oecd,asylum_inflow
+Germany,2018,920,oecd,asylum_inflow
+Germany,2019,815,oecd,asylum_inflow
+Germany,2020,475,oecd,asylum_inflow
+Germany,2021,385,oecd,asylum_inflow
+Greece,2015,155,oecd,asylum_inflow
+Greece,2016,211,oecd,asylum_inflow
+Greece,2017,455,oecd,asylum_inflow
+Greece,2018,1035,oecd,asylum_inflow
+Greece,2019,855,oecd,asylum_inflow
+Greece,2020,395,oecd,asylum_inflow
+Greece,2021,190,oecd,asylum_inflow
+Hungary,2015,63,oecd,inflow
+Hungary,2016,95,oecd,inflow
+Hungary,2017,80,oecd,inflow
+Hungary,2018,40,oecd,inflow
+Hungary,2019,32,oecd,inflow
+Hungary,2020,13,oecd,inflow
+Hungary,2021,17,oecd,inflow
+Hungary,2015,25,oecd,outflow
+Hungary,2016,22,oecd,outflow
+Hungary,2017,41,oecd,outflow
+Hungary,2018,13,oecd,outflow
+Hungary,2019,3,oecd,outflow
+Hungary,2020,59,oecd,outflow
+Hungary,2021,38,oecd,outflow
+Hungary,2015,628,oecd,asylum_inflow
+Hungary,2016,9,oecd,asylum_inflow
+Hungary,2017,10,oecd,asylum_inflow
+Hungary,2018,0,oecd,asylum_inflow
+Hungary,2019,0,oecd,asylum_inflow
+Hungary,2020,0,oecd,asylum_inflow
+Hungary,2021,0,oecd,asylum_inflow
+Iceland,2015,3,oecd,inflow
+Iceland,2016,4,oecd,inflow
+Iceland,2017,1,oecd,inflow
+Iceland,2018,0,oecd,inflow
+Iceland,2019,7,oecd,inflow
+Iceland,2020,6,oecd,inflow
+Iceland,2021,3,oecd,inflow
+Iceland,2015,2,oecd,outflow
+Iceland,2016,1,oecd,outflow
+Iceland,2017,3,oecd,outflow
+Iceland,2018,1,oecd,outflow
+Iceland,2019,1,oecd,outflow
+Iceland,2020,4,oecd,outflow
+Iceland,2021,0,oecd,outflow
+Iceland,2015,0,oecd,asylum_inflow
+Iceland,2016,1,oecd,asylum_inflow
+Iceland,2018,0,oecd,asylum_inflow
+Iceland,2019,0,oecd,asylum_inflow
+Iceland,2020,0,oecd,asylum_inflow
+Iceland,2021,0,oecd,asylum_inflow
+Ireland,2015,0,oecd,asylum_inflow
+Ireland,2016,4,oecd,asylum_inflow
+Ireland,2017,20,oecd,asylum_inflow
+Ireland,2018,25,oecd,asylum_inflow
+Ireland,2019,30,oecd,asylum_inflow
+Ireland,2020,10,oecd,asylum_inflow
+Ireland,2021,5,oecd,asylum_inflow
+Italy,2015,821,oecd,inflow
+Italy,2016,1242,oecd,inflow
+Italy,2017,2006,oecd,inflow
+Italy,2018,1700,oecd,inflow
+Italy,2019,991,oecd,inflow
+Italy,2020,685,oecd,inflow
+Italy,2021,818,oecd,inflow
+Italy,2015,68,oecd,outflow
+Italy,2016,55,oecd,outflow
+Italy,2017,88,oecd,outflow
+Italy,2018,67,oecd,outflow
+Italy,2019,179,oecd,outflow
+Italy,2020,92,oecd,outflow
+Italy,2021,196,oecd,outflow
+Italy,2015,332,oecd,asylum_inflow
+Italy,2016,1989,oecd,asylum_inflow
+Italy,2017,1995,oecd,asylum_inflow
+Italy,2018,495,oecd,asylum_inflow
+Italy,2019,175,oecd,asylum_inflow
+Italy,2020,185,oecd,asylum_inflow
+Italy,2021,335,oecd,asylum_inflow
+Japan,2015,131,oecd,inflow
+Japan,2016,138,oecd,inflow
+Japan,2017,209,oecd,inflow
+Japan,2018,136,oecd,inflow
+Japan,2019,211,oecd,inflow
+Japan,2020,42,oecd,inflow
+Japan,2021,22,oecd,inflow
+Japan,2015,121,oecd,outflow
+Japan,2016,104,oecd,outflow
+Japan,2017,140,oecd,outflow
+Japan,2018,110,oecd,outflow
+Japan,2019,161,oecd,outflow
+Japan,2020,35,oecd,outflow
+Japan,2021,41,oecd,outflow
+Japan,2015,51,oecd,asylum_inflow
+Japan,2016,66,oecd,asylum_inflow
+Japan,2017,98,oecd,asylum_inflow
+Japan,2018,203,oecd,asylum_inflow
+Japan,2019,234,oecd,asylum_inflow
+Japan,2020,0,oecd,asylum_inflow
+Japan,2021,0,oecd,asylum_inflow
+Korea,2015,157,oecd,inflow
+Korea,2016,252,oecd,inflow
+Korea,2017,240,oecd,inflow
+Korea,2018,174,oecd,inflow
+Korea,2019,105,oecd,inflow
+Korea,2020,53,oecd,inflow
+Korea,2021,71,oecd,inflow
+Korea,2015,102,oecd,outflow
+Korea,2016,139,oecd,outflow
+Korea,2017,147,oecd,outflow
+Korea,2018,145,oecd,outflow
+Korea,2019,202,oecd,outflow
+Korea,2020,117,oecd,outflow
+Korea,2021,108,oecd,outflow
+Korea,2015,70,oecd,asylum_inflow
+Korea,2016,121,oecd,asylum_inflow
+Korea,2017,151,oecd,asylum_inflow
+Korea,2018,185,oecd,asylum_inflow
+Korea,2019,120,oecd,asylum_inflow
+Korea,2020,62,oecd,asylum_inflow
+Korea,2021,48,oecd,asylum_inflow
+Luxembourg,2015,77,oecd,inflow
+Luxembourg,2016,70,oecd,inflow
+Luxembourg,2017,114,oecd,inflow
+Luxembourg,2018,155,oecd,inflow
+Luxembourg,2019,130,oecd,inflow
+Luxembourg,2020,125,oecd,inflow
+Luxembourg,2021,192,oecd,inflow
+Luxembourg,2015,24,oecd,outflow
+Luxembourg,2016,14,oecd,outflow
+Luxembourg,2017,23,oecd,outflow
+Luxembourg,2018,40,oecd,outflow
+Luxembourg,2019,83,oecd,outflow
+Luxembourg,2020,27,oecd,outflow
+Luxembourg,2021,55,oecd,outflow
+Luxembourg,2015,0,oecd,asylum_inflow
+Luxembourg,2016,18,oecd,asylum_inflow
+Luxembourg,2017,15,oecd,asylum_inflow
+Luxembourg,2018,15,oecd,asylum_inflow
+Luxembourg,2019,25,oecd,asylum_inflow
+Luxembourg,2020,20,oecd,asylum_inflow
+Luxembourg,2021,25,oecd,asylum_inflow
+Mexico,2015,12,oecd,inflow
+Mexico,2016,15,oecd,inflow
+Mexico,2017,14,oecd,inflow
+Mexico,2018,15,oecd,inflow
+Mexico,2019,21,oecd,inflow
+Mexico,2020,25,oecd,inflow
+Mexico,2021,18,oecd,inflow
+Mexico,2022,18,oecd,inflow
+Mexico,2016,23,oecd,asylum_inflow
+Mexico,2017,105,oecd,asylum_inflow
+Mexico,2019,513,oecd,asylum_inflow
+Mexico,2020,50,oecd,asylum_inflow
+Mexico,2021,81,oecd,asylum_inflow
+Netherlands,2015,68,oecd,inflow
+Netherlands,2016,68,oecd,inflow
+Netherlands,2017,95,oecd,inflow
+Netherlands,2018,98,oecd,inflow
+Netherlands,2019,113,oecd,inflow
+Netherlands,2020,96,oecd,inflow
+Netherlands,2021,115,oecd,inflow
+Netherlands,2015,45,oecd,outflow
+Netherlands,2016,46,oecd,outflow
+Netherlands,2017,29,oecd,outflow
+Netherlands,2018,32,oecd,outflow
+Netherlands,2019,31,oecd,outflow
+Netherlands,2020,27,oecd,outflow
+Netherlands,2021,50,oecd,outflow
+Netherlands,2015,11,oecd,asylum_inflow
+Netherlands,2016,18,oecd,asylum_inflow
+Netherlands,2017,40,oecd,asylum_inflow
+Netherlands,2018,30,oecd,asylum_inflow
+Netherlands,2019,50,oecd,asylum_inflow
+Netherlands,2020,35,oecd,asylum_inflow
+Netherlands,2021,15,oecd,asylum_inflow
+New Zealand,2015,10,oecd,inflow
+New Zealand,2016,9,oecd,inflow
+New Zealand,2017,2,oecd,inflow
+New Zealand,2018,2,oecd,inflow
+New Zealand,2019,15,oecd,inflow
+New Zealand,2020,9,oecd,inflow
+New Zealand,2022,6,oecd,inflow
+New Zealand,2015,1,oecd,outflow
+New Zealand,2016,4,oecd,outflow
+New Zealand,2017,3,oecd,outflow
+New Zealand,2018,2,oecd,outflow
+New Zealand,2019,2,oecd,outflow
+New Zealand,2020,3,oecd,outflow
+New Zealand,2022,3,oecd,outflow
+New Zealand,2015,0,oecd,asylum_inflow
+New Zealand,2016,1,oecd,asylum_inflow
+Norway,2015,56,oecd,inflow
+Norway,2016,37,oecd,inflow
+Norway,2017,56,oecd,inflow
+Norway,2018,46,oecd,inflow
+Norway,2019,48,oecd,inflow
+Norway,2020,22,oecd,inflow
+Norway,2021,40,oecd,inflow
+Norway,2015,20,oecd,outflow
+Norway,2016,20,oecd,outflow
+Norway,2017,21,oecd,outflow
+Norway,2018,23,oecd,outflow
+Norway,2019,11,oecd,outflow
+Norway,2020,39,oecd,outflow
+Norway,2021,31,oecd,outflow
+Norway,2015,10,oecd,asylum_inflow
+Norway,2016,4,oecd,asylum_inflow
+Norway,2017,5,oecd,asylum_inflow
+Norway,2018,10,oecd,asylum_inflow
+Norway,2019,15,oecd,asylum_inflow
+Norway,2020,5,oecd,asylum_inflow
+Norway,2021,5,oecd,asylum_inflow
+Poland,2015,96,oecd,inflow
+Poland,2016,81,oecd,inflow
+Poland,2017,65,oecd,inflow
+Poland,2018,101,oecd,inflow
+Poland,2019,92,oecd,inflow
+Poland,2020,67,oecd,inflow
+Poland,2021,131,oecd,inflow
+Poland,2015,0,oecd,asylum_inflow
+Poland,2016,0,oecd,asylum_inflow
+Poland,2018,0,oecd,asylum_inflow
+Poland,2019,0,oecd,asylum_inflow
+Poland,2020,5,oecd,asylum_inflow
+Poland,2021,10,oecd,asylum_inflow
+Portugal,2015,0,oecd,asylum_inflow
+Portugal,2016,10,oecd,asylum_inflow
+Portugal,2017,30,oecd,asylum_inflow
+Portugal,2018,25,oecd,asylum_inflow
+Portugal,2019,45,oecd,asylum_inflow
+Portugal,2020,15,oecd,asylum_inflow
+Portugal,2021,0,oecd,asylum_inflow
+Slovak Republic,2019,1,oecd,inflow
+Slovak Republic,2015,0,oecd,asylum_inflow
+Slovak Republic,2016,0,oecd,asylum_inflow
+Slovak Republic,2018,0,oecd,asylum_inflow
+Slovak Republic,2019,0,oecd,asylum_inflow
+Slovak Republic,2020,0,oecd,asylum_inflow
+Slovak Republic,2021,5,oecd,asylum_inflow
+Spain,2015,443,oecd,inflow
+Spain,2016,480,oecd,inflow
+Spain,2017,622,oecd,inflow
+Spain,2018,541,oecd,inflow
+Spain,2019,595,oecd,inflow
+Spain,2015,352,oecd,outflow
+Spain,2016,336,oecd,outflow
+Spain,2017,436,oecd,outflow
+Spain,2018,350,oecd,outflow
+Spain,2019,374,oecd,outflow
+Spain,2015,136,oecd,asylum_inflow
+Spain,2016,124,oecd,asylum_inflow
+Spain,2017,740,oecd,asylum_inflow
+Spain,2018,260,oecd,asylum_inflow
+Spain,2019,225,oecd,asylum_inflow
+Spain,2020,65,oecd,asylum_inflow
+Spain,2021,135,oecd,asylum_inflow
+Sweden,2015,111,oecd,inflow
+Sweden,2016,107,oecd,inflow
+Sweden,2017,127,oecd,inflow
+Sweden,2018,170,oecd,inflow
+Sweden,2019,245,oecd,inflow
+Sweden,2020,169,oecd,inflow
+Sweden,2021,162,oecd,inflow
+Sweden,2015,128,oecd,outflow
+Sweden,2016,31,oecd,outflow
+Sweden,2017,17,oecd,outflow
+Sweden,2018,19,oecd,outflow
+Sweden,2019,13,oecd,outflow
+Sweden,2020,13,oecd,outflow
+Sweden,2021,26,oecd,outflow
+Sweden,2015,44,oecd,asylum_inflow
+Sweden,2016,50,oecd,asylum_inflow
+Sweden,2017,70,oecd,asylum_inflow
+Sweden,2018,125,oecd,asylum_inflow
+Sweden,2019,130,oecd,asylum_inflow
+Sweden,2020,125,oecd,asylum_inflow
+Sweden,2021,90,oecd,asylum_inflow
+Switzerland,2015,277,oecd,inflow
+Switzerland,2016,251,oecd,inflow
+Switzerland,2017,242,oecd,inflow
+Switzerland,2018,204,oecd,inflow
+Switzerland,2019,219,oecd,inflow
+Switzerland,2020,249,oecd,inflow
+Switzerland,2021,224,oecd,inflow
+Switzerland,2015,50,oecd,outflow
+Switzerland,2016,66,oecd,outflow
+Switzerland,2017,63,oecd,outflow
+Switzerland,2018,52,oecd,outflow
+Switzerland,2019,47,oecd,outflow
+Switzerland,2020,33,oecd,outflow
+Switzerland,2021,50,oecd,outflow
+Switzerland,2015,44,oecd,asylum_inflow
+Switzerland,2016,251,oecd,asylum_inflow
+Switzerland,2017,210,oecd,asylum_inflow
+Switzerland,2018,60,oecd,asylum_inflow
+Switzerland,2019,50,oecd,asylum_inflow
+Switzerland,2020,40,oecd,asylum_inflow
+Switzerland,2021,35,oecd,asylum_inflow
+Türkiye,2016,304,oecd,inflow
+Türkiye,2017,280,oecd,inflow
+Türkiye,2018,329,oecd,inflow
+Türkiye,2019,560,oecd,inflow
+Türkiye,2020,339,oecd,inflow
+Türkiye,2021,1207,oecd,inflow
+Türkiye,2015,14,oecd,asylum_inflow
+Türkiye,2016,26,oecd,asylum_inflow
+Türkiye,2019,0,oecd,asylum_inflow
+Türkiye,2020,0,oecd,asylum_inflow
+Türkiye,2021,0,oecd,asylum_inflow
+United Kingdom,2015,151,oecd,asylum_inflow
+United Kingdom,2016,185,oecd,asylum_inflow
+United Kingdom,2017,235,oecd,asylum_inflow
+United Kingdom,2018,230,oecd,asylum_inflow
+United Kingdom,2019,254,oecd,asylum_inflow
+United Kingdom,2020,129,oecd,asylum_inflow
+United Kingdom,2021,124,oecd,asylum_inflow
+United States,2015,4311,oecd,inflow
+United States,2016,4763,oecd,inflow
+United States,2017,4602,oecd,inflow
+United States,2018,4105,oecd,inflow
+United States,2019,4281,oecd,inflow
+United States,2020,2747,oecd,inflow
+United States,2021,3506,oecd,inflow
+United States,2015,821,oecd,asylum_inflow
+United States,2016,1348,oecd,asylum_inflow
+United States,2017,1840,oecd,asylum_inflow
+United States,2018,1383,oecd,asylum_inflow
+United States,2019,2147,oecd,asylum_inflow
+United States,2020,1708,oecd,asylum_inflow
+United States,2021,412,oecd,asylum_inflow
+Chile,2015,2,oecd,inflow
+Chile,2016,6,oecd,inflow
+Chile,2016,0,oecd,asylum_inflow
+Estonia,2015,12,oecd,inflow
+Estonia,2016,15,oecd,inflow
+Estonia,2017,29,oecd,inflow
+Estonia,2018,22,oecd,inflow
+Estonia,2019,25,oecd,inflow
+Estonia,2017,7,oecd,outflow
+Estonia,2018,2,oecd,outflow
+Estonia,2019,2,oecd,outflow
+Estonia,2015,0,oecd,asylum_inflow
+Estonia,2016,3,oecd,asylum_inflow
+Estonia,2018,0,oecd,asylum_inflow
+Estonia,2019,0,oecd,asylum_inflow
+Estonia,2020,0,oecd,asylum_inflow
+Estonia,2021,0,oecd,asylum_inflow
+Israel,2019,11,oecd,asylum_inflow
+Israel,2020,5,oecd,asylum_inflow
+Israel,2021,0,oecd,asylum_inflow
+Lithuania,2016,5,oecd,inflow
+Lithuania,2017,13,oecd,inflow
+Lithuania,2018,23,oecd,inflow
+Lithuania,2019,64,oecd,inflow
+Lithuania,2020,58,oecd,inflow
+Lithuania,2021,52,oecd,inflow
+Lithuania,2019,7,oecd,outflow
+Lithuania,2020,17,oecd,outflow
+Lithuania,2021,39,oecd,outflow
+Lithuania,2015,0,oecd,asylum_inflow
+Lithuania,2016,0,oecd,asylum_inflow
+Lithuania,2018,0,oecd,asylum_inflow
+Lithuania,2019,0,oecd,asylum_inflow
+Lithuania,2020,0,oecd,asylum_inflow
+Lithuania,2021,120,oecd,asylum_inflow
+Slovenia,2015,3,oecd,inflow
+Slovenia,2016,1,oecd,inflow
+Slovenia,2017,8,oecd,inflow
+Slovenia,2018,2,oecd,inflow
+Slovenia,2019,3,oecd,inflow
+Slovenia,2020,2,oecd,inflow
+Slovenia,2021,0,oecd,inflow
+Slovenia,2015,2,oecd,outflow
+Slovenia,2016,2,oecd,outflow
+Slovenia,2017,2,oecd,outflow
+Slovenia,2018,2,oecd,outflow
+Slovenia,2019,2,oecd,outflow
+Slovenia,2020,3,oecd,outflow
+Slovenia,2015,0,oecd,asylum_inflow
+Slovenia,2016,3,oecd,asylum_inflow
+Slovenia,2018,0,oecd,asylum_inflow
+Slovenia,2019,0,oecd,asylum_inflow
+Slovenia,2020,0,oecd,asylum_inflow
+Slovenia,2021,25,oecd,asylum_inflow
+Australia,2015,450.0,oecd,stock_birth
+Australia,2016,480.0,oecd,stock_birth
+Australia,2017,510.0,oecd,stock_birth
+Australia,2018,540.0,oecd,stock_birth
+Australia,2019,570.0,oecd,stock_birth
+Australia,2020,610.0,oecd,stock_birth
+Australia,2021,610.0,oecd,stock_birth
+Lithuania,2015,7.0,oecd,stock_birth
+Lithuania,2016,0.0,oecd,stock_birth
+Lithuania,2017,2.0,oecd,stock_birth
+Lithuania,2018,10.0,oecd,stock_birth
+Lithuania,2019,30.0,oecd,stock_birth
+Lithuania,2020,88.0,oecd,stock_birth
+Lithuania,2021,130.0,oecd,stock_birth
+Lithuania,2022,26.0,oecd,stock_birth
+United Kingdom,2015,11000.0,oecd,stock_birth
+United Kingdom,2017,12000.0,oecd,stock_birth
+United Kingdom,2018,1000.0,oecd,stock_birth
+Netherlands,2015,1860.0,oecd,stock_birth
+Netherlands,2016,1865.0,oecd,stock_birth
+Netherlands,2017,1860.0,oecd,stock_birth
+Netherlands,2018,1886.0,oecd,stock_birth
+Netherlands,2019,1943.0,oecd,stock_birth
+Netherlands,2020,2031.0,oecd,stock_birth
+Netherlands,2021,2094.0,oecd,stock_birth
+Netherlands,2022,2150.0,oecd,stock_birth
+Hungary,2015,266.0,oecd,stock_birth
+Hungary,2016,281.0,oecd,stock_birth
+Hungary,2017,331.0,oecd,stock_birth
+Hungary,2018,332.0,oecd,stock_birth
+Hungary,2019,312.0,oecd,stock_birth
+Hungary,2020,303.0,oecd,stock_birth
+Hungary,2021,256.0,oecd,stock_birth
+Hungary,2022,230.0,oecd,stock_birth
+Slovenia,2015,17.0,oecd,stock_birth
+Slovenia,2016,18.0,oecd,stock_birth
+Slovenia,2017,15.0,oecd,stock_birth
+Slovenia,2018,22.0,oecd,stock_birth
+Slovenia,2019,21.0,oecd,stock_birth
+Slovenia,2020,22.0,oecd,stock_birth
+Slovenia,2021,22.0,oecd,stock_birth
+Slovenia,2022,21.0,oecd,stock_birth
+Italy,2015,11327,oecd,stock_birth
+Italy,2016,12096,oecd,stock_birth
+Italy,2017,13028,oecd,stock_birth
+Italy,2018,14316,oecd,stock_birth
+Italy,2019,14973,oecd,stock_birth
+Italy,2020,15220,oecd,stock_birth
+Italy,2021,15214,oecd,stock_birth
+Italy,2022,14756,oecd,stock_birth
+Denmark,2015,721,oecd,stock_birth
+Denmark,2016,755,oecd,stock_birth
+Denmark,2017,796,oecd,stock_birth
+Denmark,2018,813,oecd,stock_birth
+Denmark,2019,835,oecd,stock_birth
+Denmark,2020,840,oecd,stock_birth
+Denmark,2021,866,oecd,stock_birth
+Denmark,2022,910,oecd,stock_birth
+Switzerland,2015,4068,oecd,stock_nationality
+Switzerland,2016,4170,oecd,stock_nationality
+Switzerland,2017,4164,oecd,stock_nationality
+Switzerland,2018,4150,oecd,stock_nationality
+Switzerland,2019,4134,oecd,stock_nationality
+Switzerland,2020,4167,oecd,stock_nationality
+Switzerland,2021,4259,oecd,stock_nationality
+Switzerland,2022,4355,oecd,stock_nationality
+United States,2015,28926,oecd,stock_nationality
+United States,2016,24611,oecd,stock_nationality
+United States,2017,32946,oecd,stock_nationality
+United States,2018,38824,oecd,stock_nationality
+United States,2019,38790,oecd,stock_nationality
+United States,2021,34849,oecd,stock_nationality
+Slovak Republic,2015,10,oecd,stock_nationality
+Slovak Republic,2016,12,oecd,stock_nationality
+Slovak Republic,2017,13,oecd,stock_nationality
+Slovak Republic,2018,13,oecd,stock_nationality
+Slovak Republic,2019,13,oecd,stock_nationality
+Slovak Republic,2020,14,oecd,stock_nationality
+Slovak Republic,2021,15,oecd,stock_nationality
+Slovak Republic,2022,17,oecd,stock_nationality
+Spain,2015,5023,oecd,stock_nationality
+Spain,2016,5048,oecd,stock_nationality
+Spain,2017,5057,oecd,stock_nationality
+Spain,2018,5201,oecd,stock_nationality
+Spain,2019,5328,oecd,stock_nationality
+Spain,2020,5468,oecd,stock_nationality
+Estonia,2015,12,oecd,stock_nationality
+Estonia,2016,21,oecd,stock_nationality
+Estonia,2017,30,oecd,stock_nationality
+Estonia,2018,54,oecd,stock_nationality
+Estonia,2019,73,oecd,stock_nationality
+Estonia,2020,92,oecd,stock_nationality
+Czechia,2015,99,oecd,stock_birth
+Czechia,2016,97,oecd,stock_birth
+Czechia,2017,107,oecd,stock_birth
+Czechia,2018,115,oecd,stock_birth
+Czechia,2019,124,oecd,stock_birth
+Czechia,2020,123,oecd,stock_birth
+Czechia,2021,146,oecd,stock_birth
+Czechia,2022,120,oecd,stock_birth
+Austria,2015,555,oecd,stock_nationality
+Austria,2016,606,oecd,stock_nationality
+Austria,2017,613,oecd,stock_nationality
+Austria,2018,629,oecd,stock_nationality
+Austria,2019,633,oecd,stock_nationality
+Austria,2020,615,oecd,stock_nationality
+Austria,2021,625,oecd,stock_nationality
+Austria,2022,646,oecd,stock_nationality
+Netherlands,2015,660,oecd,stock_nationality
+Netherlands,2016,619,oecd,stock_nationality
+Netherlands,2017,570,oecd,stock_nationality
+Netherlands,2018,606,oecd,stock_nationality
+Netherlands,2019,615,oecd,stock_nationality
+Netherlands,2020,673,oecd,stock_nationality
+Netherlands,2021,689,oecd,stock_nationality
+Netherlands,2022,700,oecd,stock_nationality
+Mexico,2015,43,oecd,stock_birth
+Japan,2015,454,oecd,stock_nationality
+Japan,2016,473,oecd,stock_nationality
+Japan,2017,521,oecd,stock_nationality
+Japan,2018,627,oecd,stock_nationality
+Japan,2019,692,oecd,stock_nationality
+Japan,2020,857,oecd,stock_nationality
+Japan,2021,1059,oecd,stock_nationality
+Japan,2022,1047,oecd,stock_nationality
+Korea,2015,599,oecd,stock_nationality
+Korea,2016,676,oecd,stock_nationality
+Korea,2017,789,oecd,stock_nationality
+Korea,2018,850,oecd,stock_nationality
+Korea,2019,879,oecd,stock_nationality
+Korea,2020,818,oecd,stock_nationality
+Korea,2021,847,oecd,stock_nationality
+Korea,2022,847,oecd,stock_nationality
+Slovak Republic,2015,10,oecd,stock_birth
+Slovak Republic,2016,13,oecd,stock_birth
+Slovak Republic,2017,14,oecd,stock_birth
+Slovak Republic,2018,15,oecd,stock_birth
+Slovak Republic,2019,16,oecd,stock_birth
+Slovak Republic,2020,17,oecd,stock_birth
+Slovak Republic,2021,18,oecd,stock_birth
+Slovak Republic,2022,10,oecd,stock_birth
+Finland,2015,805,oecd,stock_nationality
+Finland,2016,853,oecd,stock_nationality
+Finland,2017,918,oecd,stock_nationality
+Finland,2018,954,oecd,stock_nationality
+Finland,2019,959,oecd,stock_nationality
+Finland,2020,986,oecd,stock_nationality
+Finland,2021,1062,oecd,stock_nationality
+Finland,2022,1167,oecd,stock_nationality
+Czechia,2022,169,oecd,stock_nationality
+Germany,2015,10000,oecd,stock_birth
+Denmark,2015,684,oecd,stock_nationality
+Denmark,2016,741,oecd,stock_nationality
+Denmark,2017,749,oecd,stock_nationality
+Denmark,2018,767,oecd,stock_nationality
+Denmark,2019,794,oecd,stock_nationality
+Denmark,2020,819,oecd,stock_nationality
+Denmark,2021,836,oecd,stock_nationality
+Denmark,2022,854,oecd,stock_nationality
+Slovenia,2015,12,oecd,stock_nationality
+Slovenia,2016,13,oecd,stock_nationality
+Slovenia,2017,12,oecd,stock_nationality
+Slovenia,2018,18,oecd,stock_nationality
+Slovenia,2019,18,oecd,stock_nationality
+Slovenia,2020,19,oecd,stock_nationality
+Slovenia,2021,18,oecd,stock_nationality
+Slovenia,2022,16,oecd,stock_nationality
+Iceland,2015,6,oecd,stock_nationality
+Iceland,2016,6,oecd,stock_nationality
+Iceland,2017,7,oecd,stock_nationality
+Iceland,2018,5,oecd,stock_nationality
+Iceland,2019,4,oecd,stock_nationality
+Iceland,2020,10,oecd,stock_nationality
+Iceland,2021,11,oecd,stock_nationality
+Iceland,2022,11,oecd,stock_nationality
+Canada,2016,12125,oecd,stock_nationality
+Canada,2021,17375,oecd,stock_nationality
+Italy,2015,12414,oecd,stock_nationality
+Italy,2016,12738,oecd,stock_nationality
+Italy,2017,13308,oecd,stock_nationality
+Italy,2018,14529,oecd,stock_nationality
+Italy,2019,15170,oecd,stock_nationality
+Italy,2020,15329,oecd,stock_nationality
+Italy,2021,15581,oecd,stock_nationality
+Italy,2022,15013,oecd,stock_nationality
+Belgium,2015,16056,oecd,stock_birth
+Belgium,2016,17080,oecd,stock_birth
+Belgium,2017,18182,oecd,stock_birth
+Belgium,2018,19438,oecd,stock_birth
+Belgium,2019,20783,oecd,stock_birth
+Belgium,2020,22352,oecd,stock_birth
+Belgium,2021,23521,oecd,stock_birth
+Belgium,2022,25786,oecd,stock_birth
+Ireland,2016,959,oecd,stock_birth
+Hungary,2015,230,oecd,stock_nationality
+Hungary,2016,239,oecd,stock_nationality
+Hungary,2017,295,oecd,stock_nationality
+Hungary,2018,286,oecd,stock_nationality
+Hungary,2019,267,oecd,stock_nationality
+Hungary,2020,250,oecd,stock_nationality
+Hungary,2021,205,oecd,stock_nationality
+Hungary,2022,173,oecd,stock_nationality
+Finland,2015,789,oecd,stock_birth
+Finland,2016,853,oecd,stock_birth
+Finland,2017,952,oecd,stock_birth
+Finland,2018,1024,oecd,stock_birth
+Finland,2019,1070,oecd,stock_birth
+Finland,2020,1124,oecd,stock_birth
+Finland,2021,1196,oecd,stock_birth
+Finland,2022,1297,oecd,stock_birth
+Sweden,2015,1379,oecd,stock_birth
+Sweden,2016,1360,oecd,stock_birth
+Sweden,2017,1412,oecd,stock_birth
+Sweden,2018,1509,oecd,stock_birth
+Sweden,2019,1662,oecd,stock_birth
+Sweden,2020,1895,oecd,stock_birth
+Sweden,2021,2051,oecd,stock_birth
+Sweden,2022,2211,oecd,stock_birth
+Mexico,2015,112,oecd,stock_nationality
+Mexico,2016,112,oecd,stock_nationality
+Mexico,2017,119,oecd,stock_nationality
+Mexico,2018,135,oecd,stock_nationality
+Mexico,2019,125,oecd,stock_nationality
+Mexico,2020,133,oecd,stock_nationality
+Luxembourg,2017,899,oecd,stock_birth
+Luxembourg,2018,1031,oecd,stock_birth
+Luxembourg,2019,1204,oecd,stock_birth
+Luxembourg,2020,1273,oecd,stock_birth
+Luxembourg,2021,1417,oecd,stock_birth
+Luxembourg,2022,1603,oecd,stock_birth
+United States,2015,51172,oecd,stock_birth
+United States,2016,49430,oecd,stock_birth
+United States,2017,56799,oecd,stock_birth
+United States,2018,78008,oecd,stock_birth
+United States,2019,72634,oecd,stock_birth
+United States,2020,72090,oecd,stock_birth
+United States,2021,94138,oecd,stock_birth
+Switzerland,2015,7193,oecd,stock_birth
+Switzerland,2016,7421,oecd,stock_birth
+Switzerland,2017,7634,oecd,stock_birth
+Switzerland,2018,7841,oecd,stock_birth
+Switzerland,2019,8008,oecd,stock_birth
+Switzerland,2020,8171,oecd,stock_birth
+Switzerland,2021,8451,oecd,stock_birth
+Switzerland,2022,8692,oecd,stock_birth
+Norway,2015,686,oecd,stock_birth
+Norway,2016,717,oecd,stock_birth
+Norway,2017,738,oecd,stock_birth
+Norway,2018,774,oecd,stock_birth
+Norway,2019,805,oecd,stock_birth
+Norway,2020,835,oecd,stock_birth
+Norway,2021,817,oecd,stock_birth
+Norway,2022,836,oecd,stock_birth
+Chile,2017,0,oecd,stock_birth
+Germany,2015,18301,oecd,stock_nationality
+Germany,2016,19800,oecd,stock_nationality
+Germany,2017,21610,oecd,stock_nationality
+Germany,2018,22320,oecd,stock_nationality
+Germany,2019,24220,oecd,stock_nationality
+Germany,2020,26255,oecd,stock_nationality
+Germany,2021,26635,oecd,stock_nationality
+Germany,2022,27545,oecd,stock_nationality
+France,2015,54007,oecd,stock_nationality
+France,2016,55347,oecd,stock_nationality
+France,2017,56800,oecd,stock_nationality
+France,2018,58848,oecd,stock_nationality
+France,2019,59388,oecd,stock_nationality
+France,2020,65631,oecd,stock_nationality
+France,2021,66440,oecd,stock_nationality
+Ireland,2016,412,oecd,stock_nationality
+Ireland,2022,344,oecd,stock_nationality
+Austria,2015,664,oecd,stock_birth
+Austria,2016,734,oecd,stock_birth
+Austria,2017,772,oecd,stock_birth
+Austria,2018,799,oecd,stock_birth
+Austria,2019,792,oecd,stock_birth
+Austria,2020,792,oecd,stock_birth
+Austria,2021,818,oecd,stock_birth
+Austria,2022,825,oecd,stock_birth
+Iceland,2015,7,oecd,stock_birth
+Iceland,2016,7,oecd,stock_birth
+Iceland,2017,9,oecd,stock_birth
+Iceland,2018,7,oecd,stock_birth
+Iceland,2019,6,oecd,stock_birth
+Iceland,2020,12,oecd,stock_birth
+Iceland,2021,13,oecd,stock_birth
+Iceland,2022,16,oecd,stock_birth
+Chile,2017,0,oecd,stock_nationality
+Norway,2015,305,oecd,stock_nationality
+Norway,2016,324,oecd,stock_nationality
+Norway,2017,306,oecd,stock_nationality
+Norway,2018,307,oecd,stock_nationality
+Norway,2019,325,oecd,stock_nationality
+Norway,2020,341,oecd,stock_nationality
+Norway,2021,315,oecd,stock_nationality
+Norway,2022,313,oecd,stock_nationality
+France,2015,95762,oecd,stock_birth
+France,2016,98636,oecd,stock_birth
+France,2017,101485,oecd,stock_birth
+France,2018,104360,oecd,stock_birth
+France,2019,106123,oecd,stock_birth
+France,2020,113518,oecd,stock_birth
+France,2021,115431,oecd,stock_birth
+Lithuania,2015,7,oecd,stock_nationality
+Lithuania,2016,0,oecd,stock_nationality
+Lithuania,2017,1,oecd,stock_nationality
+Lithuania,2018,10,oecd,stock_nationality
+Lithuania,2019,30,oecd,stock_nationality
+Lithuania,2020,87,oecd,stock_nationality
+Lithuania,2021,128,oecd,stock_nationality
+Lithuania,2022,198,oecd,stock_nationality
+Estonia,2015,16,oecd,stock_birth
+Estonia,2016,28,oecd,stock_birth
+Estonia,2017,39,oecd,stock_birth
+Estonia,2018,62,oecd,stock_birth
+Estonia,2019,81,oecd,stock_birth
+Estonia,2020,103,oecd,stock_birth
+Spain,2015,5275,oecd,stock_birth
+Spain,2016,5352,oecd,stock_birth
+Spain,2017,5484,oecd,stock_birth
+Spain,2018,5656,oecd,stock_birth
+Spain,2019,5833,oecd,stock_birth
+Spain,2020,6064,oecd,stock_birth
+New Zealand,2018,54,oecd,stock_birth
+Luxembourg,2015,417,oecd,stock_nationality
+Luxembourg,2016,468,oecd,stock_nationality
+Luxembourg,2017,480,oecd,stock_nationality
+Luxembourg,2018,551,oecd,stock_nationality
+Luxembourg,2019,641,oecd,stock_nationality
+Luxembourg,2020,659,oecd,stock_nationality
+Luxembourg,2021,737,oecd,stock_nationality
+Luxembourg,2022,871,oecd,stock_nationality
+Sweden,2015,1045,oecd,stock_nationality
+Sweden,2016,971,oecd,stock_nationality
+Sweden,2017,961,oecd,stock_nationality
+Sweden,2018,942,oecd,stock_nationality
+Sweden,2019,998,oecd,stock_nationality
+Sweden,2020,1205,oecd,stock_nationality
+Sweden,2021,1300,oecd,stock_nationality
+Sweden,2022,1395,oecd,stock_nationality
+Portugal,2015,132,oecd,stock_nationality
+Portugal,2016,127,oecd,stock_nationality
+Portugal,2017,169,oecd,stock_nationality
+Portugal,2018,148,oecd,stock_nationality
+Portugal,2019,172,oecd,stock_nationality
+Portugal,2020,183,oecd,stock_nationality
+Portugal,2021,221,oecd,stock_nationality
+Portugal,2022,249,oecd,stock_nationality
+Türkiye,2015,364,oecd,stock_nationality
+Türkiye,2016,542,oecd,stock_nationality
+Türkiye,2017,726,oecd,stock_nationality
+Türkiye,2018,773,oecd,stock_nationality
+Türkiye,2019,862,oecd,stock_nationality
+Türkiye,2020,1188,oecd,stock_nationality
+Türkiye,2021,2100,oecd,stock_nationality
+Türkiye,2022,1990,oecd,stock_nationality
+Belgium,2015,11238,oecd,stock_nationality
+Belgium,2016,11707,oecd,stock_nationality
+Belgium,2017,12204,oecd,stock_nationality
+Belgium,2018,12828,oecd,stock_nationality
+Belgium,2019,13439,oecd,stock_nationality
+Belgium,2020,14229,oecd,stock_nationality
+Belgium,2021,14719,oecd,stock_nationality
+Belgium,2022,16152,oecd,stock_nationality
+Hungary,2015,8,oecd,worker_inflow
+Hungary,2016,2,oecd,worker_inflow
+Hungary,2017,7,oecd,worker_inflow
+Hungary,2018,4,oecd,worker_inflow
+Hungary,2019,7,oecd,worker_inflow
+Hungary,2020,0,oecd,worker_inflow
+Hungary,2021,1,oecd,worker_inflow
+Sweden,2017,2,oecd,seasonal_worker_inflow
+Sweden,2018,2,oecd,seasonal_worker_inflow
+Sweden,2019,4,oecd,seasonal_worker_inflow
+Sweden,2020,12,oecd,seasonal_worker_inflow
+Sweden,2021,11,oecd,seasonal_worker_inflow
+Slovenia,2015,1,oecd,worker_inflow
+Slovenia,2017,1,oecd,worker_inflow
+Korea,2021,0,oecd,seasonal_worker_inflow
+Belgium,2015,738,oecd,citizenship_acquisition
+Belgium,2016,845,oecd,citizenship_acquisition
+Belgium,2017,872,oecd,citizenship_acquisition
+Belgium,2018,955,oecd,citizenship_acquisition
+Belgium,2019,1046,oecd,citizenship_acquisition
+Belgium,2020,945,oecd,citizenship_acquisition
+Belgium,2021,1196,oecd,citizenship_acquisition
+Poland,2015,5,oecd,citizenship_acquisition
+Poland,2016,5,oecd,citizenship_acquisition
+Poland,2017,4,oecd,citizenship_acquisition
+Poland,2018,9,oecd,citizenship_acquisition
+Poland,2019,13,oecd,citizenship_acquisition
+Poland,2020,9,oecd,citizenship_acquisition
+Poland,2021,8,oecd,citizenship_acquisition
+Mexico,2015,4,oecd,worker_inflow
+Mexico,2016,2,oecd,worker_inflow
+Mexico,2017,2,oecd,worker_inflow
+Mexico,2018,3,oecd,worker_inflow
+Mexico,2019,4,oecd,worker_inflow
+France,2015,3125.0,oecd,citizenship_acquisition
+France,2016,3377.0,oecd,citizenship_acquisition
+France,2017,3137.0,oecd,citizenship_acquisition
+France,2018,2502.0,oecd,citizenship_acquisition
+France,2019,2463.0,oecd,citizenship_acquisition
+France,2020,2108.0,oecd,citizenship_acquisition
+France,2021,3841.0,oecd,citizenship_acquisition
+Mexico,2015,7.0,oecd,citizenship_acquisition
+Mexico,2016,6.0,oecd,citizenship_acquisition
+Mexico,2017,4.0,oecd,citizenship_acquisition
+Mexico,2018,8.0,oecd,citizenship_acquisition
+Mexico,2019,4.0,oecd,citizenship_acquisition
+Germany,2015,1078.0,oecd,citizenship_acquisition
+Germany,2016,918.0,oecd,citizenship_acquisition
+Germany,2017,949.0,oecd,citizenship_acquisition
+Germany,2018,905.0,oecd,citizenship_acquisition
+Germany,2019,955.0,oecd,citizenship_acquisition
+Germany,2020,895.0,oecd,citizenship_acquisition
+Germany,2021,845.0,oecd,citizenship_acquisition
+Italy,2015,521.0,oecd,citizenship_acquisition
+Italy,2016,658.0,oecd,citizenship_acquisition
+Italy,2017,488.0,oecd,citizenship_acquisition
+Italy,2018,303.0,oecd,citizenship_acquisition
+Italy,2019,401.0,oecd,citizenship_acquisition
+Italy,2020,304.0,oecd,citizenship_acquisition
+Italy,2021,272.0,oecd,citizenship_acquisition
+Denmark,2015,38.0,oecd,worker_inflow
+Denmark,2016,47.0,oecd,worker_inflow
+Denmark,2017,48.0,oecd,worker_inflow
+Denmark,2018,20.0,oecd,worker_inflow
+Denmark,2019,14.0,oecd,worker_inflow
+Denmark,2020,9.0,oecd,worker_inflow
+Denmark,2021,17.0,oecd,worker_inflow
+Canada,2015,384.0,oecd,worker_inflow
+Canada,2016,480.0,oecd,worker_inflow
+Canada,2017,570.0,oecd,worker_inflow
+Canada,2018,625.0,oecd,worker_inflow
+Switzerland,2015,165.0,oecd,citizenship_acquisition
+Switzerland,2016,218.0,oecd,citizenship_acquisition
+Switzerland,2017,209.0,oecd,citizenship_acquisition
+Switzerland,2018,176.0,oecd,citizenship_acquisition
+Switzerland,2019,149.0,oecd,citizenship_acquisition
+Switzerland,2020,121.0,oecd,citizenship_acquisition
+Switzerland,2021,113.0,oecd,citizenship_acquisition
+Norway,2015,27.0,oecd,citizenship_acquisition
+Norway,2016,38.0,oecd,citizenship_acquisition
+Norway,2017,39.0,oecd,citizenship_acquisition
+Norway,2018,15.0,oecd,citizenship_acquisition
+Norway,2019,25.0,oecd,citizenship_acquisition
+Norway,2020,15.0,oecd,citizenship_acquisition
+Norway,2021,15.0,oecd,citizenship_acquisition
+Poland,2015,0.0,oecd,seasonal_worker_inflow
+Poland,2016,0.0,oecd,seasonal_worker_inflow
+Poland,2017,0.0,oecd,seasonal_worker_inflow
+Poland,2018,0.0,oecd,seasonal_worker_inflow
+Poland,2019,0.0,oecd,seasonal_worker_inflow
+Poland,2020,0.0,oecd,seasonal_worker_inflow
+Poland,2021,0.0,oecd,seasonal_worker_inflow
+Netherlands,2015,6.0,oecd,worker_inflow
+Netherlands,2016,8.0,oecd,worker_inflow
+Netherlands,2017,13.0,oecd,worker_inflow
+Netherlands,2018,17.0,oecd,worker_inflow
+Netherlands,2019,31.0,oecd,worker_inflow
+Netherlands,2020,29.0,oecd,worker_inflow
+Netherlands,2021,45.0,oecd,worker_inflow
+Netherlands,2022,54.0,oecd,worker_inflow
+Ireland,2015,1.0,oecd,worker_inflow
+Ireland,2016,2.0,oecd,worker_inflow
+Ireland,2017,8.0,oecd,worker_inflow
+Ireland,2018,5.0,oecd,worker_inflow
+Ireland,2019,3.0,oecd,worker_inflow
+Ireland,2020,3.0,oecd,worker_inflow
+Ireland,2021,3.0,oecd,worker_inflow
+Portugal,2015,5,oecd,citizenship_acquisition
+Portugal,2016,12,oecd,citizenship_acquisition
+Luxembourg,2015,6,oecd,citizenship_acquisition
+Luxembourg,2016,18,oecd,citizenship_acquisition
+Luxembourg,2017,20,oecd,citizenship_acquisition
+Luxembourg,2018,19,oecd,citizenship_acquisition
+Luxembourg,2019,26,oecd,citizenship_acquisition
+Luxembourg,2020,15,oecd,citizenship_acquisition
+Luxembourg,2021,14,oecd,citizenship_acquisition
+Australia,2016,3,oecd,worker_inflow
+Australia,2017,3,oecd,worker_inflow
+Australia,2018,3,oecd,worker_inflow
+Australia,2019,3,oecd,worker_inflow
